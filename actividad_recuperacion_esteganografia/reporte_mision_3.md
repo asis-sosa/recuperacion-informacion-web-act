@@ -1,0 +1,5 @@
+# Misión 3: El Cifrado Cromático (El Reto Híbrido HSV + LSB)
+
+3. **Sobre la Lógica de Recuperación (Misión 3):** Si en la Misión 3 intentaras extraer el mensaje LSB de toda la imagen completa (sin usar la máscara amarilla primero), ¿qué obtendrías como texto? ¿Cómo demuestra esto que el color actuó como una "llave de acceso"?
+
+Si se extrajera el mensaje de toda la imagen, se tomaria el bit menos significativo de toda la imagen, lo que produciria una serie de caracteres que no tendrian ningun tipo de coherencia como texto, siendo esto como texto basura, cosa diferenete a si solo se analiza los bits que se encuentra en el rango buscado (Para este caso para el amarillo pardo), tomando solo en cuenta estos bits, sin importar la separacion entre pixeles que tengan, se alinearian de forma que se pueda crear una clase de texto oculto, se podria decir que es por esto que se podria considerar una clase de llave de acceso al primero separar los pixeles del color que buscamos para posteriormente extraer su bit menos significante.
