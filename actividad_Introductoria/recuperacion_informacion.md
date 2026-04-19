@@ -539,7 +539,39 @@ El contenido es bastante superficial con acceso a un solo documento que solo cue
 >- - Noticias políticas B
 >- Comparar resultados obtenidos.
 
-### 3.2 Economía de la atención
+**Noticias políticas A**
+
+- https://efe.com/ciencia-y-tecnologia/2024-07-31/ia-politica-centro-izquierda/
+
+El estudio cuenta con un analisis de modelos de IA, ademas de detectar tendencias hacia posturas centro-izquierda. Señala muchas herramientas tecnologicas que no son neutrales, inclusive sugiere un sesgo que puede venir del entrenamiento de datos o diseños de sistemas.
+
+- https://scisimple.com/es/articles/2025-05-31-la-influencia-oculta-de-los-algoritmos-de-redes-sociales-en-la-politica--akeyn6r
+
+Aqui se muestra algoritmos con contenidos acorde a lo que el usuario que ya cree, los usuarios de izquierda  consumen mas contenido de izquierda y viceversa, ademas se generan burbujas informativas donde se refuerzan ideas previas.
+
+- https://www.pandasecurity.com/es/mediacenter/algoritmo-ia-politico-noticias/
+
+Aqui se habla de plataformas que priorizan contenido que genera clics, ya sea emocional o polemico, esto ocasion mas noticias falsas (fake news) y polarizacion. Los algoritmos no buscan verdad absoluta, sino engagement.
+
+**Noticias políticas B**
+
+- https://elpais.com/tecnologia/2026-02-18/el-algoritmo-de-la-red-social-x-prioriza-contenido-conservador-sobre-informaciones-contrastadas.html
+
+Aqui, en este estudio se muestra que el algoritmo de la red social X favorece al contenido de derecha, aumentando la visibilidad de temas conservadores y reduciendo los medios tradicionales. Puede influir en opiniones politicas de los usuarios.
+
+- https://arxiv.org/abs/2110.11010
+
+Esta investigacion aclara que los algoritmos amplifican mas el contenido de derecha, viendose en varios paises, no unicamente en uno, esto no necesariamente cambia la ideologia, pero si podria la exposicion.
+
+- https://prnoticias.com/2024/07/16/sesgo-mediatico-una-marcada-desigualdad-en-el-uso-de-los-extremismos/
+
+Algunos medios enfatizan más temas relacionados con la derecha, llegando casi al extremismo, su cobertura puede ser desigual dependiendo del enfoque editorial que se este aplicando y refuerza percepciones distintas de la realidad.
+
+**Comparar resultados obtenidos**
+
+Es posible identificar que, en ambos casos los resultados en ambas busquedas no ofrecen algoritmos neutrales, sino mas bien que en ambos casos cuentan con una tendencia a mostrar contenidos con interes similares (Para la busqueda de noticias politicas A, resultados similares entre si y mismo caso con las noticias politicas B), inclusive con sentido emocional o politico. El termino "Burbuja de filtros" es posible presenciarse en ambos casos.
+
+### 3.2 Economía de la atención - Por complementar.
 
 **Actividad**
 
@@ -549,6 +581,87 @@ El contenido es bastante superficial con acceso a un solo documento que solo cue
 >- - Contenido
 >- - Palabras clave predominantes
 
+**Uso de la Inteligencia Artificial en el empleo (¿la IA reemplazará trabajos?)**
+
+**Comparativa**
+
+**Título**
+
+“Uno de cada cuatro empleos está en riesgo de transformarse por la IA”
+
+**Contenido**
+
+La IA no necesariamente elimina empleos, pero sí los transforma.
+Aproximadamente 1 de cada 4 trabajos podría verse afectado.
+Se enfatiza la necesidad de:
+Adaptación
+Capacitación
+Políticas públicas
+Presenta un enfoque global, basado en datos y análisis social.
+
+**Palabras clave predominantes**
+
+- “transformación”
+- “empleos”
+- “riesgo”
+- “adaptación”
+- “políticas”
+
+**Enlace**
+
+- https://news.un.org/es/story/2025/05/1538911
+
+**Título**
+
+“La inteligencia artificial y el futuro del trabajo”
+
+**Contenido**
+
+Explica cómo la IA está cambiando el mundo laboral.
+Plantea dos posturas:
+La IA elimina empleos
+La IA crea nuevas oportunidades
+Destaca:
+Automatización de tareas
+Nuevas habilidades necesarias
+Evolución del trabajo humano
+Tiene un enfoque más general y divulgativo.
+
+**Palabras clave predominantes**
+
+- “futuro”
+- “automatización”
+- “cambio”
+- “oportunidades”
+- “tecnología”
+
+**Enlace**
+
+- https://inteligenciaartificial.io/la-inteligencia-artificial-y-el-futuro-del-trabajo/
+
+**Título**
+
+“La IA podría dejarte sin trabajo antes de lo que imaginas”
+
+**Contenido**
+
+Usa tono directo hacia el lector (“te dejará sin trabajo”).
+Mezcla información real con exageraciones.
+Busca generar preocupación inmediata.
+No profundiza mucho en soluciones.
+
+**Palabras clave predominantes**
+
+- “podría”
+- “pronto”
+- “impacto”
+- “amenaza”
+- “cambio”
+
+**Enlace**
+
+- https://www.infobae.com/mexico/
+
 ### 3.3 Vigilancia y privacidad
 
 **Actividad**
@@ -557,6 +670,100 @@ El contenido es bastante superficial con acceso a un solo documento que solo cue
 >- - "vigilancia digital"
 >- - "surveillance capitalism"
 >- Analizar profundidad de resultados.
+
+**Vigilancia Digital**
+
+- https://veselin.es/vigilancia-digital-y-control-social-actual/
+
+Explica qué es la vigilancia digital: recopilación de datos mediante redes, dispositivos y plataformas.
+Describe tipos:
+Gubernamental
+Corporativa
+Social
+Analiza impactos:
+Pérdida de privacidad
+Autocensura
+Manipulación social
+Incluye ejemplos y tecnologías (IA, Big Data, reconocimiento facial).
+También ofrece consejos prácticos de protección.
+
+- https://protecciondedatos.com.ar/vigilancia-digital-estrategias-contemporaneas-para-la-proteccion-de-datos-en-la-red/
+
+Se centra en la protección de datos frente a la vigilancia digital.
+Explica herramientas de seguridad:
+Contraseñas seguras
+Autenticación 2FA
+Cifrado
+VPN
+Describe cómo funciona la vigilancia:
+Recolección de datos
+Monitoreo de redes
+Uso por gobiernos y empresas
+Enfatiza la seguridad digital y buenas prácticas del usuario.
+
+**surveillance capitalism**
+
+- https://www.britannica.com/topic/surveillance-capitalism
+
+Define el concepto como un modelo donde empresas recopilan datos para generar ganancias.
+Explica que:
+los usuarios son monitoreados sin pleno consentimiento
+los datos se usan para predecir y modificar comportamiento
+Describe etapas del fenómeno (según Shoshana Zuboff):
+recolección
+normalización
+modificación del comportamiento
+Relaciona con:
+publicidad
+política
+inteligencia artificial
+
+- https://www.hks.harvard.edu/centers/carr-ryan/publications/geopolitics-surveillance-capitalism
+
+Analiza el capitalismo de vigilancia como un sistema global y político.
+No solo es negocio, sino:
+estructura económica
+sistema de poder internacional
+Explica que:
+los datos son una forma de control
+existen intereses de gobiernos, empresas e instituciones
+Introduce conceptos complejos como:
+“economía extractiva de datos”
+impacto en democracia y privacidad
+Propone que el problema requiere cambios estructurales, no solo técnicos
+
+**Profundidad**
+
+Profundidad de la búsqueda “vigilancia digital”
+
+Nivel de profundidad: medio – práctico
+
+Explica el fenómeno, pero a nivel:
+cotidiano
+técnico básico
+Se enfoca en:
+qué es
+cómo afecta
+cómo protegerse
+
+Característica clave:
+Es información accesible, directa y orientada al usuario común
+
+Profundidad de la búsqueda “surveillance capitalism”
+
+Nivel de profundidad: alto – teórico y crítico
+
+Analiza:
+economía
+política
+poder global
+No se enfoca en el usuario individual, sino en:
+sistemas
+estructuras
+ideologías
+
+Característica clave:
+Es información académica, abstracta y crítica
 
 ### 3.4 Plataformas digitales y control de la información
 
