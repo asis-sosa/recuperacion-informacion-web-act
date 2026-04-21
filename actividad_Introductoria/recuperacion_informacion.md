@@ -591,13 +591,7 @@ Es posible identificar que, en ambos casos los resultados en ambas busquedas no 
 
 **Contenido**
 
-La IA no necesariamente elimina empleos, pero sí los transforma.
-Aproximadamente 1 de cada 4 trabajos podría verse afectado.
-Se enfatiza la necesidad de:
-Adaptación
-Capacitación
-Políticas públicas
-Presenta un enfoque global, basado en datos y análisis social.
+Se indica que la IA no necesariamente elimina empleos, sino mas bien que los transforma. Aproximadamente 1 de cada 4 trabajos podrian verse afectados por esta transofmracion, enfatizandoo en la necesidad de: 1) Adaptacion, 2) Capacitacion y 3) Politicas publicas, representando un enfoque global, basado en datos y anslsis sociales.
 
 **Palabras clave predominantes**
 
@@ -617,15 +611,7 @@ Presenta un enfoque global, basado en datos y análisis social.
 
 **Contenido**
 
-Explica cómo la IA está cambiando el mundo laboral.
-Plantea dos posturas:
-La IA elimina empleos
-La IA crea nuevas oportunidades
-Destaca:
-Automatización de tareas
-Nuevas habilidades necesarias
-Evolución del trabajo humano
-Tiene un enfoque más general y divulgativo.
+Aqui se explica como la IA esta cambiando el mundo laboral, planteando dos posturas: 1) La eliminacion de empleos por la IA y 2) La creacion de nuevas oportunidades por la IA, destacando los siguientes puntos: 1) La automatizacion de tareas, 2) Nuevas habilidades necesarias y 3) La evolucion del trabajo humano. Todo esto con un enfoque mas general y divulgativo.
 
 **Palabras clave predominantes**
 
@@ -645,10 +631,7 @@ Tiene un enfoque más general y divulgativo.
 
 **Contenido**
 
-Usa tono directo hacia el lector (“te dejará sin trabajo”).
-Mezcla información real con exageraciones.
-Busca generar preocupación inmediata.
-No profundiza mucho en soluciones.
+Utiliza un tono agresivo y directo hacia el lector, mezclando informacion real exagerada para generar preocupaciones inmediatas. No profundiza mucho en soluciones.
 
 **Palabras clave predominantes**
 
@@ -675,95 +658,60 @@ No profundiza mucho en soluciones.
 
 - https://veselin.es/vigilancia-digital-y-control-social-actual/
 
-Explica qué es la vigilancia digital: recopilación de datos mediante redes, dispositivos y plataformas.
-Describe tipos:
-Gubernamental
-Corporativa
-Social
-Analiza impactos:
-Pérdida de privacidad
-Autocensura
-Manipulación social
-Incluye ejemplos y tecnologías (IA, Big Data, reconocimiento facial).
-También ofrece consejos prácticos de protección.
+Aqui se explica qué es la vigilancia digital: recopilación de datos mediante redes, dispositivos y plataformas, describiendo tipos como: 1) Gubernamental, 2) Corporativa y 3) Social, ademas de analizar impactos como: 1) Pérdida de privacidad, 2) Autocensura y 3) Manipulación social, incluyendo ejemplos y tecnologías como: 1) IA, 2) Big Data y 3) Reconocimiento facial. De igual manera ofrece consejos prácticos de protección.
 
 - https://protecciondedatos.com.ar/vigilancia-digital-estrategias-contemporaneas-para-la-proteccion-de-datos-en-la-red/
 
-Se centra en la protección de datos frente a la vigilancia digital.
-Explica herramientas de seguridad:
-Contraseñas seguras
-Autenticación 2FA
-Cifrado
-VPN
-Describe cómo funciona la vigilancia:
-Recolección de datos
-Monitoreo de redes
-Uso por gobiernos y empresas
-Enfatiza la seguridad digital y buenas prácticas del usuario.
+En este otro se centra en la protección de datos frente a la vigilancia digital, explicando herramientas de seguridad: 1) Contraseñas seguras, 2) Autenticación 2FA, 3) Cifrado y 4) VPN, del mismo modo describe cómo funciona la vigilancia, siendo por medio de: 1) La recolección de datos, 2) Monitoreo de redes y 3) Uso por gobiernos y empresas. Enfatiza la seguridad digital y buenas prácticas del usuario.
 
 **surveillance capitalism**
 
 - https://www.britannica.com/topic/surveillance-capitalism
 
-Define el concepto como un modelo donde empresas recopilan datos para generar ganancias.
-Explica que:
-los usuarios son monitoreados sin pleno consentimiento
-los datos se usan para predecir y modificar comportamiento
-Describe etapas del fenómeno (según Shoshana Zuboff):
-recolección
-normalización
-modificación del comportamiento
-Relaciona con:
-publicidad
-política
-inteligencia artificial
+Se define el concepto como un modelo donde empresas recopilan datos para generar ganancias, explicando que: 1) Los usuarios son monitoreados sin pleno consentimiento y 2) Los datos se usan para predecir y modificar comportamiento. Incluye tambien una descripcion de las etapas del fenómeno (según Shoshana Zuboff) siendo las siguientes: 1) Recolección, 2) Normalización y 3) Modificación del comportamiento, todo esto con relacion de: 1) Publicidad, 2) Política e 3) Inteligencia artificial.
 
 - https://www.hks.harvard.edu/centers/carr-ryan/publications/geopolitics-surveillance-capitalism
 
-Analiza el capitalismo de vigilancia como un sistema global y político.
-No solo es negocio, sino:
-estructura económica
-sistema de poder internacional
-Explica que:
-los datos son una forma de control
-existen intereses de gobiernos, empresas e instituciones
-Introduce conceptos complejos como:
-“economía extractiva de datos”
-impacto en democracia y privacidad
-Propone que el problema requiere cambios estructurales, no solo técnicos
+Aqui se realiza un analisis del capitalismo de vigilancia como un sistema global y político, remarcando que no solo es negocio, sino que es: 1) Una estructura económica y 2) Sistema de poder internacional, detalla que: 1) Los datos son una forma de control y 2) Existen intereses de gobiernos, empresas e instituciones, dentro agrega conceptos muy complejos como: 1) “Economía extractiva de datos” y 2) Impacto en democracia y privacidad. Aqui se propone que el problema requiere cambios estructurales, no solo técnicos.
 
 **Profundidad**
 
-Profundidad de la búsqueda “vigilancia digital”
+**Profundidad de la búsqueda “vigilancia digital”**
 
-Nivel de profundidad: medio – práctico
+Cuenta con un nivel de profundidad: medio
 
 Explica el fenómeno, pero a nivel:
-cotidiano
-técnico básico
-Se enfoca en:
-qué es
-cómo afecta
-cómo protegerse
+- Cotidiano.
+- Técnico básico.
 
-Característica clave:
-Es información accesible, directa y orientada al usuario común
+Se enfoca principalmente en:
+- qué es.
+- cómo afecta.
+- cómo protegerse
 
-Profundidad de la búsqueda “surveillance capitalism”
+Puntos claves:
+- Es información accesible
+- Directa
+- Orientada al usuario común
 
-Nivel de profundidad: alto – teórico y crítico
+**Profundidad de la búsqueda “surveillance capitalism”**
+
+Cuenta con un Nivel de profundidad: alto
 
 Analiza:
-economía
-política
-poder global
-No se enfoca en el usuario individual, sino en:
-sistemas
-estructuras
-ideologías
+- Economía.
+- Política.
+- Poder global.
 
-Característica clave:
-Es información académica, abstracta y crítica
+No solo se enfoca en el usuario individual, sino en:
+- Sistemas.
+- Estructuras.
+- Ideologías
+
+Puntos claves:
+- Es información académica
+- Abstracta
+- Crítica
 
 ### 3.4 Plataformas digitales y control de la información
 
@@ -774,6 +722,91 @@ Es información académica, abstracta y crítica
 >- - Bing
 >- - DuckDuckGo
 >- Comparar ranking y diversidad de fuentes.
+
+**Google**
+
+**Enlaces**
+
+- https://www.unesco.org/es/digital-education/artificial-intelligence
+- https://ie.ort.edu.uy/blog/el-impacto-de-la-inteligencia-artificial-en-la-educacion-y-en-la-docencia
+- https://puebla.anahuac.mx/licenciaturas/blog/inteligencia-artificial-educacion
+
+**Ranking**
+
+Ranking:
+- UNESCO (organismo internacional)
+- Universidad ORT (blog académico)
+- Universidad Anáhuac (blog universitario)
+
+Análisis: Google prioriza instituciones reconocidas y confiables, mezclando: 1) Organismos internacionales, 2) Universidades y 3) Enfoques en credibilidad y autoridad.
+
+**Diversidad de Fuentes**
+
+Tipos de fuentes:
+- Organismo internacional (UNESCO)
+- Universidades
+- Nivel de diversidad: Media-Alta
+
+Ventaja: Información confiable y accesible
+
+Limitación: Menos variedad de perspectivas críticas o técnicas
+
+**Bing**
+
+**Enlaces**
+
+- https://revistapsicologiaeducativa.unam.mx/index.php/psicologiaeducativa/article/view/146
+- https://alfabetizaciondigital.redem.org/el-impacto-de-la-inteligencia-artificial-en-la-educacion/
+- https://retosdelacienciaec.com/Revistas/index.php/retos/article/view/536
+
+**Ranking**
+
+Ranking:
+- Revista UNAM (artículo académico)
+- Red de alfabetización digital (blog educativo)
+- Revista científica (Retos de la Ciencia)
+
+Análisis: Bing prioriza contenido más académico y especializado, presenta menos presencia de grandes instituciones globales y esta mas orientado a investigación y publicaciones
+
+**Diversidad de Fuentes**
+
+Tipos de fuentes:
+- Revistas académicas
+- Publicaciones científicas
+- Blogs educativos
+- Nivel de diversidad: Alta
+
+Ventaja: Mayor profundidad y respaldo académico
+
+Limitación: Puede ser más difícil de entender
+
+**DuckDuckGo**
+
+**Enlaces**
+
+- https://alfabetizaciondigital.redem.org/el-impacto-de-la-inteligencia-artificial-en-la-educacion/
+- https://revistapsicologiaeducativa.unam.mx/index.php/psicologiaeducativa/article/view/146
+- https://retosdelacienciaec.com/Revistas/index.php/retos/article/view/536
+
+**Ranking**
+
+Ranking:
+- Alfabetización digital (blog educativo)
+- Revista UNAM (artículo académico)
+- Revista científica (Retos de la Ciencia)
+
+Análisis: DuckDuckGo presenta resultados muy similares a Bing, no hay muchos cambios significativos en orden o tipo, reflejando menos personalización.
+
+**Diversidad de Fuentes**
+
+Tipos de fuentes:
+- Revistas académicas
+- Blogs educativos
+- Nivel de diversidad: Media
+
+Ventaja: Resultados más neutrales (sin personalización)
+
+Limitación: Menor variedad que Google y repite resultados de otros buscadores.
 
 ### 3.5 Desinformación y fake news
 
@@ -791,3 +824,96 @@ Es información académica, abstracta y crítica
 >- - Desactualizada
 >- Producto final
 >- - Informe argumentado con evidencia recuperada.
+
+**Noticia**
+
+*El 5G causa enfermedades graves y debilita el sistema inmunológico*
+
+**Consultas**
+
+- “5G causa enfermedades evidencia científica”
+- “OMS 5G es peligroso o seguro”
+- “mitos sobre el 5G salud humana”
+- “does 5G affect human health research”
+- “fake news 5G enfermedades explicación”
+
+**Evidencia**
+
+- https://www.nationalgeographic.com.es/ciencia/5g-es-riesgo-para-salud-esto-es-que-dice-evidencia-cientifica-2024_22588
+- https://mejorconsalud.as.com/salud/radiacion-red-5g-es-mala-salud/
+- https://www.eltiempo.com/tecnosfera/novedades-tecnologia/la-tecnologia-5g-es-peligrosa-para-la-salud-la-ciencia-responde-con-claridad-836870
+- https://www.coit.es/sites/default/files/exposicion_humana_a_emisiones_5g.pdf
+- https://unife.mx/conoce-los-5-mitos-sobre-los-efectos-del-5g-en-la-salud/
+- https://saludparatodos.mx/4-mitos-sobre-los-efectos-del-5g-en-la-salud/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9806221/
+- https://www.nature.com/articles/s41370-021-00297-6
+- https://verifica.efe.com/5g/
+- https://verificado.com.mx/falso-red-5g-problemas-salud/
+
+**Verificacion**
+
+*Fuentes científicas y académicas (alta confiabilidad)*
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9806221/
+- https://www.nature.com/articles/s41370-021-00297-6
+- https://www.coit.es/sites/default/files/exposicion_humana_a_emisiones_5g.pdf
+
+Análisis: Son artículos científicos o técnicos, basados en estudios revisados o informes especializados, con fechas recientes (2021–2024 aprox.) que utilizan un lenguaje técnico y metodología
+
+*Medios de divulgación y periodismo*
+- https://www.eltiempo.com/tecnosfera/novedades-tecnologia/la-tecnologia-5g-es-peligrosa-para-la-salud-la-ciencia-responde-con-claridad-836870
+- https://www.nationalgeographic.com.es/ciencia/5g-es-riesgo-para-salud-esto-es-que-dice-evidencia-cientifica-2024_22588
+
+Análisis: Traducen información científica a lenguaje accesible, incluyen citas de expertos, realmente actualizados (2023–2024)
+
+*Blogs y sitios divulgativos*
+- https://mejorconsalud.as.com/salud/radiacion-red-5g-es-mala-salud/
+- https://unife.mx/conoce-los-5-mitos-sobre-los-efectos-del-5g-en-la-salud/
+- https://saludparatodos.mx/4-mitos-sobre-los-efectos-del-5g-en-la-salud/
+
+Análisis: Utilizan un lenguaje sencillo al momento de explicar mitos y conceptos generales, hay un menor rigor científico directo
+
+*Plataformas de verificación (fact-checking)*
+- https://verifica.efe.com/5g/
+- https://verificado.com.mx/falso-red-5g-problemas-salud/
+
+Análisis: Se especializan en detectar noticias falsas, Analizan afirmaciones virales y utilizan evidencia científica
+
+**Clasificacion**
+
+**Confirmada**
+
+- https://www.nature.com/articles/s41370-021-00297-6
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9806221/
+- https://www.coit.es/sites/default/files/exposicion_humana_a_emisiones_5g.pdf
+- https://www.nationalgeographic.com.es/ciencia/5g-es-riesgo-para-salud-esto-es-que-dice-evidencia-cientifica-2024_22588
+- https://www.eltiempo.com/tecnosfera/novedades-tecnologia/la-tecnologia-5g-es-peligrosa-para-la-salud-la-ciencia-responde-con-claridad-836870
+
+En su mayoria son estudios cientificos, articulos y documentacion tecnica que analizan efectos, revisiones evidencias cientificas con relacion al tema buscado, todo revisado por organismos profesionales y expertos en el tema.
+
+**Engañosa**
+
+- https://mejorconsalud.as.com/salud/radiacion-red-5g-es-mala-salud/
+
+Contempla una explicacion de lo que es la radiación, pero puede generar alarma. Cuenta con información incompleta o ambigua
+
+**Falsa**
+
+- https://verificado.com.mx/falso-red-5g-problemas-salud/
+- https://verifica.efe.com/5g/
+
+Verifica y desmiente directamente la afirmación, en el primer enlace indica la idea de que el 5G causa enfermedades lo cual es incorrecta, mientras que en el segundo enlace, la plataforma de fact-checking desmiente múltiples mitos sobre el 5G, evidenciando que las afirmaciones virales son incorrectas.
+
+**Desactualizada**
+
+- https://unife.mx/conoce-los-5-mitos-sobre-los-efectos-del-5g-en-la-salud/
+- https://saludparatodos.mx/4-mitos-sobre-los-efectos-del-5g-en-la-salud/
+
+En estos explican mitos, pero de forma general, no profundiza en estudios recientes, ademas de contar con contenido divulgativo básico, simplificando demasiado el tema.
+
+**Informe**
+
+Al revisar y verificar los enlaces adquiridos por medio de las consultas se concluyo que en la mayoria de las fuentes recopiladas se cuenta con evidencia confiable que coinciden en una resolucion, no existen pruebas cientificas de que el 5G cause enfermedades, lo que puede confirmar que esta afirmacion es totalmente falsa.
+
+Sin embargo, en las busquedas tambien se adquirieron algunas fuentes con contenidos bastante engañosos y desactualizados que, aunque no son del todo incorrectos, si que pueden generar confusion al presentar informacion incompleta o fuera de contexto. Ademas de que las plataformas de verificacion participan de forma importante al desmentir activamente este tipo de afirmacion, evidenciando la propagacion de las llamadas fake news en entorno digitales.
+
+Por lo que, se puede concluir que la desinformacion que muchos tenemos se debe principalmente a las interpretaciones erroneas o datos reales incompletos, no solo de informacion falsa.
