@@ -20,7 +20,6 @@
 - Funciona bien con bolsas de palabras (Bag of Words, TF-IDF).
 
 **Máquinas de Soporte Vectorial (SVM)**
-
 - Muy efectivo en clasificación de textos con alta dimensionalidad.
 
 **Regresión Logística**
