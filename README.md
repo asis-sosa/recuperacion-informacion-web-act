@@ -11,11 +11,12 @@ Repositorio que contiene las actividades de la materia de Recuperacion de la Inf
 - Actividad 5: Recuperacion de Informacion Esteganografia.
 - Actividad 6: Reducción de Dimensionalidad en Recuperación de Información - Pendiente.
 - Actividad 7: FUNDAMENTOS Y PRE-PROCESAMIENTO EN NLTK.
-- Actividad 8: Categorizacion de los comentarios - POSITIVO, NEGATIVO, NEUTRO O AMBOS - En proceso.
+- Actividad 8: Categorizacion de los comentarios - POSITIVO, NEGATIVO, NEUTRO O AMBOS.
 - Actividad 9: Tutorial NLTK. Analisis de Sentimientos.
 - Actividad 10: Categorizacion de comentarios en redes sociales - Pendiente.
-- Actividad 11: Algoritmos de aprendizaje supervisado, no supervisado y semi supervisado - En proceso.
-- Actividad 12: Como funcionan la categorizacion en los servicios de streaming y, diferencia entre RNN y Transformer - En proceso.
+- Actividad 11: Algoritmos de aprendizaje supervisado, no supervisado y semi supervisado.
+- Actividad 12: Como funcionan la categorizacion en los servicios de streaming y, diferencia entre RNN y Transformer.
+- Actividad 13: Analizar la pagina de "Cosas Perdidas" para adquirir comentarios positivos, negativos, neutros y sarcasticos - En proceso.
 
 ## Autor
 Sebastian Asis Sosa Santiago
