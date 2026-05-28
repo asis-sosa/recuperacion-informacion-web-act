@@ -18,7 +18,9 @@ Repositorio que contiene las actividades de la materia de Recuperacion de la Inf
 - Actividad 12: Como funcionan la categorizacion en los servicios de streaming y, diferencia entre RNN y Transformer.
 - Actividad 13: Analizar la pagina de "Cosas Perdidas" para adquirir comentarios positivos, negativos, neutros y sarcasticos.
 - Actividad 14: Búsqueda y Recuperación de Información.
-- Actividad 15: Proyecto Final: Sistema Inteligente de Monitoreo y Análisis de Noticias Web 2026 Enero Junio - Pendiente
+- Actividad 15: Actividad Previa Web Semantica.
+- Actividad 16: Actividades Extras Web Semantica.
+- Actividad 17: Proyecto Final: Sistema Inteligente de Monitoreo y Análisis de Noticias Web 2026 Enero Junio - En Proceso.
 
 ## Autor
 Sebastian Asis Sosa Santiago
