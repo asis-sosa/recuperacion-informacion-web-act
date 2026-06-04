@@ -1,0 +1,102 @@
+[
+  {
+    "titulo": "Noticia 1 de ejemplo paginado",
+    "resumen": "Contenido de la noticia extraída del sitio simulado.",
+    "url": "https://ejemplo-noticias.com/noticia/1"
+  },
+  {
+    "titulo": "Noticia 2 de ejemplo paginado",
+    "resumen": "Otra noticia con información relevante.",
+    "url": "https://ejemplo-noticias.com/noticia/2"
+  },
+  {
+    "titulo": "Noticia 3 de ejemplo paginado",
+    "resumen": "Tercera noticia de esta página.",
+    "url": "https://ejemplo-noticias.com/noticia/3"
+  },
+  {
+    "titulo": "Noticia 4 de ejemplo paginado",
+    "resumen": "Cuarta noticia del bloque de rastreo.",
+    "url": "https://ejemplo-noticias.com/noticia/4"
+  },
+  {
+    "titulo": "Noticia 5 de ejemplo paginado",
+    "resumen": "Quinta noticia encontrada por el rastreador.",
+    "url": "https://ejemplo-noticias.com/noticia/5"
+  },
+  {
+    "titulo": "Noticia 6 de ejemplo paginado",
+    "resumen": "Contenido de la noticia extraída del sitio simulado.",
+    "url": "https://ejemplo-noticias.com/noticia/6"
+  },
+  {
+    "titulo": "Noticia 7 de ejemplo paginado",
+    "resumen": "Otra noticia con información relevante.",
+    "url": "https://ejemplo-noticias.com/noticia/7"
+  },
+  {
+    "titulo": "Noticia 8 de ejemplo paginado",
+    "resumen": "Tercera noticia de esta página.",
+    "url": "https://ejemplo-noticias.com/noticia/8"
+  },
+  {
+    "titulo": "Noticia 9 de ejemplo paginado",
+    "resumen": "Cuarta noticia del bloque de rastreo.",
+    "url": "https://ejemplo-noticias.com/noticia/9"
+  },
+  {
+    "titulo": "Noticia 10 de ejemplo paginado",
+    "resumen": "Quinta noticia encontrada por el rastreador.",
+    "url": "https://ejemplo-noticias.com/noticia/10"
+  },
+  {
+    "titulo": "Noticia 11 de ejemplo paginado",
+    "resumen": "Contenido de la noticia extraída del sitio simulado.",
+    "url": "https://ejemplo-noticias.com/noticia/11"
+  },
+  {
+    "titulo": "Noticia 12 de ejemplo paginado",
+    "resumen": "Otra noticia con información relevante.",
+    "url": "https://ejemplo-noticias.com/noticia/12"
+  },
+  {
+    "titulo": "Noticia 13 de ejemplo paginado",
+    "resumen": "Tercera noticia de esta página.",
+    "url": "https://ejemplo-noticias.com/noticia/13"
+  },
+  {
+    "titulo": "Noticia 14 de ejemplo paginado",
+    "resumen": "Cuarta noticia del bloque de rastreo.",
+    "url": "https://ejemplo-noticias.com/noticia/14"
+  },
+  {
+    "titulo": "Noticia 15 de ejemplo paginado",
+    "resumen": "Quinta noticia encontrada por el rastreador.",
+    "url": "https://ejemplo-noticias.com/noticia/15"
+  },
+  {
+    "titulo": "Noticia 16 de ejemplo paginado",
+    "resumen": "Contenido de la noticia extraída del sitio simulado.",
+    "url": "https://ejemplo-noticias.com/noticia/16"
+  },
+  {
+    "titulo": "Noticia 17 de ejemplo paginado",
+    "resumen": "Otra noticia con información relevante.",
+    "url": "https://ejemplo-noticias.com/noticia/17"
+  },
+  {
+    "titulo": "Noticia 18 de ejemplo paginado",
+    "resumen": "Tercera noticia de esta página.",
+    "url": "https://ejemplo-noticias.com/noticia/18"
+  },
+  {
+    "titulo": "Noticia 19 de ejemplo paginado",
+    "resumen": "Cuarta noticia del bloque de rastreo.",
+    "url": "https://ejemplo-noticias.com/noticia/19"
+  },
+  {
+    "titulo": "Noticia 20 de ejemplo paginado",
+    "resumen": "Quinta noticia encontrada por el rastreador.",
+    "url": "https://ejemplo-noticias.com/noticia/20"
+  }
+]

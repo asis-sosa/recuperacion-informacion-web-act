@@ -1,0 +1,5428 @@
+[
+  {
+    "@id": "http://simanw.org/data/noticia_75",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-09-15"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La iniciativa combina tecnología inmersiva, simulaciones interactivas y contenidos académicos."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Desarrolladores presentan plataforma de realidad virtual para educación"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_EdTech_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra50"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/categoria_ciencia",
+    "@type": [
+      "http://simanw.org/ontology/Categoria"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "ciencia"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q336"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q336"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q336",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "Ciencia"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/tieneCategoria",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#ObjectProperty"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Ciencia_Global",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Ciencia Global"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_71",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-09-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La innovación podría reducir costos energéticos y disminuir residuos contaminantes."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Investigadores desarrollan baterías más eficientes y sostenibles"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Ciencia_Global"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra46"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Digital_Report",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Digital Report"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Medical_News",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Medical News"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/categoria_videojuegos",
+    "@type": [
+      "http://simanw.org/ontology/Categoria"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "videojuegos"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7889"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7889"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_67",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-15"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los científicos alertan sobre impactos ambientales y económicos asociados al fenómeno."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Investigación confirma reducción acelerada de glaciares"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Ciencia_Global"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_salud"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra42"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_35",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-10"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Jugadores calificaron negativamente las nuevas compras internas, argumentando que afectan la experiencia y favorecen prácticas injustas."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Comunidad gamer critica políticas abusivas de monetización"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.043478260869565216"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra10"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_25",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los analistas destacan el aumento de usuarios y la expansión de competencias electrónicas."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "El mercado de videojuegos continúa creciendo a nivel mundial"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/game5"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_13",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-03-03"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los expertos continúan analizando la información obtenida mediante telescopios de alta precisión."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Observatorio detecta fenómeno astronómico inusual"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Space_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/science3"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_30",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-08"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Pacientes reportaron retrasos, errores de registro y una mala experiencia al intentar programar consultas mediante el sistema digital."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Hospital enfrenta críticas por deficiencias en plataforma de citas"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.18518518518518517"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Reporte_Ciudadano"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra5"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_42",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-14"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Inversionistas reaccionaron negativamente ante pérdidas en empresas de software, semiconductores y plataformas digitales."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Caída de acciones tecnológicas genera preocupación en mercados"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.14285714285714285"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Mercados_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra17"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_72",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-09-04"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los sistemas automatizados ayudan a optimizar procesos y mejorar la productividad."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Empresas aceleran adopción de herramientas de inteligencia artificial"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.05263157894736842"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Digital_Business"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra47"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_26",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-06"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Especialistas celebran el avance porque la herramienta ayuda a detectar enfermedades con mayor precisión y rapidez, generando resultados positivos para pacientes y hospitales."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nueva plataforma médica con inteligencia artificial mejora diagnósticos tempranos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.125"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Digital"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra1"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025",
+    "@type": [
+      "http://www.w3.org/ns/dcat#Dataset"
+    ],
+    "http://datos.gob.mx/tema": [
+      {
+        "@value": "ciencia"
+      }
+    ],
+    "http://datos.gob.mx/tieneRegistro": [
+      {
+        "@id": "http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_0"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_1"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "SEMARNAT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Emisiones CO2 por Sector 2025"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Gaming_Lab",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gaming Lab"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_2",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Tasa de desempleo"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "porcentaje"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "3.1"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_34",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-10"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Hoteles, restaurantes y comercios reportaron aumento de ingresos durante el evento, mientras miles de jugadores asistieron a la competencia."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Torneo de eSports impulsa economía local con resultados positivos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.03571428571428571"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_Economy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra9"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Tech_World",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Tech World"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/sentimientoEtiqueta",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#DatatypeProperty"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_16",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-03-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Especialistas médicos reportan avances significativos para mejorar la calidad de vida de los pacientes."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Hospital desarrolla nuevo tratamiento contra diabetes"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.1"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_salud"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/health1"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_19",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-04"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Hospitales comienzan a utilizar herramientas avanzadas para detectar enfermedades de forma temprana."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nueva tecnología mejora diagnósticos clínicos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.058823529411764705"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Medical_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/health4"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_28",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-07"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Una empresa tecnológica desarrolló un videojuego clínico utilizado en terapias de rehabilitación, con resultados alentadores en coordinación sensorial y movilidad."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Videojuego terapéutico ayuda a mejorar coordinación motriz de pacientes"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.06896551724137931"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Innovación_Médica"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra3"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_29",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-07"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La herramienta digital ofrece seguimiento emocional, ejercicios de respiración y asistencia personalizada, generando comentarios positivos por su facilidad de uso."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Aplicación de salud mental recibe excelentes valoraciones de usuarios"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.06896551724137931"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra4"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_46",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-16"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Investigadores reportan resultados positivos en pacientes que utilizaron aplicaciones interactivas durante procesos de rehabilitación."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nuevo estudio científico confirma beneficios de terapia digital"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.09090909090909091"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Ciencia_Salud"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra21"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_1",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-01-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Diversas empresas tecnológicas han comenzado a implementar sistemas de inteligencia artificial para automatizar tareas repetitivas y mejorar la productividad."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nueva herramienta de inteligencia artificial optimiza procesos empresariales"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.07407407407407407"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Tech_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/tech1"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Space_News",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Space News"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_21",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La industria del gaming celebra uno de los lanzamientos más exitosos del año."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nuevo videojuego de estrategia rompe récords de ventas"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/game1"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_0",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Inflación anual"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "porcentaje"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "4.2"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_56",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-10"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La iniciativa busca ampliar el acceso a internet en comunidades alejadas mediante infraestructura tecnológica."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Gobierno anuncia programa nacional de conectividad rural"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Política_Nacional"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_politica"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra31"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_43",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-14"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Fondos financieros muestran interés positivo en empresas que combinan medicina, datos clínicos e inteligencia artificial."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Startups de salud digital atraen nuevas inversiones"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.045454545454545456"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economía_Salud"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra18"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Salud_Mental",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Salud Mental"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_17",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-03-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Las autoridades sanitarias informaron una alta participación de la población en el programa."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Campaña nacional de vacunación supera expectativas"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_politica"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/health2"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Transparencia_MX",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Transparencia MX"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_20",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los resultados preliminares muestran indicadores positivos para futuras aplicaciones clínicas."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Investigación médica analiza efectos de tratamientos innovadores"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.058823529411764705"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_salud"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/health5"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_69",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-20"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La propuesta incluye sanciones más severas para organizaciones que incumplan regulaciones."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nueva ley busca fortalecer protección de datos personales"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Política_Nacional"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_politica"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra44"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_6",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-02-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Analistas económicos reportan una mejora gradual en los indicadores financieros durante el último trimestre."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Mercados financieros registran crecimiento sostenido"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.10526315789473684"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economy_Daily"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/econ1"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_27",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-06"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El error tecnológico provocó preocupación entre médicos y usuarios, ya que varios diagnósticos fueron demorados y el servicio recibió críticas negativas."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Falla crítica en sistema hospitalario retrasa atención de pacientes"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.2"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Reporte_Salud"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra2"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_41",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-13"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La compañía obtuvo resultados positivos por la venta de software, servicios en la nube e inteligencia artificial empresarial."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Empresa tecnológica reporta crecimiento financiero histórico"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.08333333333333333"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economy_Tech"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra16"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Tech_News",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Tech News"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_62",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-03"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Especialistas recomiendan establecer hábitos saludables para reducir el impacto psicológico del uso intensivo de tecnología."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Aumentan casos de estrés digital entre jóvenes"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Mental"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra37"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_22",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Equipos profesionales compiten por importantes premios y reconocimiento mundial."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Torneo internacional de eSports reúne miles de jugadores"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.058823529411764705"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/game2"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_10",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-02-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Diversos sectores productivos prevén ampliar operaciones y generar empleos durante los próximos meses."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Empresas anuncian nuevas inversiones industriales"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economy_Daily"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/econ5"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_EdTech_News",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "EdTech News"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Digital_Business",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Digital Business"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Gaming_Economy",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gaming Economy"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_1",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Eventos eSports"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "eventos"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "42"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/Noticia",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Class"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_8",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-02-03"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La institución considera que la estabilidad financiera actual permite conservar las políticas monetarias vigentes."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Banco central mantiene tasas de interés"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Financial_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/econ3"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_2",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Hospitales conectados"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "hospitales"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "310"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Educación_Pública",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Educación Pública"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_18",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-03-03"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La actividad física y la alimentación equilibrada continúan siendo factores fundamentales."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Especialistas recomiendan hábitos para prevenir enfermedades"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Medical_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_salud"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/health3"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_15",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-03-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Diversas instituciones anunciaron financiamiento para estudios científicos multidisciplinarios."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Universidades fortalecen proyectos de investigación"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Academic_Review"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_salud"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/science5"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Game_Report",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Game Report"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_47",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-16"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El prototipo presentó errores, bajo rendimiento y fallas inesperadas durante las pruebas de laboratorio."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Experimento tecnológico fracasa y genera resultados negativos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.19047619047619047"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Laboratorio_Tech"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra22"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_33",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-09"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El proyecto científico analiza cómo los entornos interactivos pueden mejorar memoria, atención y resolución de problemas en estudiantes."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Investigadores usan videojuegos para estudiar aprendizaje en jóvenes"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Ciencia_Interactiva"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra8"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Reporte_Ciudadano",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Reporte Ciudadano"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Mercados_Hoy",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Mercados Hoy"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_2",
+    "http://datos.gob.mx/emisiones_mtco2": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "120"
+      }
+    ],
+    "http://datos.gob.mx/sector": [
+      {
+        "@language": "es",
+        "@value": "Industria"
+      }
+    ],
+    "http://datos.gob.mx/variacion": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-3.8"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Seguridad_Digital",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Seguridad Digital"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Salud_Nacional",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Salud Nacional"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_14",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-03-04"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Nuevos materiales permiten aumentar el rendimiento de sistemas de generación limpia."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Avances en energías renovables mejoran eficiencia"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.17647058823529413"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Science_Journal"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/science4"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_2",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Usuarios activos"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "millones"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "18.7"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Economía_Digital",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Economía Digital"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_36",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-11"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La plataforma pública permitirá consultar indicadores de salud, ocupación hospitalaria y recursos médicos mediante tecnología de datos abiertos."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Gobierno anuncia portal de datos abiertos para monitorear hospitales"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gobierno_Digital"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_politica"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra11"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Gaming_Tech",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gaming Tech"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Economy_Gaming",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Economy Gaming"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Laboratorio_Tech",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Laboratorio Tech"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_0",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Expedientes digitales"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "porcentaje"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "72"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_12",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-02-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La expedición científica identificó organismos desconocidos previamente para la comunidad académica."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Descubren especie marina en aguas profundas"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Science_Journal"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/science2"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_65",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-09"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Las ventas digitales y los servicios en línea impulsan los ingresos del sector."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Industria de videojuegos registra crecimiento récord"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.05263157894736842"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_Business"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra40"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Salud_Hoy",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Salud Hoy"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Innovación_Médica",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Innovación Médica"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Tech_Education",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Tech Education"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_4",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-01-04"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El nuevo sistema utiliza redes neuronales para comprender solicitudes complejas y ofrecer respuestas más precisas."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Empresa lanza asistente virtual basado en aprendizaje automático"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Tech_World"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/tech4"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_7",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-02-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los últimos reportes sugieren una reducción moderada en el ritmo de crecimiento de los precios."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Inflación muestra señales de desaceleración"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.05"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economy_Daily"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/econ2"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_70",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-23"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La aplicación permite entrenar procedimientos clínicos en entornos virtuales realistas."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Videojuego de simulación médica gana premio internacional"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_Health"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra45"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_40",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-13"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Organizaciones civiles señalaron errores, ausencia de información y baja calidad en los datos disponibles para consulta ciudadana."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Falta de transparencia en datos públicos provoca críticas"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.08"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Transparencia_MX"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra15"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Ciencia_Interactiva",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Ciencia Interactiva"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_23",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-03"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La actualización incluirá nuevas misiones, personajes y contenido descargable."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Desarrolladora anuncia expansión para popular videojuego"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Game_Report"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/game3"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Economía_Hoy",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Economía Hoy"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_73",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-09-08"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El proyecto contempla equipamiento médico, infraestructura y capacitación especializada."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Autoridades anuncian inversión histórica en hospitales públicos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Nacional"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra48"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Economy_Tech",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Economy Tech"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/categoria_salud",
+    "@type": [
+      "http://simanw.org/ontology/Categoria"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "salud"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q12136"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q12136"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_5",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-02-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Especialistas recomiendan fortalecer la protección de datos ante el aumento de amenazas digitales."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "La ciberseguridad se convierte en prioridad para organizaciones"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Digital_Report"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_salud"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/tech5"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Gaming_Health",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gaming Health"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_39",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Nuevos reportes muestran resultados positivos en la disminución de contaminantes gracias a medidas ambientales y monitoreo tecnológico."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Política ambiental reduce emisiones y mejora indicadores científicos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.08"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Ambiente_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra14"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_59",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-16"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La tecnología permitirá crear personajes y escenarios dinámicos en tiempo real."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Desarrolladores integran IA generativa en motores de videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_Tech"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra34"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_48",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-17"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Universidades y hospitales implementan simuladores de realidad virtual para capacitar cirujanos con resultados favorables."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Sistema de realidad virtual mejora entrenamiento médico"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.09523809523809523"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Ciencia_Médica"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra23"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Gobierno_Digital",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gobierno Digital"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/categoria_tecnologia",
+    "@type": [
+      "http://simanw.org/ontology/Categoria"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "tecnologia"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11016"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q11016"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/sentimientoScore",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#DatatypeProperty"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_31",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-08"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Desarrolladores celebran la tecnología porque permite crear experiencias interactivas más accesibles, dinámicas y útiles para estudiantes."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nuevo motor gráfico revoluciona el desarrollo de videojuegos educativos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.04"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_Lab"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra6"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_2",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-01-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Una nueva plataforma permite a equipos de trabajo coordinar proyectos en tiempo real utilizando herramientas basadas en la nube."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Desarrolladores presentan innovadora plataforma de software colaborativo"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.038461538461538464"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Tech_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/tech2"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_0",
+    "http://datos.gob.mx/emisiones_mtco2": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "450"
+      }
+    ],
+    "http://datos.gob.mx/sector": [
+      {
+        "@language": "es",
+        "@value": "Energía"
+      }
+    ],
+    "http://datos.gob.mx/variacion": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-2.1"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Ciencia_Salud",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Ciencia Salud"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Salud_Digital",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Salud Digital"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_1",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Teleconsultas"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "consultas"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "18500"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Política_Nacional",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Política Nacional"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/categoria_economia",
+    "@type": [
+      "http://simanw.org/ontology/Categoria"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "economia"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q159810"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q159810"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026",
+    "@type": [
+      "http://www.w3.org/ns/dcat#Dataset"
+    ],
+    "http://datos.gob.mx/tema": [
+      {
+        "@value": "salud"
+      }
+    ],
+    "http://datos.gob.mx/tieneRegistro": [
+      {
+        "@id": "http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_0"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_1"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "Secretaría de Salud"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Indicadores de Salud Digital 2026"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_1",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Tipo de cambio"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "pesos por dólar"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "18.5"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_0",
+    "http://datos.gob.mx/indicador": [
+      {
+        "@language": "es",
+        "@value": "Ingresos gaming"
+      }
+    ],
+    "http://datos.gob.mx/unidad": [
+      {
+        "@language": "es",
+        "@value": "millones de pesos"
+      }
+    ],
+    "http://datos.gob.mx/valor": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "2400"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_2",
+    "http://datos.gob.mx/concepto": [
+      {
+        "@language": "es",
+        "@value": "Plataformas de recaudación"
+      }
+    ],
+    "http://datos.gob.mx/dependencia": [
+      {
+        "@language": "es",
+        "@value": "SAT"
+      }
+    ],
+    "http://datos.gob.mx/monto_mdp": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "15600"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Science_Journal",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Science Journal"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_11",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-02-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Equipos científicos desarrollan tecnologías enfocadas en reducir emisiones contaminantes."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Investigadores estudian nuevas soluciones para el cambio climático"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Science_Journal"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/science1"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_51",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Un nuevo sistema basado en inteligencia artificial ayuda a médicos a identificar patrones clínicos complejos y acelerar diagnósticos."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Hospital implementa inteligencia artificial para detectar enfermedades tempranas"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Digital"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra26"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7889",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "Videojuego"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_74",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-09-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Algunos indicadores muestran señales negativas relacionadas con exportaciones y consumo."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Economistas advierten desaceleración en sectores productivos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.0625"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economía_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra49"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Economy_Daily",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Economy Daily"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_49",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-17"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La solución tecnológica fue evaluada positivamente por su impacto en estudiantes, docentes y comunidades de aprendizaje."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Plataforma educativa de programación recibe reconocimiento internacional"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.043478260869565216"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Tech_Education"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra24"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_1",
+    "http://datos.gob.mx/emisiones_mtco2": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "180"
+      }
+    ],
+    "http://datos.gob.mx/sector": [
+      {
+        "@language": "es",
+        "@value": "Transporte"
+      }
+    ],
+    "http://datos.gob.mx/variacion": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "1.5"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Ciencia_Médica",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Ciencia Médica"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_37",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-11"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Especialistas advierten que la propuesta carece de presupuesto suficiente y podría afectar la implementación de servicios digitales."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Reforma tecnológica genera debate negativo en el sector público"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.038461538461538464"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Análisis_Público"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_politica"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra12"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Ambiente_Hoy",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Ambiente Hoy"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_68",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-18"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Fondos de inversión muestran interés creciente por proyectos de innovación digital."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Startups tecnológicas atraen nuevas inversiones internacionales"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economía_Digital"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra43"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Financial_News",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Financial News"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_0",
+    "http://datos.gob.mx/concepto": [
+      {
+        "@language": "es",
+        "@value": "Infraestructura digital educativa"
+      }
+    ],
+    "http://datos.gob.mx/dependencia": [
+      {
+        "@language": "es",
+        "@value": "SEP"
+      }
+    ],
+    "http://datos.gob.mx/monto_mdp": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "12500"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_66",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Hospitales adoptan dispositivos conectados para mejorar el seguimiento clínico."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nuevos sensores permiten monitoreo remoto de pacientes"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0625"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Digital"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra41"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/categoria_gobierno",
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7188"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7188"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Economía_Salud",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Economía Salud"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/Autor",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Class"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_64",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-07"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Diversos sectores discuten el impacto social y económico de los sistemas automatizados."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Debate legislativo sobre regulación de inteligencia artificial"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Política_Nacional"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra39"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_58",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-14"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los ensayos preliminares indican una respuesta inmunológica superior a la esperada."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Vacuna experimental muestra resultados prometedores"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Salud_Internacional"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra33"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q11016",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "Tecnología de la información"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Gaming_News",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gaming News"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_44",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-15"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El sector económico y hospitalario enfrenta problemas negativos por retrasos, costos elevados y falta de suministros."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Crisis logística afecta distribución de medicamentos"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.22727272727272727"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economía_Salud"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra19"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_50",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-18"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Expertos en ciberseguridad advierten riesgos negativos relacionados con datos personales, menores de edad y comunidades de videojuegos."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nueva red social gamer genera preocupación por privacidad"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.12"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Digital_Gaming"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_politica"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra25"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Gaming_Business",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gaming Business"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Academic_Review",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Academic Review"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_45",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-06-15"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Analistas reportan crecimiento positivo en ventas digitales, consolas y servicios de suscripción para jugadores."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Mercado global de videojuegos supera expectativas financieras"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.09523809523809523"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economy_Gaming"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra20"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Quantum_Research",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Quantum Research"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_32",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-09"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los jugadores reportaron fallas graves, servidores inestables y problemas de rendimiento, lo que generó una recepción negativa en la comunidad."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Lanzamiento de videojuego multijugador recibe fuertes críticas por errores"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.1724137931034483"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Game_Report"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra7"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_1",
+    "http://datos.gob.mx/concepto": [
+      {
+        "@language": "es",
+        "@value": "Expediente clínico electrónico"
+      }
+    ],
+    "http://datos.gob.mx/dependencia": [
+      {
+        "@language": "es",
+        "@value": "SALUD"
+      }
+    ],
+    "http://datos.gob.mx/monto_mdp": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "8900"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/tieneAutor",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#ObjectProperty"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_57",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Expertos advierten sobre riesgos relacionados con filtraciones de datos y fraudes electrónicos."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Ciberataque afecta a miles de usuarios de plataforma financiera"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "negativo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "-0.09523809523809523"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Seguridad_Digital"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra32"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_55",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-08"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El hallazgo podría aportar información relevante sobre biodiversidad y conservación de ecosistemas."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Investigadores descubren nueva especie marina en el Pacífico"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Ciencia_Global"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra30"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Salud_Internacional",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Salud Internacional"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/categoria_politica",
+    "@type": [
+      "http://simanw.org/ontology/Categoria"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "politica"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7188"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.wikidata.org/entity/Q7188"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_24",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-04-04"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "La compañía compartió detalles técnicos y nuevas características para los jugadores."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nintendo presenta innovaciones para su próxima consola"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Game_Report"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/game4"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026",
+    "@type": [
+      "http://www.w3.org/ns/dcat#Dataset"
+    ],
+    "http://datos.gob.mx/tema": [
+      {
+        "@value": "videojuegos"
+      }
+    ],
+    "http://datos.gob.mx/tieneRegistro": [
+      {
+        "@id": "http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_0"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_1"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "Observatorio Digital"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Economía de Videojuegos 2026"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q159810",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "Economía"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q12136",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "Enfermedad"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/urlOriginal",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#DatatypeProperty"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_38",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-05-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Estudiantes y docentes calificaron positivamente la iniciativa porque fortalece habilidades digitales y oportunidades de empleo."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Programa gubernamental de becas tecnológicas recibe apoyo ciudadano"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.08695652173913043"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Educación_Pública"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_politica"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra13"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026",
+    "@type": [
+      "http://www.w3.org/ns/dcat#Dataset"
+    ],
+    "http://datos.gob.mx/tema": [
+      {
+        "@value": "tecnologia"
+      }
+    ],
+    "http://datos.gob.mx/tieneRegistro": [
+      {
+        "@id": "http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_0"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_1"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "Secretaría de Hacienda"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Presupuesto TIC Federal 2026"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Digital_Gaming",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Digital Gaming"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_61",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El sistema personaliza contenidos educativos según el avance y desempeño de cada estudiante."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nueva plataforma de aprendizaje utiliza inteligencia artificial adaptativa"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.047619047619047616"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_EdTech_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_tecnologia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra36"
+      }
+    ]
+  },
+  {
+    "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026",
+    "@type": [
+      "http://www.w3.org/ns/dcat#Dataset"
+    ],
+    "http://datos.gob.mx/tema": [
+      {
+        "@value": "economia"
+      }
+    ],
+    "http://datos.gob.mx/tieneRegistro": [
+      {
+        "@id": "http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_0"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_1"
+      },
+      {
+        "@id": "http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/publisher": [
+      {
+        "@value": "INEGI / Banco de México"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Indicadores Económicos Mayo 2026"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Reporte_Salud",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Reporte Salud"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/Categoria",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Class"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_53",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Analistas reportan optimismo moderado tras los anuncios económicos realizados durante la semana."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Mercados reaccionan positivamente a reducción de tasas de interés"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economía_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra28"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Gaming_Press",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gaming Press"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_63",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-08-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los investigadores aseguran que los nuevos prototipos mejoran significativamente la estabilidad del sistema."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Laboratorio presenta avances en computación cuántica"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.10526315789473684"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Quantum_Research"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra38"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_54",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-07"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los usuarios reportan tiempos de carga más rápidos y mayor estabilidad en títulos recientes."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Nueva actualización de consola mejora el rendimiento gráfico"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.045454545454545456"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_Press"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra29"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_3",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-01-03"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Investigadores afirman que los nuevos prototipos podrían acelerar significativamente el procesamiento de datos complejos."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Avances en computación cuántica generan expectativas"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.05"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Tech_World"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_ciencia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/tech3"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q7188",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "es",
+        "@value": "Gobierno"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/autor_Análisis_Público",
+    "@type": [
+      "http://simanw.org/ontology/Autor"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Análisis Público"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_60",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-18"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Los indicadores económicos muestran un comportamiento dentro de los rangos previstos."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Inflación mantiene tendencia estable durante el trimestre"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Economía_Hoy"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra35"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_52",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-07-04"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "Especialistas combinan videojuegos interactivos y ejercicios físicos para apoyar terapias de recuperación en pacientes jóvenes."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Empresa mexicana desarrolla videojuego educativo para rehabilitación motriz"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "neutral"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.0"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Gaming_Health"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_videojuegos"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/extra27"
+      }
+    ]
+  },
+  {
+    "@id": "http://simanw.org/ontology/relacionadaConDataset",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#ObjectProperty"
+    ]
+  },
+  {
+    "@id": "http://simanw.org/data/noticia_9",
+    "@type": [
+      "http://simanw.org/ontology/Noticia"
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2026-02-04"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@language": "es",
+        "@value": "El comercio internacional muestra resultados positivos impulsados por el crecimiento de la demanda externa."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "es",
+        "@value": "Exportaciones alcanzan nuevo récord anual"
+      }
+    ],
+    "http://simanw.org/ontology/relacionadaConDataset": [
+      {
+        "@id": "http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoEtiqueta": [
+      {
+        "@value": "positivo"
+      }
+    ],
+    "http://simanw.org/ontology/sentimientoScore": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.10526315789473684"
+      }
+    ],
+    "http://simanw.org/ontology/tieneAutor": [
+      {
+        "@id": "http://simanw.org/data/autor_Financial_News"
+      }
+    ],
+    "http://simanw.org/ontology/tieneCategoria": [
+      {
+        "@id": "http://simanw.org/data/categoria_economia"
+      }
+    ],
+    "http://simanw.org/ontology/urlOriginal": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://simanw.local/econ4"
+      }
+    ]
+  }
+]

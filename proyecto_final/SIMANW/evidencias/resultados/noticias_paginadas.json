@@ -1,0 +1,62 @@
+[
+  {
+    "titulo": "Noticia 1 de ejemplo",
+    "resumen": "Contenido de la noticia extraída del sitio real.",
+    "url": "https://ejemplo-noticias.com/noticia/1"
+  },
+  {
+    "titulo": "Noticia 2 de ejemplo",
+    "resumen": "Otra noticia con información relevante.",
+    "url": "https://ejemplo-noticias.com/noticia/2"
+  },
+  {
+    "titulo": "Noticia 3 de ejemplo",
+    "resumen": "Tercera noticia de esta página.",
+    "url": "https://ejemplo-noticias.com/noticia/3"
+  },
+  {
+    "titulo": "Noticia 4 de ejemplo",
+    "resumen": "Contenido de la noticia extraída del sitio real.",
+    "url": "https://ejemplo-noticias.com/noticia/4"
+  },
+  {
+    "titulo": "Noticia 5 de ejemplo",
+    "resumen": "Otra noticia con información relevante.",
+    "url": "https://ejemplo-noticias.com/noticia/5"
+  },
+  {
+    "titulo": "Noticia 6 de ejemplo",
+    "resumen": "Tercera noticia de esta página.",
+    "url": "https://ejemplo-noticias.com/noticia/6"
+  },
+  {
+    "titulo": "Noticia 7 de ejemplo",
+    "resumen": "Contenido de la noticia extraída del sitio real.",
+    "url": "https://ejemplo-noticias.com/noticia/7"
+  },
+  {
+    "titulo": "Noticia 8 de ejemplo",
+    "resumen": "Otra noticia con información relevante.",
+    "url": "https://ejemplo-noticias.com/noticia/8"
+  },
+  {
+    "titulo": "Noticia 9 de ejemplo",
+    "resumen": "Tercera noticia de esta página.",
+    "url": "https://ejemplo-noticias.com/noticia/9"
+  },
+  {
+    "titulo": "Noticia 10 de ejemplo",
+    "resumen": "Contenido de la noticia extraída del sitio real.",
+    "url": "https://ejemplo-noticias.com/noticia/10"
+  },
+  {
+    "titulo": "Noticia 11 de ejemplo",
+    "resumen": "Otra noticia con información relevante.",
+    "url": "https://ejemplo-noticias.com/noticia/11"
+  },
+  {
+    "titulo": "Noticia 12 de ejemplo",
+    "resumen": "Tercera noticia de esta página.",
+    "url": "https://ejemplo-noticias.com/noticia/12"
+  }
+]

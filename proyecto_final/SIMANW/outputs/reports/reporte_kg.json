@@ -1,0 +1,348 @@
+{
+  "total_noticias": 75,
+  "total_triples": 960,
+  "datasets_abiertos": 5,
+  "enlaces_noticias_datasets": 68,
+  "enlaces_creados_detalle": [
+    {
+      "noticia": "Nueva herramienta de inteligencia artificial optimiza procesos empresariales",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Desarrolladores presentan innovadora plataforma de software colaborativo",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Empresa lanza asistente virtual basado en aprendizaje automático",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Nueva tecnología mejora diagnósticos clínicos",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Nueva plataforma médica con inteligencia artificial mejora diagnósticos tempranos",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Aplicación de salud mental recibe excelentes valoraciones de usuarios",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Hospital enfrenta críticas por deficiencias en plataforma de citas",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Nuevo motor gráfico revoluciona el desarrollo de videojuegos educativos",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Empresa tecnológica reporta crecimiento financiero histórico",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Startups de salud digital atraen nuevas inversiones",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Plataforma educativa de programación recibe reconocimiento internacional",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Hospital implementa inteligencia artificial para detectar enfermedades tempranas",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Ciberataque afecta a miles de usuarios de plataforma financiera",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Desarrolladores integran IA generativa en motores de videojuegos",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Nueva plataforma de aprendizaje utiliza inteligencia artificial adaptativa",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Aumentan casos de estrés digital entre jóvenes",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Debate legislativo sobre regulación de inteligencia artificial",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Industria de videojuegos registra crecimiento récord",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Empresas aceleran adopción de herramientas de inteligencia artificial",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Desarrolladores presentan plataforma de realidad virtual para educación",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Mercados financieros registran crecimiento sostenido",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Inflación muestra señales de desaceleración",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Banco central mantiene tasas de interés",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Exportaciones alcanzan nuevo récord anual",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Empresas anuncian nuevas inversiones industriales",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Descubren especie marina en aguas profundas",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Observatorio detecta fenómeno astronómico inusual",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Avances en energías renovables mejoran eficiencia",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "El mercado de videojuegos continúa creciendo a nivel mundial",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Comunidad gamer critica políticas abusivas de monetización",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Falta de transparencia en datos públicos provoca críticas",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Caída de acciones tecnológicas genera preocupación en mercados",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Crisis logística afecta distribución de medicamentos",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Mercado global de videojuegos supera expectativas financieras",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Mercados reaccionan positivamente a reducción de tasas de interés",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Nueva actualización de consola mejora el rendimiento gráfico",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Inflación mantiene tendencia estable durante el trimestre",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Startups tecnológicas atraen nuevas inversiones internacionales",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Autoridades anuncian inversión histórica en hospitales públicos",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Economistas advierten desaceleración en sectores productivos",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Avances en computación cuántica generan expectativas",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Investigadores estudian nuevas soluciones para el cambio climático",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Falla crítica en sistema hospitalario retrasa atención de pacientes",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Investigadores usan videojuegos para estudiar aprendizaje en jóvenes",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Política ambiental reduce emisiones y mejora indicadores científicos",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Nuevo estudio científico confirma beneficios de terapia digital",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Experimento tecnológico fracasa y genera resultados negativos",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Sistema de realidad virtual mejora entrenamiento médico",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Investigadores descubren nueva especie marina en el Pacífico",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Vacuna experimental muestra resultados prometedores",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Laboratorio presenta avances en computación cuántica",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Nuevos sensores permiten monitoreo remoto de pacientes",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Investigadores desarrollan baterías más eficientes y sostenibles",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "La ciberseguridad se convierte en prioridad para organizaciones",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Universidades fortalecen proyectos de investigación",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Hospital desarrolla nuevo tratamiento contra diabetes",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Especialistas recomiendan hábitos para prevenir enfermedades",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Investigación médica analiza efectos de tratamientos innovadores",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Investigación confirma reducción acelerada de glaciares",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Nuevo videojuego de estrategia rompe récords de ventas",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    },
+    {
+      "noticia": "Torneo internacional de eSports reúne miles de jugadores",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    },
+    {
+      "noticia": "Desarrolladora anuncia expansión para popular videojuego",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    },
+    {
+      "noticia": "Nintendo presenta innovaciones para su próxima consola",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    },
+    {
+      "noticia": "Videojuego terapéutico ayuda a mejorar coordinación motriz de pacientes",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    },
+    {
+      "noticia": "Lanzamiento de videojuego multijugador recibe fuertes críticas por errores",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    },
+    {
+      "noticia": "Torneo de eSports impulsa economía local con resultados positivos",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    },
+    {
+      "noticia": "Empresa mexicana desarrolla videojuego educativo para rehabilitación motriz",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    },
+    {
+      "noticia": "Videojuego de simulación médica gana premio internacional",
+      "dataset": "Economía de Videojuegos 2026",
+      "tema": "videojuegos"
+    }
+  ]
+}

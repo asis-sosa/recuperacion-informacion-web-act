@@ -1,0 +1,1137 @@
+@prefix data: <http://simanw.org/data/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gob: <http://datos.gob.mx/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix simanw: <http://simanw.org/ontology/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+data:categoria_gobierno owl:sameAs wd:Q7188 ;
+    skos:exactMatch wd:Q7188 .
+
+data:noticia_1 a simanw:Noticia ;
+    dc:date "2026-01-01"^^xsd:date ;
+    dc:description "Diversas empresas tecnológicas han comenzado a implementar sistemas de inteligencia artificial para automatizar tareas repetitivas y mejorar la productividad."@es ;
+    dc:title "Nueva herramienta de inteligencia artificial optimiza procesos empresariales"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.07407407407407407"^^xsd:float ;
+    simanw:tieneAutor data:autor_Tech_News ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/tech1"^^xsd:anyURI .
+
+data:noticia_10 a simanw:Noticia ;
+    dc:date "2026-02-05"^^xsd:date ;
+    dc:description "Diversos sectores productivos prevén ampliar operaciones y generar empleos durante los próximos meses."@es ;
+    dc:title "Empresas anuncian nuevas inversiones industriales"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economy_Daily ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/econ5"^^xsd:anyURI .
+
+data:noticia_11 a simanw:Noticia ;
+    dc:date "2026-02-01"^^xsd:date ;
+    dc:description "Equipos científicos desarrollan tecnologías enfocadas en reducir emisiones contaminantes."@es ;
+    dc:title "Investigadores estudian nuevas soluciones para el cambio climático"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Science_Journal ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/science1"^^xsd:anyURI .
+
+data:noticia_12 a simanw:Noticia ;
+    dc:date "2026-02-02"^^xsd:date ;
+    dc:description "La expedición científica identificó organismos desconocidos previamente para la comunidad académica."@es ;
+    dc:title "Descubren especie marina en aguas profundas"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Science_Journal ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/science2"^^xsd:anyURI .
+
+data:noticia_13 a simanw:Noticia ;
+    dc:date "2026-03-03"^^xsd:date ;
+    dc:description "Los expertos continúan analizando la información obtenida mediante telescopios de alta precisión."@es ;
+    dc:title "Observatorio detecta fenómeno astronómico inusual"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Space_News ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/science3"^^xsd:anyURI .
+
+data:noticia_14 a simanw:Noticia ;
+    dc:date "2026-03-04"^^xsd:date ;
+    dc:description "Nuevos materiales permiten aumentar el rendimiento de sistemas de generación limpia."@es ;
+    dc:title "Avances en energías renovables mejoran eficiencia"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.17647058823529413"^^xsd:float ;
+    simanw:tieneAutor data:autor_Science_Journal ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/science4"^^xsd:anyURI .
+
+data:noticia_15 a simanw:Noticia ;
+    dc:date "2026-03-05"^^xsd:date ;
+    dc:description "Diversas instituciones anunciaron financiamiento para estudios científicos multidisciplinarios."@es ;
+    dc:title "Universidades fortalecen proyectos de investigación"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Academic_Review ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://simanw.local/science5"^^xsd:anyURI .
+
+data:noticia_16 a simanw:Noticia ;
+    dc:date "2026-03-01"^^xsd:date ;
+    dc:description "Especialistas médicos reportan avances significativos para mejorar la calidad de vida de los pacientes."@es ;
+    dc:title "Hospital desarrolla nuevo tratamiento contra diabetes"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.1"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Hoy ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://simanw.local/health1"^^xsd:anyURI .
+
+data:noticia_17 a simanw:Noticia ;
+    dc:date "2026-03-02"^^xsd:date ;
+    dc:description "Las autoridades sanitarias informaron una alta participación de la población en el programa."@es ;
+    dc:title "Campaña nacional de vacunación supera expectativas"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Hoy ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://simanw.local/health2"^^xsd:anyURI .
+
+data:noticia_18 a simanw:Noticia ;
+    dc:date "2026-03-03"^^xsd:date ;
+    dc:description "La actividad física y la alimentación equilibrada continúan siendo factores fundamentales."@es ;
+    dc:title "Especialistas recomiendan hábitos para prevenir enfermedades"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Medical_News ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://simanw.local/health3"^^xsd:anyURI .
+
+data:noticia_19 a simanw:Noticia ;
+    dc:date "2026-04-04"^^xsd:date ;
+    dc:description "Hospitales comienzan a utilizar herramientas avanzadas para detectar enfermedades de forma temprana."@es ;
+    dc:title "Nueva tecnología mejora diagnósticos clínicos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.058823529411764705"^^xsd:float ;
+    simanw:tieneAutor data:autor_Medical_News ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/health4"^^xsd:anyURI .
+
+data:noticia_2 a simanw:Noticia ;
+    dc:date "2026-01-02"^^xsd:date ;
+    dc:description "Una nueva plataforma permite a equipos de trabajo coordinar proyectos en tiempo real utilizando herramientas basadas en la nube."@es ;
+    dc:title "Desarrolladores presentan innovadora plataforma de software colaborativo"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.038461538461538464"^^xsd:float ;
+    simanw:tieneAutor data:autor_Tech_News ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/tech2"^^xsd:anyURI .
+
+data:noticia_20 a simanw:Noticia ;
+    dc:date "2026-04-05"^^xsd:date ;
+    dc:description "Los resultados preliminares muestran indicadores positivos para futuras aplicaciones clínicas."@es ;
+    dc:title "Investigación médica analiza efectos de tratamientos innovadores"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.058823529411764705"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Hoy ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://simanw.local/health5"^^xsd:anyURI .
+
+data:noticia_21 a simanw:Noticia ;
+    dc:date "2026-04-01"^^xsd:date ;
+    dc:description "La industria del gaming celebra uno de los lanzamientos más exitosos del año."@es ;
+    dc:title "Nuevo videojuego de estrategia rompe récords de ventas"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_News ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/game1"^^xsd:anyURI .
+
+data:noticia_22 a simanw:Noticia ;
+    dc:date "2026-04-02"^^xsd:date ;
+    dc:description "Equipos profesionales compiten por importantes premios y reconocimiento mundial."@es ;
+    dc:title "Torneo internacional de eSports reúne miles de jugadores"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.058823529411764705"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_News ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/game2"^^xsd:anyURI .
+
+data:noticia_23 a simanw:Noticia ;
+    dc:date "2026-04-03"^^xsd:date ;
+    dc:description "La actualización incluirá nuevas misiones, personajes y contenido descargable."@es ;
+    dc:title "Desarrolladora anuncia expansión para popular videojuego"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Game_Report ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/game3"^^xsd:anyURI .
+
+data:noticia_24 a simanw:Noticia ;
+    dc:date "2026-04-04"^^xsd:date ;
+    dc:description "La compañía compartió detalles técnicos y nuevas características para los jugadores."@es ;
+    dc:title "Nintendo presenta innovaciones para su próxima consola"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Game_Report ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/game4"^^xsd:anyURI .
+
+data:noticia_25 a simanw:Noticia ;
+    dc:date "2026-04-05"^^xsd:date ;
+    dc:description "Los analistas destacan el aumento de usuarios y la expansión de competencias electrónicas."@es ;
+    dc:title "El mercado de videojuegos continúa creciendo a nivel mundial"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_News ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/game5"^^xsd:anyURI .
+
+data:noticia_26 a simanw:Noticia ;
+    dc:date "2026-04-06"^^xsd:date ;
+    dc:description "Especialistas celebran el avance porque la herramienta ayuda a detectar enfermedades con mayor precisión y rapidez, generando resultados positivos para pacientes y hospitales."@es ;
+    dc:title "Nueva plataforma médica con inteligencia artificial mejora diagnósticos tempranos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.125"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Digital ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra1"^^xsd:anyURI .
+
+data:noticia_27 a simanw:Noticia ;
+    dc:date "2026-04-06"^^xsd:date ;
+    dc:description "El error tecnológico provocó preocupación entre médicos y usuarios, ya que varios diagnósticos fueron demorados y el servicio recibió críticas negativas."@es ;
+    dc:title "Falla crítica en sistema hospitalario retrasa atención de pacientes"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.2"^^xsd:float ;
+    simanw:tieneAutor data:autor_Reporte_Salud ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra2"^^xsd:anyURI .
+
+data:noticia_28 a simanw:Noticia ;
+    dc:date "2026-04-07"^^xsd:date ;
+    dc:description "Una empresa tecnológica desarrolló un videojuego clínico utilizado en terapias de rehabilitación, con resultados alentadores en coordinación sensorial y movilidad."@es ;
+    dc:title "Videojuego terapéutico ayuda a mejorar coordinación motriz de pacientes"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.06896551724137931"^^xsd:float ;
+    simanw:tieneAutor data:autor_Innovación_Médica ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/extra3"^^xsd:anyURI .
+
+data:noticia_29 a simanw:Noticia ;
+    dc:date "2026-04-07"^^xsd:date ;
+    dc:description "La herramienta digital ofrece seguimiento emocional, ejercicios de respiración y asistencia personalizada, generando comentarios positivos por su facilidad de uso."@es ;
+    dc:title "Aplicación de salud mental recibe excelentes valoraciones de usuarios"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.06896551724137931"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Hoy ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra4"^^xsd:anyURI .
+
+data:noticia_3 a simanw:Noticia ;
+    dc:date "2026-01-03"^^xsd:date ;
+    dc:description "Investigadores afirman que los nuevos prototipos podrían acelerar significativamente el procesamiento de datos complejos."@es ;
+    dc:title "Avances en computación cuántica generan expectativas"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.05"^^xsd:float ;
+    simanw:tieneAutor data:autor_Tech_World ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/tech3"^^xsd:anyURI .
+
+data:noticia_30 a simanw:Noticia ;
+    dc:date "2026-04-08"^^xsd:date ;
+    dc:description "Pacientes reportaron retrasos, errores de registro y una mala experiencia al intentar programar consultas mediante el sistema digital."@es ;
+    dc:title "Hospital enfrenta críticas por deficiencias en plataforma de citas"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.18518518518518517"^^xsd:float ;
+    simanw:tieneAutor data:autor_Reporte_Ciudadano ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra5"^^xsd:anyURI .
+
+data:noticia_31 a simanw:Noticia ;
+    dc:date "2026-05-08"^^xsd:date ;
+    dc:description "Desarrolladores celebran la tecnología porque permite crear experiencias interactivas más accesibles, dinámicas y útiles para estudiantes."@es ;
+    dc:title "Nuevo motor gráfico revoluciona el desarrollo de videojuegos educativos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.04"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_Lab ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra6"^^xsd:anyURI .
+
+data:noticia_32 a simanw:Noticia ;
+    dc:date "2026-05-09"^^xsd:date ;
+    dc:description "Los jugadores reportaron fallas graves, servidores inestables y problemas de rendimiento, lo que generó una recepción negativa en la comunidad."@es ;
+    dc:title "Lanzamiento de videojuego multijugador recibe fuertes críticas por errores"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.1724137931034483"^^xsd:float ;
+    simanw:tieneAutor data:autor_Game_Report ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/extra7"^^xsd:anyURI .
+
+data:noticia_33 a simanw:Noticia ;
+    dc:date "2026-05-09"^^xsd:date ;
+    dc:description "El proyecto científico analiza cómo los entornos interactivos pueden mejorar memoria, atención y resolución de problemas en estudiantes."@es ;
+    dc:title "Investigadores usan videojuegos para estudiar aprendizaje en jóvenes"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Ciencia_Interactiva ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra8"^^xsd:anyURI .
+
+data:noticia_34 a simanw:Noticia ;
+    dc:date "2026-05-10"^^xsd:date ;
+    dc:description "Hoteles, restaurantes y comercios reportaron aumento de ingresos durante el evento, mientras miles de jugadores asistieron a la competencia."@es ;
+    dc:title "Torneo de eSports impulsa economía local con resultados positivos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.03571428571428571"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_Economy ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/extra9"^^xsd:anyURI .
+
+data:noticia_35 a simanw:Noticia ;
+    dc:date "2026-05-10"^^xsd:date ;
+    dc:description "Jugadores calificaron negativamente las nuevas compras internas, argumentando que afectan la experiencia y favorecen prácticas injustas."@es ;
+    dc:title "Comunidad gamer critica políticas abusivas de monetización"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.043478260869565216"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_News ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra10"^^xsd:anyURI .
+
+data:noticia_36 a simanw:Noticia ;
+    dc:date "2026-05-11"^^xsd:date ;
+    dc:description "La plataforma pública permitirá consultar indicadores de salud, ocupación hospitalaria y recursos médicos mediante tecnología de datos abiertos."@es ;
+    dc:title "Gobierno anuncia portal de datos abiertos para monitorear hospitales"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gobierno_Digital ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://simanw.local/extra11"^^xsd:anyURI .
+
+data:noticia_37 a simanw:Noticia ;
+    dc:date "2026-05-11"^^xsd:date ;
+    dc:description "Especialistas advierten que la propuesta carece de presupuesto suficiente y podría afectar la implementación de servicios digitales."@es ;
+    dc:title "Reforma tecnológica genera debate negativo en el sector público"@es ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.038461538461538464"^^xsd:float ;
+    simanw:tieneAutor data:autor_Análisis_Público ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://simanw.local/extra12"^^xsd:anyURI .
+
+data:noticia_38 a simanw:Noticia ;
+    dc:date "2026-05-12"^^xsd:date ;
+    dc:description "Estudiantes y docentes calificaron positivamente la iniciativa porque fortalece habilidades digitales y oportunidades de empleo."@es ;
+    dc:title "Programa gubernamental de becas tecnológicas recibe apoyo ciudadano"@es ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.08695652173913043"^^xsd:float ;
+    simanw:tieneAutor data:autor_Educación_Pública ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://simanw.local/extra13"^^xsd:anyURI .
+
+data:noticia_39 a simanw:Noticia ;
+    dc:date "2026-05-12"^^xsd:date ;
+    dc:description "Nuevos reportes muestran resultados positivos en la disminución de contaminantes gracias a medidas ambientales y monitoreo tecnológico."@es ;
+    dc:title "Política ambiental reduce emisiones y mejora indicadores científicos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.08"^^xsd:float ;
+    simanw:tieneAutor data:autor_Ambiente_Hoy ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra14"^^xsd:anyURI .
+
+data:noticia_4 a simanw:Noticia ;
+    dc:date "2026-01-04"^^xsd:date ;
+    dc:description "El nuevo sistema utiliza redes neuronales para comprender solicitudes complejas y ofrecer respuestas más precisas."@es ;
+    dc:title "Empresa lanza asistente virtual basado en aprendizaje automático"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Tech_World ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/tech4"^^xsd:anyURI .
+
+data:noticia_40 a simanw:Noticia ;
+    dc:date "2026-05-13"^^xsd:date ;
+    dc:description "Organizaciones civiles señalaron errores, ausencia de información y baja calidad en los datos disponibles para consulta ciudadana."@es ;
+    dc:title "Falta de transparencia en datos públicos provoca críticas"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.08"^^xsd:float ;
+    simanw:tieneAutor data:autor_Transparencia_MX ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra15"^^xsd:anyURI .
+
+data:noticia_41 a simanw:Noticia ;
+    dc:date "2026-05-13"^^xsd:date ;
+    dc:description "La compañía obtuvo resultados positivos por la venta de software, servicios en la nube e inteligencia artificial empresarial."@es ;
+    dc:title "Empresa tecnológica reporta crecimiento financiero histórico"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.08333333333333333"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economy_Tech ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra16"^^xsd:anyURI .
+
+data:noticia_42 a simanw:Noticia ;
+    dc:date "2026-06-14"^^xsd:date ;
+    dc:description "Inversionistas reaccionaron negativamente ante pérdidas en empresas de software, semiconductores y plataformas digitales."@es ;
+    dc:title "Caída de acciones tecnológicas genera preocupación en mercados"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.14285714285714285"^^xsd:float ;
+    simanw:tieneAutor data:autor_Mercados_Hoy ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra17"^^xsd:anyURI .
+
+data:noticia_43 a simanw:Noticia ;
+    dc:date "2026-06-14"^^xsd:date ;
+    dc:description "Fondos financieros muestran interés positivo en empresas que combinan medicina, datos clínicos e inteligencia artificial."@es ;
+    dc:title "Startups de salud digital atraen nuevas inversiones"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.045454545454545456"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economía_Salud ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra18"^^xsd:anyURI .
+
+data:noticia_44 a simanw:Noticia ;
+    dc:date "2026-06-15"^^xsd:date ;
+    dc:description "El sector económico y hospitalario enfrenta problemas negativos por retrasos, costos elevados y falta de suministros."@es ;
+    dc:title "Crisis logística afecta distribución de medicamentos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.22727272727272727"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economía_Salud ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra19"^^xsd:anyURI .
+
+data:noticia_45 a simanw:Noticia ;
+    dc:date "2026-06-15"^^xsd:date ;
+    dc:description "Analistas reportan crecimiento positivo en ventas digitales, consolas y servicios de suscripción para jugadores."@es ;
+    dc:title "Mercado global de videojuegos supera expectativas financieras"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.09523809523809523"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economy_Gaming ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra20"^^xsd:anyURI .
+
+data:noticia_46 a simanw:Noticia ;
+    dc:date "2026-06-16"^^xsd:date ;
+    dc:description "Investigadores reportan resultados positivos en pacientes que utilizaron aplicaciones interactivas durante procesos de rehabilitación."@es ;
+    dc:title "Nuevo estudio científico confirma beneficios de terapia digital"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.09090909090909091"^^xsd:float ;
+    simanw:tieneAutor data:autor_Ciencia_Salud ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra21"^^xsd:anyURI .
+
+data:noticia_47 a simanw:Noticia ;
+    dc:date "2026-06-16"^^xsd:date ;
+    dc:description "El prototipo presentó errores, bajo rendimiento y fallas inesperadas durante las pruebas de laboratorio."@es ;
+    dc:title "Experimento tecnológico fracasa y genera resultados negativos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.19047619047619047"^^xsd:float ;
+    simanw:tieneAutor data:autor_Laboratorio_Tech ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra22"^^xsd:anyURI .
+
+data:noticia_48 a simanw:Noticia ;
+    dc:date "2026-06-17"^^xsd:date ;
+    dc:description "Universidades y hospitales implementan simuladores de realidad virtual para capacitar cirujanos con resultados favorables."@es ;
+    dc:title "Sistema de realidad virtual mejora entrenamiento médico"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.09523809523809523"^^xsd:float ;
+    simanw:tieneAutor data:autor_Ciencia_Médica ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra23"^^xsd:anyURI .
+
+data:noticia_49 a simanw:Noticia ;
+    dc:date "2026-06-17"^^xsd:date ;
+    dc:description "La solución tecnológica fue evaluada positivamente por su impacto en estudiantes, docentes y comunidades de aprendizaje."@es ;
+    dc:title "Plataforma educativa de programación recibe reconocimiento internacional"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.043478260869565216"^^xsd:float ;
+    simanw:tieneAutor data:autor_Tech_Education ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra24"^^xsd:anyURI .
+
+data:noticia_5 a simanw:Noticia ;
+    dc:date "2026-02-05"^^xsd:date ;
+    dc:description "Especialistas recomiendan fortalecer la protección de datos ante el aumento de amenazas digitales."@es ;
+    dc:title "La ciberseguridad se convierte en prioridad para organizaciones"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Digital_Report ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://simanw.local/tech5"^^xsd:anyURI .
+
+data:noticia_50 a simanw:Noticia ;
+    dc:date "2026-06-18"^^xsd:date ;
+    dc:description "Expertos en ciberseguridad advierten riesgos negativos relacionados con datos personales, menores de edad y comunidades de videojuegos."@es ;
+    dc:title "Nueva red social gamer genera preocupación por privacidad"@es ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.12"^^xsd:float ;
+    simanw:tieneAutor data:autor_Digital_Gaming ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://simanw.local/extra25"^^xsd:anyURI .
+
+data:noticia_51 a simanw:Noticia ;
+    dc:date "2026-07-02"^^xsd:date ;
+    dc:description "Un nuevo sistema basado en inteligencia artificial ayuda a médicos a identificar patrones clínicos complejos y acelerar diagnósticos."@es ;
+    dc:title "Hospital implementa inteligencia artificial para detectar enfermedades tempranas"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Digital ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra26"^^xsd:anyURI .
+
+data:noticia_52 a simanw:Noticia ;
+    dc:date "2026-07-04"^^xsd:date ;
+    dc:description "Especialistas combinan videojuegos interactivos y ejercicios físicos para apoyar terapias de recuperación en pacientes jóvenes."@es ;
+    dc:title "Empresa mexicana desarrolla videojuego educativo para rehabilitación motriz"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_Health ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/extra27"^^xsd:anyURI .
+
+data:noticia_53 a simanw:Noticia ;
+    dc:date "2026-07-05"^^xsd:date ;
+    dc:description "Analistas reportan optimismo moderado tras los anuncios económicos realizados durante la semana."@es ;
+    dc:title "Mercados reaccionan positivamente a reducción de tasas de interés"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economía_Hoy ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra28"^^xsd:anyURI .
+
+data:noticia_54 a simanw:Noticia ;
+    dc:date "2026-07-07"^^xsd:date ;
+    dc:description "Los usuarios reportan tiempos de carga más rápidos y mayor estabilidad en títulos recientes."@es ;
+    dc:title "Nueva actualización de consola mejora el rendimiento gráfico"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.045454545454545456"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_Press ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra29"^^xsd:anyURI .
+
+data:noticia_55 a simanw:Noticia ;
+    dc:date "2026-07-08"^^xsd:date ;
+    dc:description "El hallazgo podría aportar información relevante sobre biodiversidad y conservación de ecosistemas."@es ;
+    dc:title "Investigadores descubren nueva especie marina en el Pacífico"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Ciencia_Global ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra30"^^xsd:anyURI .
+
+data:noticia_56 a simanw:Noticia ;
+    dc:date "2026-07-10"^^xsd:date ;
+    dc:description "La iniciativa busca ampliar el acceso a internet en comunidades alejadas mediante infraestructura tecnológica."@es ;
+    dc:title "Gobierno anuncia programa nacional de conectividad rural"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Política_Nacional ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://simanw.local/extra31"^^xsd:anyURI .
+
+data:noticia_57 a simanw:Noticia ;
+    dc:date "2026-07-12"^^xsd:date ;
+    dc:description "Expertos advierten sobre riesgos relacionados con filtraciones de datos y fraudes electrónicos."@es ;
+    dc:title "Ciberataque afecta a miles de usuarios de plataforma financiera"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.09523809523809523"^^xsd:float ;
+    simanw:tieneAutor data:autor_Seguridad_Digital ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra32"^^xsd:anyURI .
+
+data:noticia_58 a simanw:Noticia ;
+    dc:date "2026-07-14"^^xsd:date ;
+    dc:description "Los ensayos preliminares indican una respuesta inmunológica superior a la esperada."@es ;
+    dc:title "Vacuna experimental muestra resultados prometedores"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Internacional ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra33"^^xsd:anyURI .
+
+data:noticia_59 a simanw:Noticia ;
+    dc:date "2026-07-16"^^xsd:date ;
+    dc:description "La tecnología permitirá crear personajes y escenarios dinámicos en tiempo real."@es ;
+    dc:title "Desarrolladores integran IA generativa en motores de videojuegos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_Tech ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra34"^^xsd:anyURI .
+
+data:noticia_6 a simanw:Noticia ;
+    dc:date "2026-02-01"^^xsd:date ;
+    dc:description "Analistas económicos reportan una mejora gradual en los indicadores financieros durante el último trimestre."@es ;
+    dc:title "Mercados financieros registran crecimiento sostenido"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.10526315789473684"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economy_Daily ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/econ1"^^xsd:anyURI .
+
+data:noticia_60 a simanw:Noticia ;
+    dc:date "2026-07-18"^^xsd:date ;
+    dc:description "Los indicadores económicos muestran un comportamiento dentro de los rangos previstos."@es ;
+    dc:title "Inflación mantiene tendencia estable durante el trimestre"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economía_Hoy ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra35"^^xsd:anyURI .
+
+data:noticia_61 a simanw:Noticia ;
+    dc:date "2026-08-01"^^xsd:date ;
+    dc:description "El sistema personaliza contenidos educativos según el avance y desempeño de cada estudiante."@es ;
+    dc:title "Nueva plataforma de aprendizaje utiliza inteligencia artificial adaptativa"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.047619047619047616"^^xsd:float ;
+    simanw:tieneAutor data:autor_EdTech_News ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra36"^^xsd:anyURI .
+
+data:noticia_62 a simanw:Noticia ;
+    dc:date "2026-08-03"^^xsd:date ;
+    dc:description "Especialistas recomiendan establecer hábitos saludables para reducir el impacto psicológico del uso intensivo de tecnología."@es ;
+    dc:title "Aumentan casos de estrés digital entre jóvenes"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Mental ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra37"^^xsd:anyURI .
+
+data:noticia_63 a simanw:Noticia ;
+    dc:date "2026-08-05"^^xsd:date ;
+    dc:description "Los investigadores aseguran que los nuevos prototipos mejoran significativamente la estabilidad del sistema."@es ;
+    dc:title "Laboratorio presenta avances en computación cuántica"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.10526315789473684"^^xsd:float ;
+    simanw:tieneAutor data:autor_Quantum_Research ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra38"^^xsd:anyURI .
+
+data:noticia_64 a simanw:Noticia ;
+    dc:date "2026-08-07"^^xsd:date ;
+    dc:description "Diversos sectores discuten el impacto social y económico de los sistemas automatizados."@es ;
+    dc:title "Debate legislativo sobre regulación de inteligencia artificial"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Política_Nacional ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra39"^^xsd:anyURI .
+
+data:noticia_65 a simanw:Noticia ;
+    dc:date "2026-08-09"^^xsd:date ;
+    dc:description "Las ventas digitales y los servicios en línea impulsan los ingresos del sector."@es ;
+    dc:title "Industria de videojuegos registra crecimiento récord"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.05263157894736842"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_Business ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra40"^^xsd:anyURI .
+
+data:noticia_66 a simanw:Noticia ;
+    dc:date "2026-08-12"^^xsd:date ;
+    dc:description "Hospitales adoptan dispositivos conectados para mejorar el seguimiento clínico."@es ;
+    dc:title "Nuevos sensores permiten monitoreo remoto de pacientes"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.0625"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Digital ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra41"^^xsd:anyURI .
+
+data:noticia_67 a simanw:Noticia ;
+    dc:date "2026-08-15"^^xsd:date ;
+    dc:description "Los científicos alertan sobre impactos ambientales y económicos asociados al fenómeno."@es ;
+    dc:title "Investigación confirma reducción acelerada de glaciares"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Ciencia_Global ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://simanw.local/extra42"^^xsd:anyURI .
+
+data:noticia_68 a simanw:Noticia ;
+    dc:date "2026-08-18"^^xsd:date ;
+    dc:description "Fondos de inversión muestran interés creciente por proyectos de innovación digital."@es ;
+    dc:title "Startups tecnológicas atraen nuevas inversiones internacionales"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economía_Digital ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra43"^^xsd:anyURI .
+
+data:noticia_69 a simanw:Noticia ;
+    dc:date "2026-08-20"^^xsd:date ;
+    dc:description "La propuesta incluye sanciones más severas para organizaciones que incumplan regulaciones."@es ;
+    dc:title "Nueva ley busca fortalecer protección de datos personales"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Política_Nacional ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://simanw.local/extra44"^^xsd:anyURI .
+
+data:noticia_7 a simanw:Noticia ;
+    dc:date "2026-02-02"^^xsd:date ;
+    dc:description "Los últimos reportes sugieren una reducción moderada en el ritmo de crecimiento de los precios."@es ;
+    dc:title "Inflación muestra señales de desaceleración"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.05"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economy_Daily ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/econ2"^^xsd:anyURI .
+
+data:noticia_70 a simanw:Noticia ;
+    dc:date "2026-08-23"^^xsd:date ;
+    dc:description "La aplicación permite entrenar procedimientos clínicos en entornos virtuales realistas."@es ;
+    dc:title "Videojuego de simulación médica gana premio internacional"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Gaming_Health ;
+    simanw:tieneCategoria data:categoria_videojuegos ;
+    simanw:urlOriginal "https://simanw.local/extra45"^^xsd:anyURI .
+
+data:noticia_71 a simanw:Noticia ;
+    dc:date "2026-09-01"^^xsd:date ;
+    dc:description "La innovación podría reducir costos energéticos y disminuir residuos contaminantes."@es ;
+    dc:title "Investigadores desarrollan baterías más eficientes y sostenibles"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Ciencia_Global ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://simanw.local/extra46"^^xsd:anyURI .
+
+data:noticia_72 a simanw:Noticia ;
+    dc:date "2026-09-04"^^xsd:date ;
+    dc:description "Los sistemas automatizados ayudan a optimizar procesos y mejorar la productividad."@es ;
+    dc:title "Empresas aceleran adopción de herramientas de inteligencia artificial"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.05263157894736842"^^xsd:float ;
+    simanw:tieneAutor data:autor_Digital_Business ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra47"^^xsd:anyURI .
+
+data:noticia_73 a simanw:Noticia ;
+    dc:date "2026-09-08"^^xsd:date ;
+    dc:description "El proyecto contempla equipamiento médico, infraestructura y capacitación especializada."@es ;
+    dc:title "Autoridades anuncian inversión histórica en hospitales públicos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Salud_Nacional ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra48"^^xsd:anyURI .
+
+data:noticia_74 a simanw:Noticia ;
+    dc:date "2026-09-12"^^xsd:date ;
+    dc:description "Algunos indicadores muestran señales negativas relacionadas con exportaciones y consumo."@es ;
+    dc:title "Economistas advierten desaceleración en sectores productivos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.0625"^^xsd:float ;
+    simanw:tieneAutor data:autor_Economía_Hoy ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/extra49"^^xsd:anyURI .
+
+data:noticia_75 a simanw:Noticia ;
+    dc:date "2026-09-15"^^xsd:date ;
+    dc:description "La iniciativa combina tecnología inmersiva, simulaciones interactivas y contenidos académicos."@es ;
+    dc:title "Desarrolladores presentan plataforma de realidad virtual para educación"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_EdTech_News ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://simanw.local/extra50"^^xsd:anyURI .
+
+data:noticia_8 a simanw:Noticia ;
+    dc:date "2026-02-03"^^xsd:date ;
+    dc:description "La institución considera que la estabilidad financiera actual permite conservar las políticas monetarias vigentes."@es ;
+    dc:title "Banco central mantiene tasas de interés"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_Financial_News ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/econ3"^^xsd:anyURI .
+
+data:noticia_9 a simanw:Noticia ;
+    dc:date "2026-02-04"^^xsd:date ;
+    dc:description "El comercio internacional muestra resultados positivos impulsados por el crecimiento de la demanda externa."@es ;
+    dc:title "Exportaciones alcanzan nuevo récord anual"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.10526315789473684"^^xsd:float ;
+    simanw:tieneAutor data:autor_Financial_News ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://simanw.local/econ4"^^xsd:anyURI .
+
+simanw:relacionadaConDataset a owl:ObjectProperty .
+
+simanw:sentimientoEtiqueta a owl:DatatypeProperty .
+
+simanw:sentimientoScore a owl:DatatypeProperty .
+
+simanw:tieneAutor a owl:ObjectProperty .
+
+simanw:tieneCategoria a owl:ObjectProperty .
+
+simanw:urlOriginal a owl:DatatypeProperty .
+
+<http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_0> gob:indicador "Ingresos gaming"@es ;
+    gob:unidad "millones de pesos"@es ;
+    gob:valor "2400"^^xsd:float .
+
+<http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_1> gob:indicador "Eventos eSports"@es ;
+    gob:unidad "eventos"@es ;
+    gob:valor "42"^^xsd:float .
+
+<http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_2> gob:indicador "Usuarios activos"@es ;
+    gob:unidad "millones"@es ;
+    gob:valor "18.7"^^xsd:float .
+
+<http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_0> gob:emisiones_mtco2 "450"^^xsd:float ;
+    gob:sector "Energía"@es ;
+    gob:variacion "-2.1"^^xsd:float .
+
+<http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_1> gob:emisiones_mtco2 "180"^^xsd:float ;
+    gob:sector "Transporte"@es ;
+    gob:variacion "1.5"^^xsd:float .
+
+<http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_2> gob:emisiones_mtco2 "120"^^xsd:float ;
+    gob:sector "Industria"@es ;
+    gob:variacion "-3.8"^^xsd:float .
+
+<http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_0> gob:indicador "Inflación anual"@es ;
+    gob:unidad "porcentaje"@es ;
+    gob:valor "4.2"^^xsd:float .
+
+<http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_1> gob:indicador "Tipo de cambio"@es ;
+    gob:unidad "pesos por dólar"@es ;
+    gob:valor "18.5"^^xsd:float .
+
+<http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_2> gob:indicador "Tasa de desempleo"@es ;
+    gob:unidad "porcentaje"@es ;
+    gob:valor "3.1"^^xsd:float .
+
+<http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_0> gob:indicador "Expedientes digitales"@es ;
+    gob:unidad "porcentaje"@es ;
+    gob:valor "72"^^xsd:float .
+
+<http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_1> gob:indicador "Teleconsultas"@es ;
+    gob:unidad "consultas"@es ;
+    gob:valor "18500"^^xsd:float .
+
+<http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_2> gob:indicador "Hospitales conectados"@es ;
+    gob:unidad "hospitales"@es ;
+    gob:valor "310"^^xsd:float .
+
+<http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_0> gob:concepto "Infraestructura digital educativa"@es ;
+    gob:dependencia "SEP"@es ;
+    gob:monto_mdp "12500"^^xsd:float .
+
+<http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_1> gob:concepto "Expediente clínico electrónico"@es ;
+    gob:dependencia "SALUD"@es ;
+    gob:monto_mdp "8900"^^xsd:float .
+
+<http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_2> gob:concepto "Plataformas de recaudación"@es ;
+    gob:dependencia "SAT"@es ;
+    gob:monto_mdp "15600"^^xsd:float .
+
+data:autor_Academic_Review a simanw:Autor ;
+    foaf:name "Academic Review" .
+
+data:autor_Ambiente_Hoy a simanw:Autor ;
+    foaf:name "Ambiente Hoy" .
+
+data:autor_Análisis_Público a simanw:Autor ;
+    foaf:name "Análisis Público" .
+
+data:autor_Ciencia_Interactiva a simanw:Autor ;
+    foaf:name "Ciencia Interactiva" .
+
+data:autor_Ciencia_Médica a simanw:Autor ;
+    foaf:name "Ciencia Médica" .
+
+data:autor_Ciencia_Salud a simanw:Autor ;
+    foaf:name "Ciencia Salud" .
+
+data:autor_Digital_Business a simanw:Autor ;
+    foaf:name "Digital Business" .
+
+data:autor_Digital_Gaming a simanw:Autor ;
+    foaf:name "Digital Gaming" .
+
+data:autor_Digital_Report a simanw:Autor ;
+    foaf:name "Digital Report" .
+
+data:autor_Economy_Gaming a simanw:Autor ;
+    foaf:name "Economy Gaming" .
+
+data:autor_Economy_Tech a simanw:Autor ;
+    foaf:name "Economy Tech" .
+
+data:autor_Economía_Digital a simanw:Autor ;
+    foaf:name "Economía Digital" .
+
+data:autor_Educación_Pública a simanw:Autor ;
+    foaf:name "Educación Pública" .
+
+data:autor_Gaming_Business a simanw:Autor ;
+    foaf:name "Gaming Business" .
+
+data:autor_Gaming_Economy a simanw:Autor ;
+    foaf:name "Gaming Economy" .
+
+data:autor_Gaming_Lab a simanw:Autor ;
+    foaf:name "Gaming Lab" .
+
+data:autor_Gaming_Press a simanw:Autor ;
+    foaf:name "Gaming Press" .
+
+data:autor_Gaming_Tech a simanw:Autor ;
+    foaf:name "Gaming Tech" .
+
+data:autor_Gobierno_Digital a simanw:Autor ;
+    foaf:name "Gobierno Digital" .
+
+data:autor_Innovación_Médica a simanw:Autor ;
+    foaf:name "Innovación Médica" .
+
+data:autor_Laboratorio_Tech a simanw:Autor ;
+    foaf:name "Laboratorio Tech" .
+
+data:autor_Mercados_Hoy a simanw:Autor ;
+    foaf:name "Mercados Hoy" .
+
+data:autor_Quantum_Research a simanw:Autor ;
+    foaf:name "Quantum Research" .
+
+data:autor_Reporte_Ciudadano a simanw:Autor ;
+    foaf:name "Reporte Ciudadano" .
+
+data:autor_Reporte_Salud a simanw:Autor ;
+    foaf:name "Reporte Salud" .
+
+data:autor_Salud_Internacional a simanw:Autor ;
+    foaf:name "Salud Internacional" .
+
+data:autor_Salud_Mental a simanw:Autor ;
+    foaf:name "Salud Mental" .
+
+data:autor_Salud_Nacional a simanw:Autor ;
+    foaf:name "Salud Nacional" .
+
+data:autor_Seguridad_Digital a simanw:Autor ;
+    foaf:name "Seguridad Digital" .
+
+data:autor_Space_News a simanw:Autor ;
+    foaf:name "Space News" .
+
+data:autor_Tech_Education a simanw:Autor ;
+    foaf:name "Tech Education" .
+
+data:autor_Transparencia_MX a simanw:Autor ;
+    foaf:name "Transparencia MX" .
+
+data:autor_Economía_Salud a simanw:Autor ;
+    foaf:name "Economía Salud" .
+
+data:autor_EdTech_News a simanw:Autor ;
+    foaf:name "EdTech News" .
+
+data:autor_Financial_News a simanw:Autor ;
+    foaf:name "Financial News" .
+
+data:autor_Gaming_Health a simanw:Autor ;
+    foaf:name "Gaming Health" .
+
+data:autor_Medical_News a simanw:Autor ;
+    foaf:name "Medical News" .
+
+data:autor_Tech_News a simanw:Autor ;
+    foaf:name "Tech News" .
+
+data:autor_Tech_World a simanw:Autor ;
+    foaf:name "Tech World" .
+
+wd:Q11016 rdfs:label "Tecnología de la información"@es .
+
+wd:Q12136 rdfs:label "Enfermedad"@es .
+
+wd:Q159810 rdfs:label "Economía"@es .
+
+wd:Q336 rdfs:label "Ciencia"@es .
+
+wd:Q7889 rdfs:label "Videojuego"@es .
+
+data:autor_Ciencia_Global a simanw:Autor ;
+    foaf:name "Ciencia Global" .
+
+data:autor_Economy_Daily a simanw:Autor ;
+    foaf:name "Economy Daily" .
+
+data:autor_Economía_Hoy a simanw:Autor ;
+    foaf:name "Economía Hoy" .
+
+data:autor_Game_Report a simanw:Autor ;
+    foaf:name "Game Report" .
+
+data:autor_Política_Nacional a simanw:Autor ;
+    foaf:name "Política Nacional" .
+
+data:autor_Salud_Digital a simanw:Autor ;
+    foaf:name "Salud Digital" .
+
+data:autor_Science_Journal a simanw:Autor ;
+    foaf:name "Science Journal" .
+
+data:autor_Gaming_News a simanw:Autor ;
+    foaf:name "Gaming News" .
+
+data:autor_Salud_Hoy a simanw:Autor ;
+    foaf:name "Salud Hoy" .
+
+wd:Q7188 rdfs:label "Gobierno"@es .
+
+<http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> a dcat:Dataset ;
+    gob:tema "salud" ;
+    gob:tieneRegistro <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_0>,
+        <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_1>,
+        <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_2> ;
+    dc:publisher "Secretaría de Salud" ;
+    dc:title "Indicadores de Salud Digital 2026"@es .
+
+data:categoria_salud a simanw:Categoria ;
+    rdfs:label "salud"@es ;
+    owl:sameAs wd:Q12136 ;
+    skos:exactMatch wd:Q12136 .
+
+simanw:Categoria a owl:Class .
+
+data:categoria_politica a simanw:Categoria ;
+    rdfs:label "politica"@es ;
+    owl:sameAs wd:Q7188 ;
+    skos:exactMatch wd:Q7188 .
+
+<http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> a dcat:Dataset ;
+    gob:tema "videojuegos" ;
+    gob:tieneRegistro <http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_0>,
+        <http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_1>,
+        <http://datos.gob.mx/registro/Economía_de_Videojuegos_2026_2> ;
+    dc:publisher "Observatorio Digital" ;
+    dc:title "Economía de Videojuegos 2026"@es .
+
+data:categoria_videojuegos a simanw:Categoria ;
+    rdfs:label "videojuegos"@es ;
+    owl:sameAs wd:Q7889 ;
+    skos:exactMatch wd:Q7889 .
+
+<http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> a dcat:Dataset ;
+    gob:tema "ciencia" ;
+    gob:tieneRegistro <http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_0>,
+        <http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_1>,
+        <http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_2> ;
+    dc:publisher "SEMARNAT" ;
+    dc:title "Emisiones CO2 por Sector 2025"@es .
+
+data:categoria_ciencia a simanw:Categoria ;
+    rdfs:label "ciencia"@es ;
+    owl:sameAs wd:Q336 ;
+    skos:exactMatch wd:Q336 .
+
+<http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> a dcat:Dataset ;
+    gob:tema "economia" ;
+    gob:tieneRegistro <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_0>,
+        <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_1>,
+        <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_2> ;
+    dc:publisher "INEGI / Banco de México" ;
+    dc:title "Indicadores Económicos Mayo 2026"@es .
+
+<http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> a dcat:Dataset ;
+    gob:tema "tecnologia" ;
+    gob:tieneRegistro <http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_0>,
+        <http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_1>,
+        <http://datos.gob.mx/registro/Presupuesto_TIC_Federal_2026_2> ;
+    dc:publisher "Secretaría de Hacienda" ;
+    dc:title "Presupuesto TIC Federal 2026"@es .
+
+data:categoria_economia a simanw:Categoria ;
+    rdfs:label "economia"@es ;
+    owl:sameAs wd:Q159810 ;
+    skos:exactMatch wd:Q159810 .
+
+data:categoria_tecnologia a simanw:Categoria ;
+    rdfs:label "tecnologia"@es ;
+    owl:sameAs wd:Q11016 ;
+    skos:exactMatch wd:Q11016 .
+
+simanw:Autor a owl:Class .
+
+simanw:Noticia a owl:Class .
+

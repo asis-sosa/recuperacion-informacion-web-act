@@ -1,0 +1,10 @@
+{
+  "total_analizadas": 75,
+  "distribucion_sentimiento": {
+    "positivo": 30,
+    "neutral": 33,
+    "negativo": 12
+  },
+  "sentimiento_promedio": 0.008579644575649978,
+  "tono_general": "positivo"
+}

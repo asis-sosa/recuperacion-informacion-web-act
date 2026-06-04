@@ -1,0 +1,19 @@
+{
+  "proyecto": "SIMANW",
+  "version": "1.0.0",
+  "fecha_ejecucion": "2026-05-29 21:30:00",
+  "fuente_noticias": "Portal de noticias rastreado",
+  "documentos_rastreados": 120,
+  "documentos_validos": 112,
+  "documentos_descartados": 8,
+  "documentos_nlp": 112,
+  "documentos_clasificados": 112,
+  "documentos_indexados": 112,
+  "triples_knowledge_graph": 1850,
+  "artefactos_generados": {
+    "rastreo": "noticias_simanw.json",
+    "corpus_depurado": "corpus_depurado.json",
+    "knowledge_graph": "simanw_kg.ttl",
+    "reporte_final": "reporte_simanw.txt"
+  }
+}

@@ -1,0 +1,425 @@
+======================================================================
+ REPORTE AUTOMÁTICO - SISTEMA SIMANW
+ Generado: 2026-06-03 13:54:49
+======================================================================
+
+1. RESUMEN EJECUTIVO
+----------------------------------------
+Noticias procesadas: 75
+Triples en Knowledge Graph: 960
+Categorías detectadas: 6
+Sentimiento promedio: +0.009
+Tono general: NEUTRAL
+
+2. DISTRIBUCIÓN POR CATEGORÍA
+----------------------------------------
+tecnologia      ████████████████████ 20 (26.7%)
+economia        ████████████████████ 20 (26.7%)
+ciencia         █████████████ 13 (17.3%)
+videojuegos     █████████ 9 (12.0%)
+politica        ███████ 7 (9.3%)
+salud           ██████ 6 (8.0%)
+
+3. ANÁLISIS DE SENTIMIENTO
+----------------------------------------
+neutral     : 33 noticia(s)
+positivo    : 30 noticia(s)
+negativo    : 12 noticia(s)
+
+4. CATÁLOGO DE NOTICIAS
+----------------------------------------
+1. [2026-01-01] [tecnologia] [positivo]
+   Nueva herramienta de inteligencia artificial optimiza procesos empresariales
+   Autor: Tech News
+   URL: https://simanw.local/tech1
+
+2. [2026-01-02] [tecnologia] [positivo]
+   Desarrolladores presentan innovadora plataforma de software colaborativo
+   Autor: Tech News
+   URL: https://simanw.local/tech2
+
+3. [2026-01-03] [ciencia] [positivo]
+   Avances en computación cuántica generan expectativas
+   Autor: Tech World
+   URL: https://simanw.local/tech3
+
+4. [2026-01-04] [tecnologia] [neutral]
+   Empresa lanza asistente virtual basado en aprendizaje automático
+   Autor: Tech World
+   URL: https://simanw.local/tech4
+
+5. [2026-02-05] [salud] [neutral]
+   La ciberseguridad se convierte en prioridad para organizaciones
+   Autor: Digital Report
+   URL: https://simanw.local/tech5
+
+6. [2026-02-01] [economia] [positivo]
+   Mercados financieros registran crecimiento sostenido
+   Autor: Economy Daily
+   URL: https://simanw.local/econ1
+
+7. [2026-02-02] [economia] [positivo]
+   Inflación muestra señales de desaceleración
+   Autor: Economy Daily
+   URL: https://simanw.local/econ2
+
+8. [2026-02-03] [economia] [neutral]
+   Banco central mantiene tasas de interés
+   Autor: Financial News
+   URL: https://simanw.local/econ3
+
+9. [2026-02-04] [economia] [positivo]
+   Exportaciones alcanzan nuevo récord anual
+   Autor: Financial News
+   URL: https://simanw.local/econ4
+
+10. [2026-02-05] [economia] [neutral]
+   Empresas anuncian nuevas inversiones industriales
+   Autor: Economy Daily
+   URL: https://simanw.local/econ5
+
+11. [2026-02-01] [ciencia] [neutral]
+   Investigadores estudian nuevas soluciones para el cambio climático
+   Autor: Science Journal
+   URL: https://simanw.local/science1
+
+12. [2026-02-02] [economia] [neutral]
+   Descubren especie marina en aguas profundas
+   Autor: Science Journal
+   URL: https://simanw.local/science2
+
+13. [2026-03-03] [economia] [neutral]
+   Observatorio detecta fenómeno astronómico inusual
+   Autor: Space News
+   URL: https://simanw.local/science3
+
+14. [2026-03-04] [economia] [positivo]
+   Avances en energías renovables mejoran eficiencia
+   Autor: Science Journal
+   URL: https://simanw.local/science4
+
+15. [2026-03-05] [salud] [neutral]
+   Universidades fortalecen proyectos de investigación
+   Autor: Academic Review
+   URL: https://simanw.local/science5
+
+16. [2026-03-01] [salud] [positivo]
+   Hospital desarrolla nuevo tratamiento contra diabetes
+   Autor: Salud Hoy
+   URL: https://simanw.local/health1
+
+17. [2026-03-02] [politica] [neutral]
+   Campaña nacional de vacunación supera expectativas
+   Autor: Salud Hoy
+   URL: https://simanw.local/health2
+
+18. [2026-03-03] [salud] [neutral]
+   Especialistas recomiendan hábitos para prevenir enfermedades
+   Autor: Medical News
+   URL: https://simanw.local/health3
+
+19. [2026-04-04] [tecnologia] [positivo]
+   Nueva tecnología mejora diagnósticos clínicos
+   Autor: Medical News
+   URL: https://simanw.local/health4
+
+20. [2026-04-05] [salud] [positivo]
+   Investigación médica analiza efectos de tratamientos innovadores
+   Autor: Salud Hoy
+   URL: https://simanw.local/health5
+
+21. [2026-04-01] [videojuegos] [neutral]
+   Nuevo videojuego de estrategia rompe récords de ventas
+   Autor: Gaming News
+   URL: https://simanw.local/game1
+
+22. [2026-04-02] [videojuegos] [positivo]
+   Torneo internacional de eSports reúne miles de jugadores
+   Autor: Gaming News
+   URL: https://simanw.local/game2
+
+23. [2026-04-03] [videojuegos] [neutral]
+   Desarrolladora anuncia expansión para popular videojuego
+   Autor: Game Report
+   URL: https://simanw.local/game3
+
+24. [2026-04-04] [videojuegos] [neutral]
+   Nintendo presenta innovaciones para su próxima consola
+   Autor: Game Report
+   URL: https://simanw.local/game4
+
+25. [2026-04-05] [economia] [neutral]
+   El mercado de videojuegos continúa creciendo a nivel mundial
+   Autor: Gaming News
+   URL: https://simanw.local/game5
+
+26. [2026-04-06] [tecnologia] [positivo]
+   Nueva plataforma médica con inteligencia artificial mejora diagnósticos tempranos
+   Autor: Salud Digital
+   URL: https://simanw.local/extra1
+
+27. [2026-04-06] [ciencia] [negativo]
+   Falla crítica en sistema hospitalario retrasa atención de pacientes
+   Autor: Reporte Salud
+   URL: https://simanw.local/extra2
+
+28. [2026-04-07] [videojuegos] [positivo]
+   Videojuego terapéutico ayuda a mejorar coordinación motriz de pacientes
+   Autor: Innovación Médica
+   URL: https://simanw.local/extra3
+
+29. [2026-04-07] [tecnologia] [positivo]
+   Aplicación de salud mental recibe excelentes valoraciones de usuarios
+   Autor: Salud Hoy
+   URL: https://simanw.local/extra4
+
+30. [2026-04-08] [tecnologia] [negativo]
+   Hospital enfrenta críticas por deficiencias en plataforma de citas
+   Autor: Reporte Ciudadano
+   URL: https://simanw.local/extra5
+
+31. [2026-05-08] [tecnologia] [positivo]
+   Nuevo motor gráfico revoluciona el desarrollo de videojuegos educativos
+   Autor: Gaming Lab
+   URL: https://simanw.local/extra6
+
+32. [2026-05-09] [videojuegos] [negativo]
+   Lanzamiento de videojuego multijugador recibe fuertes críticas por errores
+   Autor: Game Report
+   URL: https://simanw.local/extra7
+
+33. [2026-05-09] [ciencia] [neutral]
+   Investigadores usan videojuegos para estudiar aprendizaje en jóvenes
+   Autor: Ciencia Interactiva
+   URL: https://simanw.local/extra8
+
+34. [2026-05-10] [videojuegos] [positivo]
+   Torneo de eSports impulsa economía local con resultados positivos
+   Autor: Gaming Economy
+   URL: https://simanw.local/extra9
+
+35. [2026-05-10] [economia] [negativo]
+   Comunidad gamer critica políticas abusivas de monetización
+   Autor: Gaming News
+   URL: https://simanw.local/extra10
+
+36. [2026-05-11] [politica] [neutral]
+   Gobierno anuncia portal de datos abiertos para monitorear hospitales
+   Autor: Gobierno Digital
+   URL: https://simanw.local/extra11
+
+37. [2026-05-11] [politica] [negativo]
+   Reforma tecnológica genera debate negativo en el sector público
+   Autor: Análisis Público
+   URL: https://simanw.local/extra12
+
+38. [2026-05-12] [politica] [positivo]
+   Programa gubernamental de becas tecnológicas recibe apoyo ciudadano
+   Autor: Educación Pública
+   URL: https://simanw.local/extra13
+
+39. [2026-05-12] [ciencia] [positivo]
+   Política ambiental reduce emisiones y mejora indicadores científicos
+   Autor: Ambiente Hoy
+   URL: https://simanw.local/extra14
+
+40. [2026-05-13] [economia] [negativo]
+   Falta de transparencia en datos públicos provoca críticas
+   Autor: Transparencia MX
+   URL: https://simanw.local/extra15
+
+41. [2026-05-13] [tecnologia] [positivo]
+   Empresa tecnológica reporta crecimiento financiero histórico
+   Autor: Economy Tech
+   URL: https://simanw.local/extra16
+
+42. [2026-06-14] [economia] [negativo]
+   Caída de acciones tecnológicas genera preocupación en mercados
+   Autor: Mercados Hoy
+   URL: https://simanw.local/extra17
+
+43. [2026-06-14] [tecnologia] [positivo]
+   Startups de salud digital atraen nuevas inversiones
+   Autor: Economía Salud
+   URL: https://simanw.local/extra18
+
+44. [2026-06-15] [economia] [negativo]
+   Crisis logística afecta distribución de medicamentos
+   Autor: Economía Salud
+   URL: https://simanw.local/extra19
+
+45. [2026-06-15] [economia] [positivo]
+   Mercado global de videojuegos supera expectativas financieras
+   Autor: Economy Gaming
+   URL: https://simanw.local/extra20
+
+46. [2026-06-16] [ciencia] [positivo]
+   Nuevo estudio científico confirma beneficios de terapia digital
+   Autor: Ciencia Salud
+   URL: https://simanw.local/extra21
+
+47. [2026-06-16] [ciencia] [negativo]
+   Experimento tecnológico fracasa y genera resultados negativos
+   Autor: Laboratorio Tech
+   URL: https://simanw.local/extra22
+
+48. [2026-06-17] [ciencia] [positivo]
+   Sistema de realidad virtual mejora entrenamiento médico
+   Autor: Ciencia Médica
+   URL: https://simanw.local/extra23
+
+49. [2026-06-17] [tecnologia] [positivo]
+   Plataforma educativa de programación recibe reconocimiento internacional
+   Autor: Tech Education
+   URL: https://simanw.local/extra24
+
+50. [2026-06-18] [politica] [negativo]
+   Nueva red social gamer genera preocupación por privacidad
+   Autor: Digital Gaming
+   URL: https://simanw.local/extra25
+
+51. [2026-07-02] [tecnologia] [neutral]
+   Hospital implementa inteligencia artificial para detectar enfermedades tempranas
+   Autor: Salud Digital
+   URL: https://simanw.local/extra26
+
+52. [2026-07-04] [videojuegos] [neutral]
+   Empresa mexicana desarrolla videojuego educativo para rehabilitación motriz
+   Autor: Gaming Health
+   URL: https://simanw.local/extra27
+
+53. [2026-07-05] [economia] [neutral]
+   Mercados reaccionan positivamente a reducción de tasas de interés
+   Autor: Economía Hoy
+   URL: https://simanw.local/extra28
+
+54. [2026-07-07] [economia] [positivo]
+   Nueva actualización de consola mejora el rendimiento gráfico
+   Autor: Gaming Press
+   URL: https://simanw.local/extra29
+
+55. [2026-07-08] [ciencia] [neutral]
+   Investigadores descubren nueva especie marina en el Pacífico
+   Autor: Ciencia Global
+   URL: https://simanw.local/extra30
+
+56. [2026-07-10] [politica] [neutral]
+   Gobierno anuncia programa nacional de conectividad rural
+   Autor: Política Nacional
+   URL: https://simanw.local/extra31
+
+57. [2026-07-12] [tecnologia] [negativo]
+   Ciberataque afecta a miles de usuarios de plataforma financiera
+   Autor: Seguridad Digital
+   URL: https://simanw.local/extra32
+
+58. [2026-07-14] [ciencia] [neutral]
+   Vacuna experimental muestra resultados prometedores
+   Autor: Salud Internacional
+   URL: https://simanw.local/extra33
+
+59. [2026-07-16] [tecnologia] [neutral]
+   Desarrolladores integran IA generativa en motores de videojuegos
+   Autor: Gaming Tech
+   URL: https://simanw.local/extra34
+
+60. [2026-07-18] [economia] [neutral]
+   Inflación mantiene tendencia estable durante el trimestre
+   Autor: Economía Hoy
+   URL: https://simanw.local/extra35
+
+61. [2026-08-01] [tecnologia] [positivo]
+   Nueva plataforma de aprendizaje utiliza inteligencia artificial adaptativa
+   Autor: EdTech News
+   URL: https://simanw.local/extra36
+
+62. [2026-08-03] [tecnologia] [neutral]
+   Aumentan casos de estrés digital entre jóvenes
+   Autor: Salud Mental
+   URL: https://simanw.local/extra37
+
+63. [2026-08-05] [ciencia] [positivo]
+   Laboratorio presenta avances en computación cuántica
+   Autor: Quantum Research
+   URL: https://simanw.local/extra38
+
+64. [2026-08-07] [tecnologia] [neutral]
+   Debate legislativo sobre regulación de inteligencia artificial
+   Autor: Política Nacional
+   URL: https://simanw.local/extra39
+
+65. [2026-08-09] [tecnologia] [positivo]
+   Industria de videojuegos registra crecimiento récord
+   Autor: Gaming Business
+   URL: https://simanw.local/extra40
+
+66. [2026-08-12] [ciencia] [positivo]
+   Nuevos sensores permiten monitoreo remoto de pacientes
+   Autor: Salud Digital
+   URL: https://simanw.local/extra41
+
+67. [2026-08-15] [salud] [neutral]
+   Investigación confirma reducción acelerada de glaciares
+   Autor: Ciencia Global
+   URL: https://simanw.local/extra42
+
+68. [2026-08-18] [economia] [neutral]
+   Startups tecnológicas atraen nuevas inversiones internacionales
+   Autor: Economía Digital
+   URL: https://simanw.local/extra43
+
+69. [2026-08-20] [politica] [neutral]
+   Nueva ley busca fortalecer protección de datos personales
+   Autor: Política Nacional
+   URL: https://simanw.local/extra44
+
+70. [2026-08-23] [videojuegos] [neutral]
+   Videojuego de simulación médica gana premio internacional
+   Autor: Gaming Health
+   URL: https://simanw.local/extra45
+
+71. [2026-09-01] [ciencia] [neutral]
+   Investigadores desarrollan baterías más eficientes y sostenibles
+   Autor: Ciencia Global
+   URL: https://simanw.local/extra46
+
+72. [2026-09-04] [tecnologia] [positivo]
+   Empresas aceleran adopción de herramientas de inteligencia artificial
+   Autor: Digital Business
+   URL: https://simanw.local/extra47
+
+73. [2026-09-08] [economia] [neutral]
+   Autoridades anuncian inversión histórica en hospitales públicos
+   Autor: Salud Nacional
+   URL: https://simanw.local/extra48
+
+74. [2026-09-12] [economia] [negativo]
+   Economistas advierten desaceleración en sectores productivos
+   Autor: Economía Hoy
+   URL: https://simanw.local/extra49
+
+75. [2026-09-15] [tecnologia] [neutral]
+   Desarrolladores presentan plataforma de realidad virtual para educación
+   Autor: EdTech News
+   URL: https://simanw.local/extra50
+
+
+5. CAPACIDADES DEMOSTRADAS
+----------------------------------------
+[OK] Rastreo web con BeautifulSoup/Scrapy
+[OK] Control de calidad del corpus
+[OK] Procesamiento NLP
+[OK] Clasificación automática
+[OK] Análisis de sentimiento
+[OK] Motor de búsqueda vectorial
+[OK] Alertas por consultas guardadas
+[OK] Chatbot y sistema Q&A
+[OK] Knowledge Graph RDF
+[OK] Consultas SPARQL
+[OK] Exportación Turtle y JSON-LD
+[OK] Reportes automáticos
+[OK] Trazabilidad de ejecución
+
+======================================================================
+ FIN DEL REPORTE
+======================================================================

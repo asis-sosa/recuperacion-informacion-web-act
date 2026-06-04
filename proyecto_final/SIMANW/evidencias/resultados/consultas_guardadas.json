@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "fecha_creacion": "2026-05-29 20:53:47"
+  },
+  {
+    "id": 2,
+    "nombre": "Alerta Python",
+    "consulta": "python",
+    "fecha_creacion": "2026-05-29 20:53:47"
+  },
+  {
+    "id": 3,
+    "nombre": "Alerta Economía",
+    "consulta": "mercados financieros",
+    "fecha_creacion": "2026-05-29 20:53:47"
+  },
+  {
+    "id": 4,
+    "nombre": "Alerta Gobierno",
+    "consulta": "datos abiertos",
+    "fecha_creacion": "2026-05-29 20:53:47"
+  },
+  {
+    "id": 5,
+    "nombre": "Alerta Clima",
+    "consulta": "cambio climático",
+    "fecha_creacion": "2026-05-29 20:53:47"
+  }
+]

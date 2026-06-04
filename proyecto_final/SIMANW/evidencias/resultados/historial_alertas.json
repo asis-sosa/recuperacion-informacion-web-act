@@ -1,0 +1,42 @@
+[
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 1,
+    "titulo": "Avances en inteligencia artificial generativa impactan la educación",
+    "timestamp": "2026-05-29 20:53:47"
+  },
+  {
+    "consulta_id": 2,
+    "consulta_nombre": "Alerta Python",
+    "consulta": "python",
+    "noticia_id": 2,
+    "titulo": "Python se mantiene como lenguaje clave para ciencia de datos",
+    "timestamp": "2026-05-29 20:53:47"
+  },
+  {
+    "consulta_id": 3,
+    "consulta_nombre": "Alerta Economía",
+    "consulta": "mercados financieros",
+    "noticia_id": 3,
+    "titulo": "Mercados financieros reaccionan ante nuevas tasas de interés",
+    "timestamp": "2026-05-29 20:53:47"
+  },
+  {
+    "consulta_id": 4,
+    "consulta_nombre": "Alerta Gobierno",
+    "consulta": "datos abiertos",
+    "noticia_id": 4,
+    "titulo": "Gobierno publica portal de datos abiertos",
+    "timestamp": "2026-05-29 20:53:47"
+  },
+  {
+    "consulta_id": 5,
+    "consulta_nombre": "Alerta Clima",
+    "consulta": "cambio climático",
+    "noticia_id": 5,
+    "titulo": "Estudio alerta sobre cambio climático y emisiones",
+    "timestamp": "2026-05-29 20:53:47"
+  }
+]

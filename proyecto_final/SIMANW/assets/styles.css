@@ -1,0 +1,198 @@
+:root {
+    --fondo: #F7F1E8;
+    --card: #FFF9F0;
+    --ladrillo: #B55239;
+    --ladrillo-oscuro: #8F3E2D;
+    --texto: #2B211E;
+    --borde: #E3C7B8;
+}
+
+.stApp {
+    background-color: var(--fondo);
+    color: var(--texto);
+}
+
+section[data-testid="stSidebar"] {
+    background-color: var(--ladrillo-oscuro);
+}
+
+section[data-testid="stSidebar"] * {
+    color: white !important;
+}
+
+h1, h2, h3 {
+    color: var(--ladrillo-oscuro);
+}
+
+div.stButton > button {
+    background-color: var(--ladrillo);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 0.6rem 1rem;
+    font-weight: 600;
+}
+
+div.stButton > button:hover {
+    background-color: var(--ladrillo-oscuro);
+    color: white;
+}
+
+.simanw-card {
+    background: var(--card);
+    border: 1px solid var(--borde);
+    border-radius: 18px;
+    padding: 20px;
+    box-shadow: 0 5px 14px rgba(0,0,0,0.08);
+    margin-bottom: 14px;
+}
+
+.simanw-card-title {
+    color: var(--ladrillo);
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.simanw-card-value {
+    color: var(--ladrillo-oscuro);
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.simanw-card-desc {
+    color: #6B5B53;
+    font-size: 0.9rem;
+}
+
+.news-card {
+    background: #FFFDF8;
+    border: 1px solid var(--borde);
+    border-left: 7px solid var(--ladrillo);
+    border-radius: 18px;
+    padding: 18px;
+    margin-bottom: 16px;
+    box-shadow: 0 5px 14px rgba(0,0,0,0.07);
+}
+
+.news-title {
+    color: var(--ladrillo-oscuro);
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.news-snippet {
+    color: var(--texto);
+    margin-bottom: 12px;
+}
+
+.tag {
+    padding: 5px 10px;
+    border-radius: 999px;
+    color: white;
+    font-size: 0.82rem;
+    font-weight: 700;
+    margin-right: 6px;
+    display: inline-block;
+}
+
+.user-bubble {
+    background: #B55239;
+    color: white;
+    padding: 12px 16px;
+    border-radius: 16px;
+    margin: 8px 0;
+}
+
+.bot-bubble {
+    background: #2F6F9F;
+    color: white;
+    padding: 12px 16px;
+    border-radius: 16px;
+    margin: 8px 0;
+}
+
+.stCaptionContainer, .stMarkdown p, label {
+    color: black !important;
+}
+
+input, textarea, div[data-baseweb="select"] > div {
+    background-color: #FFF9F0 !important;
+    color: black !important;
+    border: 1px solid #B55239 !important;
+    border-radius: 10px !important;
+}
+
+div[data-testid="stDataFrame"] {
+    background-color: #FFF9F0 !important;
+    border: 1px solid #E3C7B8 !important;
+    border-radius: 14px !important;
+    padding: 8px !important;
+}
+
+div[data-testid="stDataFrame"] * {
+    color: #2B211E !important;
+}
+
+div[data-testid="stAlert"] {
+    background-color: #FFF9F0 !important;
+    color: #2B211E !important;
+    border: 1px solid #B55239 !important;
+    border-radius: 12px !important;
+}
+
+div[data-testid="stCodeBlock"] {
+    background-color: #FFF9F0 !important;
+    border: 1px solid #E3C7B8 !important;
+    border-radius: 14px !important;
+}
+
+div[data-testid="stCodeBlock"] pre {
+    background-color: #FFF9F0 !important;
+    color: #2B211E !important;
+}
+
+textarea {
+    background-color: #FFF9F0 !important;
+    color: #2B211E !important;
+    border: 1px solid #B55239 !important;
+}
+
+.tabla-contenedor {
+    background-color: #FFF9F0;
+    border: 1px solid #E3C7B8;
+    border-radius: 14px;
+    padding: 12px;
+    overflow-x: auto;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.07);
+}
+
+.tabla-simanw {
+    width: 100%;
+    border-collapse: collapse;
+    color: #2B211E;
+    background-color: #FFF9F0;
+}
+
+.tabla-simanw th {
+    background-color: #B55239;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.tabla-simanw td {
+    padding: 10px;
+    border-bottom: 1px solid #E3C7B8;
+    color: #2B211E;
+}
+
+.tabla-simanw tr:nth-child(even) {
+    background-color: #F7F1E8;
+}
+
+.tabla-simanw tr:hover {
+    background-color: #F0DDD0;
+}

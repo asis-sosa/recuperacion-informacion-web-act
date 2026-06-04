@@ -1,0 +1,28 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix simanw: <http://simanw.org/ontology/> .
+
+simanw:Categoria a owl:Class .
+
+simanw:Fuente a owl:Class .
+
+simanw:provieneDe a owl:ObjectProperty .
+
+simanw:relacionadaCon a owl:ObjectProperty .
+
+simanw:sentimientoEtiqueta a owl:DatatypeProperty .
+
+simanw:sentimientoScore a owl:DatatypeProperty .
+
+simanw:tieneAutor a owl:ObjectProperty ;
+    rdfs:domain simanw:Noticia ;
+    rdfs:range simanw:Autor .
+
+simanw:tieneCategoria a owl:ObjectProperty .
+
+simanw:urlOriginal a owl:DatatypeProperty .
+
+simanw:Autor a owl:Class .
+
+simanw:Noticia a owl:Class .
+

@@ -1,0 +1,1178 @@
+[
+  {
+    "titulo": "Nueva herramienta de inteligencia artificial optimiza procesos empresariales",
+    "cuerpo": "Diversas empresas tecnológicas han comenzado a implementar sistemas de inteligencia artificial para automatizar tareas repetitivas y mejorar la productividad.",
+    "fecha": "2026-01-01",
+    "autor": "Tech News",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/tech1"
+  },
+  {
+    "titulo": "Desarrolladores presentan innovadora plataforma de software colaborativo",
+    "cuerpo": "Una nueva plataforma permite a equipos de trabajo coordinar proyectos en tiempo real utilizando herramientas basadas en la nube.",
+    "fecha": "2026-01-02",
+    "autor": "Tech News",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/tech2"
+  },
+  {
+    "titulo": "Avances en computación cuántica generan expectativas",
+    "cuerpo": "Investigadores afirman que los nuevos prototipos podrían acelerar significativamente el procesamiento de datos complejos.",
+    "fecha": "2026-01-03",
+    "autor": "Tech World",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/tech3"
+  },
+  {
+    "titulo": "Empresa lanza asistente virtual basado en aprendizaje automático",
+    "cuerpo": "El nuevo sistema utiliza redes neuronales para comprender solicitudes complejas y ofrecer respuestas más precisas.",
+    "fecha": "2026-01-04",
+    "autor": "Tech World",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/tech4"
+  },
+  {
+    "titulo": "La ciberseguridad se convierte en prioridad para organizaciones",
+    "cuerpo": "Especialistas recomiendan fortalecer la protección de datos ante el aumento de amenazas digitales.",
+    "fecha": "2026-02-05",
+    "autor": "Digital Report",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/tech5"
+  },
+  {
+    "titulo": "Mercados financieros registran crecimiento sostenido",
+    "cuerpo": "Analistas económicos reportan una mejora gradual en los indicadores financieros durante el último trimestre.",
+    "fecha": "2026-02-01",
+    "autor": "Economy Daily",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/econ1"
+  },
+  {
+    "titulo": "Inflación muestra señales de desaceleración",
+    "cuerpo": "Los últimos reportes sugieren una reducción moderada en el ritmo de crecimiento de los precios.",
+    "fecha": "2026-02-02",
+    "autor": "Economy Daily",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/econ2"
+  },
+  {
+    "titulo": "Banco central mantiene tasas de interés",
+    "cuerpo": "La institución considera que la estabilidad financiera actual permite conservar las políticas monetarias vigentes.",
+    "fecha": "2026-02-03",
+    "autor": "Financial News",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/econ3"
+  },
+  {
+    "titulo": "Exportaciones alcanzan nuevo récord anual",
+    "cuerpo": "El comercio internacional muestra resultados positivos impulsados por el crecimiento de la demanda externa.",
+    "fecha": "2026-02-04",
+    "autor": "Financial News",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/econ4"
+  },
+  {
+    "titulo": "Empresas anuncian nuevas inversiones industriales",
+    "cuerpo": "Diversos sectores productivos prevén ampliar operaciones y generar empleos durante los próximos meses.",
+    "fecha": "2026-02-05",
+    "autor": "Economy Daily",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/econ5"
+  },
+  {
+    "titulo": "Investigadores estudian nuevas soluciones para el cambio climático",
+    "cuerpo": "Equipos científicos desarrollan tecnologías enfocadas en reducir emisiones contaminantes.",
+    "fecha": "2026-02-01",
+    "autor": "Science Journal",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/science1"
+  },
+  {
+    "titulo": "Descubren especie marina en aguas profundas",
+    "cuerpo": "La expedición científica identificó organismos desconocidos previamente para la comunidad académica.",
+    "fecha": "2026-02-02",
+    "autor": "Science Journal",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/science2"
+  },
+  {
+    "titulo": "Observatorio detecta fenómeno astronómico inusual",
+    "cuerpo": "Los expertos continúan analizando la información obtenida mediante telescopios de alta precisión.",
+    "fecha": "2026-03-03",
+    "autor": "Space News",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/science3"
+  },
+  {
+    "titulo": "Avances en energías renovables mejoran eficiencia",
+    "cuerpo": "Nuevos materiales permiten aumentar el rendimiento de sistemas de generación limpia.",
+    "fecha": "2026-03-04",
+    "autor": "Science Journal",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/science4"
+  },
+  {
+    "titulo": "Universidades fortalecen proyectos de investigación",
+    "cuerpo": "Diversas instituciones anunciaron financiamiento para estudios científicos multidisciplinarios.",
+    "fecha": "2026-03-05",
+    "autor": "Academic Review",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/science5"
+  },
+  {
+    "titulo": "Hospital desarrolla nuevo tratamiento contra diabetes",
+    "cuerpo": "Especialistas médicos reportan avances significativos para mejorar la calidad de vida de los pacientes.",
+    "fecha": "2026-03-01",
+    "autor": "Salud Hoy",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/health1"
+  },
+  {
+    "titulo": "Campaña nacional de vacunación supera expectativas",
+    "cuerpo": "Las autoridades sanitarias informaron una alta participación de la población en el programa.",
+    "fecha": "2026-03-02",
+    "autor": "Salud Hoy",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/health2"
+  },
+  {
+    "titulo": "Especialistas recomiendan hábitos para prevenir enfermedades",
+    "cuerpo": "La actividad física y la alimentación equilibrada continúan siendo factores fundamentales.",
+    "fecha": "2026-03-03",
+    "autor": "Medical News",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/health3"
+  },
+  {
+    "titulo": "Nueva tecnología mejora diagnósticos clínicos",
+    "cuerpo": "Hospitales comienzan a utilizar herramientas avanzadas para detectar enfermedades de forma temprana.",
+    "fecha": "2026-04-04",
+    "autor": "Medical News",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/health4"
+  },
+  {
+    "titulo": "Investigación médica analiza efectos de tratamientos innovadores",
+    "cuerpo": "Los resultados preliminares muestran indicadores positivos para futuras aplicaciones clínicas.",
+    "fecha": "2026-04-05",
+    "autor": "Salud Hoy",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/health5"
+  },
+  {
+    "titulo": "Nuevo videojuego de estrategia rompe récords de ventas",
+    "cuerpo": "La industria del gaming celebra uno de los lanzamientos más exitosos del año.",
+    "fecha": "2026-04-01",
+    "autor": "Gaming News",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/game1"
+  },
+  {
+    "titulo": "Torneo internacional de eSports reúne miles de jugadores",
+    "cuerpo": "Equipos profesionales compiten por importantes premios y reconocimiento mundial.",
+    "fecha": "2026-04-02",
+    "autor": "Gaming News",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/game2"
+  },
+  {
+    "titulo": "Desarrolladora anuncia expansión para popular videojuego",
+    "cuerpo": "La actualización incluirá nuevas misiones, personajes y contenido descargable.",
+    "fecha": "2026-04-03",
+    "autor": "Game Report",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/game3"
+  },
+  {
+    "titulo": "Nintendo presenta innovaciones para su próxima consola",
+    "cuerpo": "La compañía compartió detalles técnicos y nuevas características para los jugadores.",
+    "fecha": "2026-04-04",
+    "autor": "Game Report",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/game4"
+  },
+  {
+    "titulo": "El mercado de videojuegos continúa creciendo a nivel mundial",
+    "cuerpo": "Los analistas destacan el aumento de usuarios y la expansión de competencias electrónicas.",
+    "fecha": "2026-04-05",
+    "autor": "Gaming News",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/game5"
+  },
+  {
+    "titulo": "Nueva plataforma médica con inteligencia artificial mejora diagnósticos tempranos",
+    "cuerpo": "Especialistas celebran el avance porque la herramienta ayuda a detectar enfermedades con mayor precisión y rapidez, generando resultados positivos para pacientes y hospitales.",
+    "fecha": "2026-04-06",
+    "autor": "Salud Digital",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra1"
+  },
+  {
+    "titulo": "Falla crítica en sistema hospitalario retrasa atención de pacientes",
+    "cuerpo": "El error tecnológico provocó preocupación entre médicos y usuarios, ya que varios diagnósticos fueron demorados y el servicio recibió críticas negativas.",
+    "fecha": "2026-04-06",
+    "autor": "Reporte Salud",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra2"
+  },
+  {
+    "titulo": "Videojuego terapéutico ayuda a mejorar coordinación motriz de pacientes",
+    "cuerpo": "Una empresa tecnológica desarrolló un videojuego clínico utilizado en terapias de rehabilitación, con resultados alentadores en coordinación sensorial y movilidad.",
+    "fecha": "2026-04-07",
+    "autor": "Innovación Médica",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra3"
+  },
+  {
+    "titulo": "Aplicación de salud mental recibe excelentes valoraciones de usuarios",
+    "cuerpo": "La herramienta digital ofrece seguimiento emocional, ejercicios de respiración y asistencia personalizada, generando comentarios positivos por su facilidad de uso.",
+    "fecha": "2026-04-07",
+    "autor": "Salud Hoy",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra4"
+  },
+  {
+    "titulo": "Hospital enfrenta críticas por deficiencias en plataforma de citas",
+    "cuerpo": "Pacientes reportaron retrasos, errores de registro y una mala experiencia al intentar programar consultas mediante el sistema digital.",
+    "fecha": "2026-04-08",
+    "autor": "Reporte Ciudadano",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra5"
+  },
+  {
+    "titulo": "Nuevo motor gráfico revoluciona el desarrollo de videojuegos educativos",
+    "cuerpo": "Desarrolladores celebran la tecnología porque permite crear experiencias interactivas más accesibles, dinámicas y útiles para estudiantes.",
+    "fecha": "2026-05-08",
+    "autor": "Gaming Lab",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra6"
+  },
+  {
+    "titulo": "Lanzamiento de videojuego multijugador recibe fuertes críticas por errores",
+    "cuerpo": "Los jugadores reportaron fallas graves, servidores inestables y problemas de rendimiento, lo que generó una recepción negativa en la comunidad.",
+    "fecha": "2026-05-09",
+    "autor": "Game Report",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra7"
+  },
+  {
+    "titulo": "Investigadores usan videojuegos para estudiar aprendizaje en jóvenes",
+    "cuerpo": "El proyecto científico analiza cómo los entornos interactivos pueden mejorar memoria, atención y resolución de problemas en estudiantes.",
+    "fecha": "2026-05-09",
+    "autor": "Ciencia Interactiva",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/extra8"
+  },
+  {
+    "titulo": "Torneo de eSports impulsa economía local con resultados positivos",
+    "cuerpo": "Hoteles, restaurantes y comercios reportaron aumento de ingresos durante el evento, mientras miles de jugadores asistieron a la competencia.",
+    "fecha": "2026-05-10",
+    "autor": "Gaming Economy",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra9"
+  },
+  {
+    "titulo": "Comunidad gamer critica políticas abusivas de monetización",
+    "cuerpo": "Jugadores calificaron negativamente las nuevas compras internas, argumentando que afectan la experiencia y favorecen prácticas injustas.",
+    "fecha": "2026-05-10",
+    "autor": "Gaming News",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra10"
+  },
+  {
+    "titulo": "Gobierno anuncia portal de datos abiertos para monitorear hospitales",
+    "cuerpo": "La plataforma pública permitirá consultar indicadores de salud, ocupación hospitalaria y recursos médicos mediante tecnología de datos abiertos.",
+    "fecha": "2026-05-11",
+    "autor": "Gobierno Digital",
+    "categoria_original": "politica",
+    "url": "https://simanw.local/extra11"
+  },
+  {
+    "titulo": "Reforma tecnológica genera debate negativo en el sector público",
+    "cuerpo": "Especialistas advierten que la propuesta carece de presupuesto suficiente y podría afectar la implementación de servicios digitales.",
+    "fecha": "2026-05-11",
+    "autor": "Análisis Público",
+    "categoria_original": "politica",
+    "url": "https://simanw.local/extra12"
+  },
+  {
+    "titulo": "Programa gubernamental de becas tecnológicas recibe apoyo ciudadano",
+    "cuerpo": "Estudiantes y docentes calificaron positivamente la iniciativa porque fortalece habilidades digitales y oportunidades de empleo.",
+    "fecha": "2026-05-12",
+    "autor": "Educación Pública",
+    "categoria_original": "politica",
+    "url": "https://simanw.local/extra13"
+  },
+  {
+    "titulo": "Política ambiental reduce emisiones y mejora indicadores científicos",
+    "cuerpo": "Nuevos reportes muestran resultados positivos en la disminución de contaminantes gracias a medidas ambientales y monitoreo tecnológico.",
+    "fecha": "2026-05-12",
+    "autor": "Ambiente Hoy",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/extra14"
+  },
+  {
+    "titulo": "Falta de transparencia en datos públicos provoca críticas",
+    "cuerpo": "Organizaciones civiles señalaron errores, ausencia de información y baja calidad en los datos disponibles para consulta ciudadana.",
+    "fecha": "2026-05-13",
+    "autor": "Transparencia MX",
+    "categoria_original": "politica",
+    "url": "https://simanw.local/extra15"
+  },
+  {
+    "titulo": "Empresa tecnológica reporta crecimiento financiero histórico",
+    "cuerpo": "La compañía obtuvo resultados positivos por la venta de software, servicios en la nube e inteligencia artificial empresarial.",
+    "fecha": "2026-05-13",
+    "autor": "Economy Tech",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra16"
+  },
+  {
+    "titulo": "Caída de acciones tecnológicas genera preocupación en mercados",
+    "cuerpo": "Inversionistas reaccionaron negativamente ante pérdidas en empresas de software, semiconductores y plataformas digitales.",
+    "fecha": "2026-06-14",
+    "autor": "Mercados Hoy",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra17"
+  },
+  {
+    "titulo": "Startups de salud digital atraen nuevas inversiones",
+    "cuerpo": "Fondos financieros muestran interés positivo en empresas que combinan medicina, datos clínicos e inteligencia artificial.",
+    "fecha": "2026-06-14",
+    "autor": "Economía Salud",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra18"
+  },
+  {
+    "titulo": "Crisis logística afecta distribución de medicamentos",
+    "cuerpo": "El sector económico y hospitalario enfrenta problemas negativos por retrasos, costos elevados y falta de suministros.",
+    "fecha": "2026-06-15",
+    "autor": "Economía Salud",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra19"
+  },
+  {
+    "titulo": "Mercado global de videojuegos supera expectativas financieras",
+    "cuerpo": "Analistas reportan crecimiento positivo en ventas digitales, consolas y servicios de suscripción para jugadores.",
+    "fecha": "2026-06-15",
+    "autor": "Economy Gaming",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra20"
+  },
+  {
+    "titulo": "Nuevo estudio científico confirma beneficios de terapia digital",
+    "cuerpo": "Investigadores reportan resultados positivos en pacientes que utilizaron aplicaciones interactivas durante procesos de rehabilitación.",
+    "fecha": "2026-06-16",
+    "autor": "Ciencia Salud",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/extra21"
+  },
+  {
+    "titulo": "Experimento tecnológico fracasa y genera resultados negativos",
+    "cuerpo": "El prototipo presentó errores, bajo rendimiento y fallas inesperadas durante las pruebas de laboratorio.",
+    "fecha": "2026-06-16",
+    "autor": "Laboratorio Tech",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/extra22"
+  },
+  {
+    "titulo": "Sistema de realidad virtual mejora entrenamiento médico",
+    "cuerpo": "Universidades y hospitales implementan simuladores de realidad virtual para capacitar cirujanos con resultados favorables.",
+    "fecha": "2026-06-17",
+    "autor": "Ciencia Médica",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/extra23"
+  },
+  {
+    "titulo": "Plataforma educativa de programación recibe reconocimiento internacional",
+    "cuerpo": "La solución tecnológica fue evaluada positivamente por su impacto en estudiantes, docentes y comunidades de aprendizaje.",
+    "fecha": "2026-06-17",
+    "autor": "Tech Education",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/extra24"
+  },
+  {
+    "titulo": "Nueva red social gamer genera preocupación por privacidad",
+    "cuerpo": "Expertos en ciberseguridad advierten riesgos negativos relacionados con datos personales, menores de edad y comunidades de videojuegos.",
+    "fecha": "2026-06-18",
+    "autor": "Digital Gaming",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/extra25"
+  },
+  {
+    "titulo": "Hospital implementa inteligencia artificial para detectar enfermedades tempranas",
+    "cuerpo": "Un nuevo sistema basado en inteligencia artificial ayuda a médicos a identificar patrones clínicos complejos y acelerar diagnósticos.",
+    "fecha": "2026-07-02",
+    "autor": "Salud Digital",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra26"
+  },
+  {
+    "titulo": "Empresa mexicana desarrolla videojuego educativo para rehabilitación motriz",
+    "cuerpo": "Especialistas combinan videojuegos interactivos y ejercicios físicos para apoyar terapias de recuperación en pacientes jóvenes.",
+    "fecha": "2026-07-04",
+    "autor": "Gaming Health",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra27"
+  },
+  {
+    "titulo": "Mercados reaccionan positivamente a reducción de tasas de interés",
+    "cuerpo": "Analistas reportan optimismo moderado tras los anuncios económicos realizados durante la semana.",
+    "fecha": "2026-07-05",
+    "autor": "Economía Hoy",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra28"
+  },
+  {
+    "titulo": "Nueva actualización de consola mejora el rendimiento gráfico",
+    "cuerpo": "Los usuarios reportan tiempos de carga más rápidos y mayor estabilidad en títulos recientes.",
+    "fecha": "2026-07-07",
+    "autor": "Gaming Press",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra29"
+  },
+  {
+    "titulo": "Investigadores descubren nueva especie marina en el Pacífico",
+    "cuerpo": "El hallazgo podría aportar información relevante sobre biodiversidad y conservación de ecosistemas.",
+    "fecha": "2026-07-08",
+    "autor": "Ciencia Global",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/extra30"
+  },
+  {
+    "titulo": "Gobierno anuncia programa nacional de conectividad rural",
+    "cuerpo": "La iniciativa busca ampliar el acceso a internet en comunidades alejadas mediante infraestructura tecnológica.",
+    "fecha": "2026-07-10",
+    "autor": "Política Nacional",
+    "categoria_original": "politica",
+    "url": "https://simanw.local/extra31"
+  },
+  {
+    "titulo": "Ciberataque afecta a miles de usuarios de plataforma financiera",
+    "cuerpo": "Expertos advierten sobre riesgos relacionados con filtraciones de datos y fraudes electrónicos.",
+    "fecha": "2026-07-12",
+    "autor": "Seguridad Digital",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/extra32"
+  },
+  {
+    "titulo": "Vacuna experimental muestra resultados prometedores",
+    "cuerpo": "Los ensayos preliminares indican una respuesta inmunológica superior a la esperada.",
+    "fecha": "2026-07-14",
+    "autor": "Salud Internacional",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra33"
+  },
+  {
+    "titulo": "Desarrolladores integran IA generativa en motores de videojuegos",
+    "cuerpo": "La tecnología permitirá crear personajes y escenarios dinámicos en tiempo real.",
+    "fecha": "2026-07-16",
+    "autor": "Gaming Tech",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra34"
+  },
+  {
+    "titulo": "Inflación mantiene tendencia estable durante el trimestre",
+    "cuerpo": "Los indicadores económicos muestran un comportamiento dentro de los rangos previstos.",
+    "fecha": "2026-07-18",
+    "autor": "Economía Hoy",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra35"
+  },
+  {
+    "titulo": "Nueva plataforma de aprendizaje utiliza inteligencia artificial adaptativa",
+    "cuerpo": "El sistema personaliza contenidos educativos según el avance y desempeño de cada estudiante.",
+    "fecha": "2026-08-01",
+    "autor": "EdTech News",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/extra36"
+  },
+  {
+    "titulo": "Aumentan casos de estrés digital entre jóvenes",
+    "cuerpo": "Especialistas recomiendan establecer hábitos saludables para reducir el impacto psicológico del uso intensivo de tecnología.",
+    "fecha": "2026-08-03",
+    "autor": "Salud Mental",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra37"
+  },
+  {
+    "titulo": "Laboratorio presenta avances en computación cuántica",
+    "cuerpo": "Los investigadores aseguran que los nuevos prototipos mejoran significativamente la estabilidad del sistema.",
+    "fecha": "2026-08-05",
+    "autor": "Quantum Research",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/extra38"
+  },
+  {
+    "titulo": "Debate legislativo sobre regulación de inteligencia artificial",
+    "cuerpo": "Diversos sectores discuten el impacto social y económico de los sistemas automatizados.",
+    "fecha": "2026-08-07",
+    "autor": "Política Nacional",
+    "categoria_original": "politica",
+    "url": "https://simanw.local/extra39"
+  },
+  {
+    "titulo": "Industria de videojuegos registra crecimiento récord",
+    "cuerpo": "Las ventas digitales y los servicios en línea impulsan los ingresos del sector.",
+    "fecha": "2026-08-09",
+    "autor": "Gaming Business",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra40"
+  },
+  {
+    "titulo": "Nuevos sensores permiten monitoreo remoto de pacientes",
+    "cuerpo": "Hospitales adoptan dispositivos conectados para mejorar el seguimiento clínico.",
+    "fecha": "2026-08-12",
+    "autor": "Salud Digital",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra41"
+  },
+  {
+    "titulo": "Investigación confirma reducción acelerada de glaciares",
+    "cuerpo": "Los científicos alertan sobre impactos ambientales y económicos asociados al fenómeno.",
+    "fecha": "2026-08-15",
+    "autor": "Ciencia Global",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/extra42"
+  },
+  {
+    "titulo": "Startups tecnológicas atraen nuevas inversiones internacionales",
+    "cuerpo": "Fondos de inversión muestran interés creciente por proyectos de innovación digital.",
+    "fecha": "2026-08-18",
+    "autor": "Economía Digital",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra43"
+  },
+  {
+    "titulo": "Nueva ley busca fortalecer protección de datos personales",
+    "cuerpo": "La propuesta incluye sanciones más severas para organizaciones que incumplan regulaciones.",
+    "fecha": "2026-08-20",
+    "autor": "Política Nacional",
+    "categoria_original": "politica",
+    "url": "https://simanw.local/extra44"
+  },
+  {
+    "titulo": "Videojuego de simulación médica gana premio internacional",
+    "cuerpo": "La aplicación permite entrenar procedimientos clínicos en entornos virtuales realistas.",
+    "fecha": "2026-08-23",
+    "autor": "Gaming Health",
+    "categoria_original": "videojuegos",
+    "url": "https://simanw.local/extra45"
+  },
+  {
+    "titulo": "Investigadores desarrollan baterías más eficientes y sostenibles",
+    "cuerpo": "La innovación podría reducir costos energéticos y disminuir residuos contaminantes.",
+    "fecha": "2026-09-01",
+    "autor": "Ciencia Global",
+    "categoria_original": "ciencia",
+    "url": "https://simanw.local/extra46"
+  },
+  {
+    "titulo": "Empresas aceleran adopción de herramientas de inteligencia artificial",
+    "cuerpo": "Los sistemas automatizados ayudan a optimizar procesos y mejorar la productividad.",
+    "fecha": "2026-09-04",
+    "autor": "Digital Business",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/extra47"
+  },
+  {
+    "titulo": "Autoridades anuncian inversión histórica en hospitales públicos",
+    "cuerpo": "El proyecto contempla equipamiento médico, infraestructura y capacitación especializada.",
+    "fecha": "2026-09-08",
+    "autor": "Salud Nacional",
+    "categoria_original": "salud",
+    "url": "https://simanw.local/extra48"
+  },
+  {
+    "titulo": "Economistas advierten desaceleración en sectores productivos",
+    "cuerpo": "Algunos indicadores muestran señales negativas relacionadas con exportaciones y consumo.",
+    "fecha": "2026-09-12",
+    "autor": "Economía Hoy",
+    "categoria_original": "economia",
+    "url": "https://simanw.local/extra49"
+  },
+  {
+    "titulo": "Desarrolladores presentan plataforma de realidad virtual para educación",
+    "cuerpo": "La iniciativa combina tecnología inmersiva, simulaciones interactivas y contenidos académicos.",
+    "fecha": "2026-09-15",
+    "autor": "EdTech News",
+    "categoria_original": "tecnologia",
+    "url": "https://simanw.local/extra50"
+  },
+  {
+    "titulo": "Por qué Venezuela llegó a tener uranio altamente enriquecido y cómo fue la reciente operación secreta para entregárselo a EE.UU.",
+    "cuerpo": "A finales de abril, los gobiernos de Venezuela, Estados Unidos y Reino Unido realizaron una operación para llevarse de Venezuela una carga de uranio altamente enriquecido. BBC Mundo te cuenta cómo fue.",
+    "fecha": "Wed, 03 Jun 2026 11:18:05 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c78q25x7vy4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Al menos un muerto y decenas de heridos en un ataque con drones de Irán contra el aeropuerto de Kuwait",
+    "cuerpo": "Irán afirma que el ataque contra Kuwait fue en represalia por ataques estadounidenses anteriores contra un petrolero y una isla iraníes.",
+    "fecha": "Wed, 03 Jun 2026 15:51:46 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c152ek2pxxxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Las razones de Meliá, Iberostar y Blue Diamond, las mayores cadenas hoteleras de Cuba, para cesar operaciones en la isla \"con efecto inmediato\"",
+    "cuerpo": "EE.UU. amenazó con sanciones a todas las compañías que tuvieran vínculos con el conglomerado empresarial de las Fuerzas Armadas cubanas.",
+    "fecha": "Wed, 03 Jun 2026 11:13:58 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras ser apuñalado en Reino Unido",
+    "cuerpo": "Las imágenes grabadas por la cámara policial han generado una enorme conmoción en el país y sembrado dudas sobre la actuación de los agentes.",
+    "fecha": "Wed, 03 Jun 2026 12:49:10 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c4g8n0p5w6yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Qué revela sobre nuestra salud el dolor de cabeza que nos da cuando comemos helado",
+    "cuerpo": "Si sufres dolores de cabeza con frecuencia cuando comes helado, quizá valga la pena averiguar si es algo hereditario en tu familia y revisar también los dolores de cabeza que no están relacionados con el helado.",
+    "fecha": "Wed, 03 Jun 2026 10:26:44 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c242jvdn93jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "\"Es un honor darle mi apoyo\": el polémico respaldo de Trump a Abelardo de la Espriella de cara a la segunda vuelta de las presidenciales en Colombia",
+    "cuerpo": "El presidente de EE.UU. hizo público este martes su respaldo al candidato derechista Abelardo de la Espriella de cara a la segunda vuelta de las elecciones presidenciales en Colombia.",
+    "fecha": "Wed, 03 Jun 2026 02:39:50 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c3d2gx7r3kyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Los miles de marineros estresados ​​y exhaustos tras más de 3 meses atrapados por el bloqueo del estrecho de Ormuz",
+    "cuerpo": "La incertidumbre ha pesado gravemente sobre los 20.000 marineros varados en la zona de guerra.",
+    "fecha": "Wed, 03 Jun 2026 16:07:34 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c1j26lx341ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "La policía de Nueva York investiga videos de hombres saliendo de las alcantarillas de la ciudad",
+    "cuerpo": "La policía de Nueva York está llevando a cabo una investigación tras la aparición en las últimas semanas de múltiples videos que muestran a grupos de personas entrando y saliendo del sistema de alcantarillado de la ciudad.",
+    "fecha": "Tue, 02 Jun 2026 22:44:35 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c202qpeglego?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Qué son las \"zonas muertas\" que amenazan el mar Báltico, el área de agua salobre más grande del mundo",
+    "cuerpo": "Los esfuerzos por recuperar este mar europeo se topan con los retos que suponen la contaminación, el cambio climático y la difícil relación con Rusia.",
+    "fecha": "Wed, 03 Jun 2026 09:30:51 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c1722jpde91o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado",
+    "cuerpo": "Casi cinco años después de la prohibición de la educación en Afganistán, las jóvenes afirman que han tenido que despedirse de sus sueños.",
+    "fecha": "Tue, 02 Jun 2026 10:16:04 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cx211g4j1y9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "La ofensiva de China contra las \"cocinas fantasma\" que acaparan las aplicaciones de comida a domicilio",
+    "cuerpo": "El hallazgo de 67.000 \"cocinas fantasma\" ha desatado preocupaciones sobre la seguridad alimentaria y la feroz competencia en el sector de la comida a domicilio.",
+    "fecha": "Tue, 02 Jun 2026 16:09:05 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cgepllprdxgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "La controversia por los exorbitantes precios del transporte público para llegar a los estadios del Mundial 2026 en EE.UU.",
+    "cuerpo": "Los precios para llegar a algunos partidos han generado críticas de aficionados, autoridades locales e incluso de la FIFA, y han abierto un debate sobre quién debe pagar la factura logística del Mundial.",
+    "fecha": "Tue, 02 Jun 2026 22:00:18 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cvgz2519dvlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "\"La primera innovación para partos desde los años 50\": el revolucionario dispositivo creado por un mecánico argentino que se empezó a usar en Europa",
+    "cuerpo": "Hasta ahora, más 300 bebés han nacido con la ayuda de este aparato, y ninguno ha presentado moretones ni hematomas, según afirman las autoridades sanitarias y los responsables de la empresa que lo fabrica.",
+    "fecha": "Tue, 02 Jun 2026 11:00:04 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cdrp4k3xd72o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "El estremecedor caso de Agostina Vega, la adolescente de 14 años que fue asesinada y descuartizada en Argentina",
+    "cuerpo": "La joven estuvo desaparecida por una semana. Este sábado fue encontrada sin vida en un descampado en el sur de Córdoba.",
+    "fecha": "Tue, 02 Jun 2026 09:40:11 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cdrp8yxyvnvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "\"Trump necesita que la guerra termine, pero Irán no se lo va a poner fácil\"",
+    "cuerpo": "Bajo la presión de las encuestas y de sus aliados en el Golfo, el gobierno de Donald Trump está impulsando un acuerdo, pero Irán exige concesiones.",
+    "fecha": "Tue, 02 Jun 2026 21:11:15 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cj6pjgg4ne6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "\"Había olvidado lo que se siente al estar al aire libre\": cómo es la primera unidad de cuidados intensivos ubicada en una azotea y rodeada de jardines",
+    "cuerpo": "La sala al aire libre del King's College Hospital de Londres empezará a monitorear cuánto acelera la recuperación de los pacientes enfermos gravemente.",
+    "fecha": "Mon, 01 Jun 2026 23:10:51 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/clypexw39ero?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Por qué Pedro Sánchez está en uno de sus peores momentos desde que es presidente del gobierno de España (y el contraste con los elogios que recibe fuera)",
+    "cuerpo": "El entorno del presidente español se ve salpicado por casos de corrupción mientras la oposición le exige elecciones anticipadas.",
+    "fecha": "Tue, 02 Jun 2026 02:49:44 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cn7pn3e16dgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia",
+    "cuerpo": "El \"outsider\" derechista y el senador oficialista disputarán un balotaje en junio de resultado incierto pero más difícil para la izquierda que en 2022, señalan expertos.",
+    "fecha": "Mon, 01 Jun 2026 10:09:37 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cwy2r70lxjmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Cómo se compara la derecha que representa Abelardo de la Espriella con la que siempre gobernó Colombia",
+    "cuerpo": "Abelardo de la Espriella, un abogado polémico que imita las estrategias de Trump, Bukele o Milei representa una derecha distinta a la que gobernó Colombia por décadas. Él, sin embargo, dice que es más uribista que Álvaro Uribe. Perfil en clave histórica.",
+    "fecha": "Mon, 01 Jun 2026 10:45:06 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cy42zj9gy4eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Las imágenes de satélite que muestran que los ataques de Irán a instalaciones militares de EE.UU. son mucho más extensos de lo que se reconoce",
+    "cuerpo": "Analistas aseguraron a BBC Verify que al menos 20 bases estadounidenses en todo Medio Oriente fueron alcanzadas por misiles y drones lanzados por Teherán desde febrero pasado.",
+    "fecha": "Mon, 01 Jun 2026 14:19:27 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cx2185gex67o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Por qué Marilyn Monroe es quizás el ícono más incomprendido y cómo llegó a significar tanto para mí",
+    "cuerpo": "Lo que empezó como una curiosidad infantil derivó en años de lectura e investigación para una periodista de la BBC.",
+    "fecha": "Mon, 01 Jun 2026 09:41:26 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cewpzxwn50po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Abelardo de la Espriella gana la primera vuelta con su nueva derecha y peleará la presidencia de Colombia frente a la izquierda de Iván Cepeda",
+    "cuerpo": "La primera vuelta de las elecciones en Colombia no dejará un ganador, por lo que el 21 de junio la presidencia se la disputarán los dos candidatos más votados: Abelardo de la Espriella e Iván Cepeda.",
+    "fecha": "Mon, 01 Jun 2026 01:14:19 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c9d3wz5vjlvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Quién es Abelardo de la Espriella, el empresario que promete gobernar Colombia con \"mano de hierro\" inspirado en Bukele y Milei",
+    "cuerpo": "De la Espriella, quien representa a una derecha dura y populista, según expertos, se medirá a Iván Cepeda, candidato de la izquierda petrista.",
+    "fecha": "Mon, 01 Jun 2026 01:18:43 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/ce8pn4zlrd7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Quién es Iván Cepeda, el filósofo cuyo padre fue asesinado en un crimen de Estado y ahora busca continuar la senda de Petro en Colombia",
+    "cuerpo": "Cepeda, senador y víctima de crímenes de Estado, es el candidato izquierdista para las elecciones del país sudamericano.",
+    "fecha": "Sun, 31 May 2026 22:35:59 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c9d3glj965jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Por qué Iván Cepeda denuncia que el gobierno de Ecuador interfirió en las elecciones de Colombia",
+    "cuerpo": "Las acusaciones de injerencia de Ecuador añaden tensión a una campaña ya marcada por la polarización y las disputas sobre los resultados electorales.",
+    "fecha": "Mon, 01 Jun 2026 12:27:05 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cn9pr3jl40eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "En qué se parecen y en qué se diferencian la izquierda de Iván Cepeda y la de Gustavo Petro en Colombia",
+    "cuerpo": "El candidato de la izquierda que pasó a segunda vuelta este domingo comparte causa e ideología con el presidente Petro. Pero en cuando a formas, método y recorrido son distintos. Perfil comparativo.",
+    "fecha": "Mon, 01 Jun 2026 10:46:52 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c98r07dy8mgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Al menos 21 muertos en Ucrania en uno de los mayores ataques de Rusia en los últimos meses con más de 700 drones",
+    "cuerpo": "Los equipos de rescate se apresuran a encontrar a personas que se teme hayan quedado atrapadas bajo los escombros en Kyiv tras el ataque nocturno con misiles y aviones no tripulados.",
+    "fecha": "Tue, 02 Jun 2026 15:09:27 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/ce3p6d9penlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "La importancia estratégica del castillo de 900 años de antigüedad que Israel capturó en Líbano",
+    "cuerpo": "Objeto de lucha durante siglos, el castillo de Beaufort mantiene su importancia estratégica.",
+    "fecha": "Mon, 01 Jun 2026 20:59:45 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cp9pg43xn0ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "El sufrimiento silencioso de los niños en Gaza que han perdido la capacidad de hablar",
+    "cuerpo": "La psicoterapeuta infantil Katrin Glatz Brubakk viajó a Gaza con Médicos Sin Fronteras. Allí luchó por recuperar a niños cuyos traumas pueden dejar secuelas en su cerebro y afectar gravemente su futuro.",
+    "fecha": "Thu, 28 May 2026 03:43:56 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cn8pjnl3m0go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Trump asegura que Israel y Hezbolá han aceptado un alto el fuego parcial, aunque continúan los enfrentamientos en el sur de Líbano",
+    "cuerpo": "La nueva oleada de ataques de Israel contra Hezbolá en Líbano ha provocado una reacción de Irán, que amenaza con romper la tregua que mantiene con EE.UU.",
+    "fecha": "Tue, 02 Jun 2026 06:36:04 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cn9prj83xylo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Por qué los comunistas de India perdieron por completo el poder tras casi 70 años gobernando a millones de personas",
+    "cuerpo": "La historia del auge y la caída de los comunistas en India: desde el poder en los estados hasta la lucha por mantener su relevancia.",
+    "fecha": "Sun, 31 May 2026 02:58:20 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/ce8pjly33ldo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "\"Mi hermano ahora es una persona completamente distinta\": la metamorfosis del mexicano Temach para convertirse en la mayor estrella de la machosfera en América Latina",
+    "cuerpo": "La hermana del influencer mexicano El Temach le dice a la BBC que ya no lo reconoce.",
+    "fecha": "Fri, 29 May 2026 10:37:00 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/clyp8d390vro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Molly amazónica, la especie de pez de los ríos de México que ha sobrevivido 100.000 años sin machos",
+    "cuerpo": "Durante mucho tiempo se ha dado por hecho que las especies asexuales están condenadas a la extinción desde el punto de vista evolutivo, pero un pez extraordinario ha conseguido sobrevivir 100 000 años sin machos.",
+    "fecha": "Tue, 02 Jun 2026 16:20:44 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Cómo Nvidia desafía a Apple e Intel al anunciar un chip de IA para computadores personales",
+    "cuerpo": "Jensen Huang, jefe de esta empresa tecnológica,  calificó la medida como la \"reinvención de los computadores\".",
+    "fecha": "Mon, 01 Jun 2026 19:00:21 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/clypd3r5p18o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Un golpe de suerte: cómo un desconocido farmacéutico británico inventó por casualidad los fósforos de madera hace 200 años",
+    "cuerpo": "Aunque el invento se popularizaría en todo el mundo, John Walker nunca patentó su idea y sigue siendo una figura poco conocida.",
+    "fecha": "Sat, 30 May 2026 08:51:57 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cgqp54pp838o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "En video: el momento en el que explota un cohete de Blue Origin que iba a llevar al espacio satélites de Amazon",
+    "cuerpo": "Un cohete New Glenn de Blue Origin explotó en una plataforma de lanzamiento en Florida",
+    "fecha": "Fri, 29 May 2026 14:25:51 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cm2pgw72230o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "\"Es como si la muerte viniera a buscarnos cada mes\": la pesadilla de vivir con el trastorno disfórico premenstrual",
+    "cuerpo": "Es grave y millones de mujeres lo sufren, pero pueden pasar años antes de que les diagnostiquen y traten adecuadamente este trastorno que causa síntomas psicológicos graves y, en ocasiones, físicos.",
+    "fecha": "Sat, 30 May 2026 12:11:59 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/crkppvv103jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Cómo estar apenas 20 minutos en contacto con la naturaleza puede mejorar tu salud",
+    "cuerpo": "Estudios han revelado que pasar unos minutos caminando por un parque o un bosque puede reducir la presión arterial, la frecuencia cardíaca y los niveles de estrés.",
+    "fecha": "Sun, 31 May 2026 10:16:04 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cvgzd2z5xe7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Qué es el cortisol, qué función cumple esta hormona y por qué recomiendan bajar sus niveles",
+    "cuerpo": "Recientemente la información sobre el cortisol, sus niveles altos y los consejos para bajarlos están por todas partes en redes sociales. Pero ¿qué hay de cierto en ello?",
+    "fecha": "Thu, 28 May 2026 09:34:47 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/clyp01kddwko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Por qué las mujeres viven más que los hombres",
+    "cuerpo": "En todo el mundo, las mujeres viven en promedio cinco años más que los hombres. Los científicos creen que esto puede deberse a variaciones en nuestro comportamiento, así como a algunas diferencias que están incorporadas en nuestra biología.",
+    "fecha": "Tue, 26 May 2026 09:36:21 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cwy221qgkzqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "5 técnicas de respiración que pueden reducir el estrés en pocos minutos y mejorar tu salud",
+    "cuerpo": "La ciencia moderna revela que unos pocos minutos dedicados a concentrarse en cómo respiras pueden aportar beneficios a la salud a largo plazo.",
+    "fecha": "Mon, 25 May 2026 12:55:03 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/ce8pjng9n49o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Cómo la nueva película \"Toy Story 5\" muestra el \"horror\" de la adicción de los niños a las pantallas",
+    "cuerpo": "La última entrega de la saga Toy Story muestra a Woody, Buzz y los demás juguetes compitiendo con una nueva tableta por la atención de los niños.",
+    "fecha": "Tue, 02 Jun 2026 17:59:52 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cr5py9d9dgno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Las revelaciones de la nueva película sobre la enigmática supermodelo Kate Moss",
+    "cuerpo": "Una nueva película sobre la vida de la modelo revela detalles nunca antes conocidos.",
+    "fecha": "Tue, 02 Jun 2026 20:08:55 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c4g9v932gpgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "\"Creía que mi familia se había resistido a Hitler, hasta que descubrí que mi bisabuelo era nazi\"",
+    "cuerpo": "Millones de documentos del Partido Nazi se hicieron públicos este año en Alemania, obligando a la gente a enfrentarse a la realidad de que sus familias apoyaron el régimen fascista de Adolf Hitler.",
+    "fecha": "Sun, 31 May 2026 08:57:56 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c362ykn25jno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Por qué sentir miedo por la caída mundial de la natalidad podría ser un error",
+    "cuerpo": "Durante décadas, la palabra que más generaba temor era \"superpoblación\". Pero, en general, no parece que ese futuro apocalíptico se haya materializado. ¿Hasta qué punto el temor actual por la caída poblacional resulta útil?",
+    "fecha": "Sun, 31 May 2026 14:31:02 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c1k2yzpk4p1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Las incógnitas que aún rodean la muerte de Marilyn Monroe 100 años después de su nacimiento",
+    "cuerpo": "Norma Jeane Baker, o Marilyn Monroe, murió hace más de 60 años, pero todavía persisten muchos interrogantes alrededor de su fallecimiento.",
+    "fecha": "Sun, 31 May 2026 12:52:22 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cg7pegxzelko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Lo que el precio de una sola taza de café dice sobre la agitación económica actual",
+    "cuerpo": "El café no sólo es un ritual diario para millones de personas, sino también una historia de aranceles, clima, gustos culturales de la Generación Z y astutos caficultores.",
+    "fecha": "Sat, 30 May 2026 10:15:08 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cg4pw44r4wlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "5 gráficos que muestran la Colombia que heredará el próximo presidente",
+    "cuerpo": "El sucesor de Gustavo Petro gobernará un país con menos pobres, pero con serios retos de orden público.",
+    "fecha": "Mon, 01 Jun 2026 03:32:25 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c893347kw1qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap",
+    "cuerpo": "Es una de las marcas más influyentes del siglo XX. Triunfó y cayó varias veces y hoy está conquistando una vez más a nuevas generaciones. Esta es la historia de Gap.",
+    "fecha": "Sat, 30 May 2026 13:15:51 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c78qj9zy4j6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Por qué a Venezuela le falta energía pese a su riqueza petrolera y cómo eso limita su recuperación económica",
+    "cuerpo": "Venezuela tiene las reservas probadas de crudo más grandes del mundo y un enorme potencial hidroeléctrico, pese a lo cual el país tiene graves problemas con el servicio eléctrico.",
+    "fecha": "Wed, 27 May 2026 11:02:56 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/ckgp97n1l1do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Cómo Chile se convirtió en el \"shopping\" de cada vez más compradores argentinos",
+    "cuerpo": "Chile se convirtió en un \"centro comercial\" para muchos argentinos que buscan ofertas en el país vecino. Te contamos las razones.",
+    "fecha": "Tue, 26 May 2026 11:32:53 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c87qyrlz3p3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Las imágenes del ejercicio militar de EE.UU. en Caracas autorizado por el gobierno de Venezuela",
+    "cuerpo": "El Comando Sur de EE.UU. realizó maniobras militares en Caracas con autorización del gobierno venezolano de Delcy Rodríguez.",
+    "fecha": "Sat, 23 May 2026 23:45:34 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/cdep52y97p4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "En imágenes: la evacuación de los pasajeros del crucero afectado por el hantavirus en España",
+    "cuerpo": "La nave fondeó aguas españolas la madrugada de este domingo.",
+    "fecha": "Sun, 10 May 2026 14:37:24 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c8jvgpn1rjno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "\"México Moderno\": 8 espectaculares casas que muestran la riqueza arquitectónica del país",
+    "cuerpo": "Desde un icono escultórico de un maestro del modernismo temprano hasta una remota casa de ensueño de tonos rosados, aquí presentamos algunas viviendas mexicanas extraordinarias.",
+    "fecha": "Sat, 09 May 2026 13:26:18 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c77my8kr2pmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "David Attenborough cumple 100 años: la vida en imágenes del arriesgado documentalista que cambió la forma en que vemos nuestro planeta",
+    "cuerpo": "El creador de numerosas series documentales que recorrieron el planeta lleva siete décadas explorando la naturaleza.",
+    "fecha": "Fri, 08 May 2026 23:56:14 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/c0728v55yxdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "Met Gala 2026: así desfilaron las celebridades en la extravagante cita de la moda en Nueva York",
+    "cuerpo": "El evento se celebra cada primer lunes de mayo en el Museo de Arte Metropolitano de Nueva York.",
+    "fecha": "Tue, 05 May 2026 01:05:26 GMT",
+    "autor": "BBC Mundo",
+    "categoria_original": "general",
+    "url": "https://www.bbc.com/mundo/articles/czx2k5d56x6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "titulo": "La IA consumirá en 2030 tanta agua como 1.300 millones de personas",
+    "cuerpo": "Los científicos de la ONU alertan de que “se está minusvalorando” el coste medioambiental de una tecnología que exige cada vez más recursos naturales",
+    "fecha": "Wed, 03 Jun 2026 14:00:56 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-06-03/la-ia-consumira-en-2030-tanta-agua-como-1300-millones-de-personas.html"
+  },
+  {
+    "titulo": "Se acabó la barra libre de la IA: quien pone precio al token decide",
+    "cuerpo": "La economía mundial y los modelos de negocio no están en manos de ciudadanos y gobiernos, sino de unos pocos accionistas que cambian cuando quieren el paradigma",
+    "fecha": "Wed, 03 Jun 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-06-03/se-acabo-la-barra-libre-de-la-ia-quien-pone-precio-al-token-decide.html"
+  },
+  {
+    "titulo": "Cómo evitar que WhatsApp te quite tiempo (sin dejar de usarlo)",
+    "cuerpo": "Repasamos tres funciones de la popular app de mensajería que ayudan a hacer un uso más consciente de ella",
+    "fecha": "Tue, 02 Jun 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-06-02/como-evitar-que-whatsapp-te-quite-tiempo-sin-dejar-de-usarlo.html"
+  },
+  {
+    "titulo": "Frances Haugen: “Estamos peor que cuando filtré los documentos de Facebook”",
+    "cuerpo": "La ‘garganta profunda’ que expuso los peligros para los adolescentes de las redes sociales considera que la próxima gran batalla legal será contra los personajes de IA con los que interactúan los menores",
+    "fecha": "Sun, 31 May 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-31/frances-haugen-estamos-peor-que-cuando-filtre-los-documentos-de-facebook.html"
+  },
+  {
+    "titulo": "Perder 20.000 euros desde una unidad de psiquiatría: el caso que revela las grietas de las apuestas ‘online’",
+    "cuerpo": "Abogados de usuarios de perfiles vulnerables denuncian que la norma de juego responsable no los protege: ¿Se puede responsabilizar a las empresas de los comportamientos adictivos?",
+    "fecha": "Sat, 30 May 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-30/perder-20000-euros-desde-una-unidad-de-psiquiatria-el-caso-que-revela-las-grietas-de-las-apuestas-online.html"
+  },
+  {
+    "titulo": "Tecnología para dormir mejor: apps y dispositivos que funcionan (de verdad)",
+    "cuerpo": "‘Smartwatches’, anillos inteligentes y otros dispositivos monitorizan el sueño y ayudan a detectar patrones relacionados con el descanso",
+    "fecha": "Fri, 29 May 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/tu-tecnologia/2026-05-29/tecnologia-para-dormir-mejor-apps-y-dispositivos-que-funcionan-de-verdad.html"
+  },
+  {
+    "titulo": "Meta lanza planes de pago para WhatsApp, Instagram y Facebook",
+    "cuerpo": "Las versiones ‘plus’ de las aplicaciones costarán entre 3 y 5 euros al mes y tendrán “funciones potenciadas”",
+    "fecha": "Thu, 28 May 2026 07:44:22 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-28/meta-lanza-planes-de-pago-para-whatsapp-instagram-y-facebook.html"
+  },
+  {
+    "titulo": "Más de 10 millones de menores de edad en África y Asia sufrieron abuso sexual digital: “En internet es muy fácil hacer mucho daño”",
+    "cuerpo": "Uno de cada seis jóvenes de entre 12 a 17 años ha recibido imágenes sexuales no deseadas, solicitudes para realizar actos en línea o han sido víctimas de extorsión",
+    "fecha": "Wed, 27 May 2026 15:15:26 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-27/mas-de-10-millones-de-menores-de-edad-en-africa-y-asia-sufrieron-abuso-sexual-digital-en-internet-es-muy-facil-hacer-mucho-dano.html"
+  },
+  {
+    "titulo": "Zapatillas inteligentes y negocios humanos: la IA como filosofía moral",
+    "cuerpo": "Para los legisladores, la dificultad consiste en prever cuáles serán las situaciones por regular sin saber muy bien cómo se concretará la realidad futura",
+    "fecha": "Thu, 28 May 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-humanos-la-ia-como-filosofia-moral.html"
+  },
+  {
+    "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+    "cuerpo": "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas",
+    "fecha": "Tue, 26 May 2026 16:32:04 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html"
+  },
+  {
+    "titulo": "Un monje experto, un festival con Karol G y las inversiones vaticanas: así ha llegado el Papa a decir que “la IA debe ser desarmada”",
+    "cuerpo": "Las críticas a las grandes tecnológicas de la primera encíclica de León XIV contrastan con el hecho de que la Iglesia no ve problema en comprar valores en esa industria",
+    "fecha": "Tue, 26 May 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-26/un-monje-experto-un-festival-con-karol-g-y-las-inversiones-vaticanas-asi-ha-llegado-el-papa-a-decir-que-la-ia-debe-ser-desarmada.html"
+  },
+  {
+    "titulo": "Ann Dooms, matemática: “En el mundo real, la intuición humana sigue siendo insustituible”",
+    "cuerpo": "Es una de las expertas mundiales en lo que ella y su grupo llaman “matemática digital”: un término propio para distinguir el procesamiento clásico de señales o del análisis de datos más convencional",
+    "fecha": "Tue, 26 May 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/ciencia/2026-05-26/ann-dooms-matematica-en-el-mundo-real-la-intuicion-humana-sigue-siendo-insustituible.html"
+  },
+  {
+    "titulo": "Catastrofistas contra ‘aceleracionistas’: ¿La IA acabará con el mundo o lo salvará?",
+    "cuerpo": "Los académicos Eliezer Yudkowsky y Nate Soares defienden en su nuevo libro que esta tecnología puede llevarnos a la extinción. ¿Hay motivos para creerles?",
+    "fecha": "Sat, 23 May 2026 03:30:01 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-23/catastrofistas-contra-aceleracionistas-la-ia-acabara-con-el-mundo-o-lo-salvara.html"
+  },
+  {
+    "titulo": "¿Por qué hay cada vez más sobresalientes en la universidad? La culpa es de ChatGPT",
+    "cuerpo": "Una nueva investigación revela que al menos 1 de cada 10 trabajos está hecho con la ayuda de la IA. Las carreras donde los alumnos hacen más trampas son Económicas y Periodismo",
+    "fecha": "Thu, 21 May 2026 18:00:14 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-21/por-que-hay-cada-vez-mas-sobresalientes-en-la-universidad-la-culpa-es-de-chatgpt.html"
+  },
+  {
+    "titulo": "El Defensor del Pueblo reclama a las administraciones que expliquen cómo protegen a los menores ante el “peligro extremo” de las redes sociales",
+    "cuerpo": "La solicitud llega después de que el padre de una menor expuesta a contenidos sobre suicidio y autolesiones haya denunciado sin éxito a X",
+    "fecha": "Thu, 21 May 2026 11:49:47 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-21/el-defensor-del-pueblo-reclama-a-las-administraciones-que-expliquen-como-protegen-a-los-menores-ante-el-peligro-extremo-de-las-redes-sociales.html"
+  },
+  {
+    "titulo": "Fin del misterio: la caja sorpresa escondía el coche de siempre (y el del futuro)",
+    "cuerpo": "Durante varios días, un paquete con forma de paralelepípedo que atesoraba el nuevo Volkswagen Polo ha recorrido Madrid. El enigma formaba parte de una campaña para mostrar que el coche, ya cincuentón, se ha renovado de nuevo. Y otra vez, con éxito. Un icono para muchas generaciones que ahora se ha electrificado. Tan Polo como siempre, tan Polo como nunca",
+    "fecha": "Tue, 05 May 2026 10:23:24 GMT",
+    "autor": "El País Tecnología",
+    "categoria_original": "tecnologia",
+    "url": "https://elpais.com/tecnologia/2026-05-05/fin-del-misterio-la-caja-sorpresa-escondia-el-coche-de-siempre-y-el-del-futuro.html"
+  }
+]

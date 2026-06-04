@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "schema": "https://schema.org/",
+    "dc": "http://purl.org/dc/elements/1.1/"
+  },
+  "@type": "schema:NewsArticle",
+  "@id": "http://simanw.org/data/noticia_1",
+  "dc:title": "Avances en IA Generativa revolucionan la industria",
+  "schema:datePublished": "2026-05-10",
+  "schema:author": {
+    "@type": "schema:Person",
+    "name": "María García"
+  },
+  "schema:url": "https://portal.com/noticias/ia-generativa"
+}

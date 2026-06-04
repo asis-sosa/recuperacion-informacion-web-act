@@ -1,0 +1,56 @@
+{
+  "muestras_entrenamiento": 22,
+  "categorias": [
+    "ciencia",
+    "economia",
+    "politica",
+    "salud",
+    "tecnologia",
+    "videojuegos"
+  ],
+  "accuracy_cv": 0.3630952380952381,
+  "distribucion_predicha": {
+    "tecnologia": 20,
+    "ciencia": 13,
+    "salud": 6,
+    "economia": 20,
+    "politica": 7,
+    "videojuegos": 9
+  },
+  "total_clasificadas": 75,
+  "comparacion_modelos": {
+    "Naive Bayes": {
+      "accuracy_mean": 0.5064011379800853,
+      "accuracy_std": 0.019914651493598834,
+      "scores": [
+        0.5263157894736842,
+        0.4864864864864865
+      ]
+    },
+    "SVM Lineal": {
+      "accuracy_mean": 0.4804409672830725,
+      "accuracy_std": 0.03307254623044095,
+      "scores": [
+        0.4473684210526316,
+        0.5135135135135135
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy_mean": 0.37517780938833567,
+      "accuracy_std": 0.13833570412517782,
+      "scores": [
+        0.23684210526315788,
+        0.5135135135135135
+      ]
+    },
+    "Random Forest": {
+      "accuracy_mean": 0.29480796586059743,
+      "accuracy_std": 0.11059743954480798,
+      "scores": [
+        0.18421052631578946,
+        0.40540540540540543
+      ]
+    }
+  },
+  "mejor_modelo_multimodelo": "Naive Bayes"
+}

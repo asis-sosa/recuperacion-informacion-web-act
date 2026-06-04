@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Avances en IA Generativa revolucionan la industria",
+    "cuerpo": "Los nuevos modelos de inteligencia artificial generativa están transformando múltiples industrias y procesos.",
+    "fecha": "2026-05-10",
+    "url": "https://portal.com/noticias/ia-generativa"
+  },
+  {
+    "titulo": "Gobierno lanza portal de datos abiertos con tecnología semántica",
+    "cuerpo": "La plataforma gubernamental ofrece acceso a datasets públicos en formatos RDF y JSON-LD.",
+    "fecha": "2026-05-06",
+    "url": "https://portal.com/noticias/datos-abiertos-semantica"
+  },
+  {
+    "titulo": "Descubrimiento científico sobre cambio climático alarma a expertos",
+    "cuerpo": "Un equipo internacional publicó un estudio preocupante sobre el calentamiento global y sus efectos.",
+    "fecha": "2026-05-08",
+    "url": "https://portal.com/noticias/clima"
+  }
+]

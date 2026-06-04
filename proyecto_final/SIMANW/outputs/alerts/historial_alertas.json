@@ -1,0 +1,90 @@
+[
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 1,
+    "titulo": "Nueva herramienta de inteligencia artificial optimiza procesos empresariales",
+    "timestamp": "2026-06-02 15:20:18"
+  },
+  {
+    "consulta_id": 3,
+    "consulta_nombre": "Alerta Economía",
+    "consulta": "mercados financieros",
+    "noticia_id": 6,
+    "titulo": "Mercados financieros registran crecimiento sostenido",
+    "timestamp": "2026-06-02 15:20:18"
+  },
+  {
+    "consulta_id": 5,
+    "consulta_nombre": "Alerta Clima",
+    "consulta": "cambio climático",
+    "noticia_id": 11,
+    "titulo": "Investigadores estudian nuevas soluciones para el cambio climático",
+    "timestamp": "2026-06-02 15:20:18"
+  },
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 26,
+    "titulo": "Nueva plataforma médica con inteligencia artificial mejora diagnósticos tempranos",
+    "timestamp": "2026-06-02 15:50:54"
+  },
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 41,
+    "titulo": "Empresa tecnológica reporta crecimiento financiero histórico",
+    "timestamp": "2026-06-02 15:50:54"
+  },
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 43,
+    "titulo": "Startups de salud digital atraen nuevas inversiones",
+    "timestamp": "2026-06-02 15:50:54"
+  },
+  {
+    "consulta_id": 4,
+    "consulta_nombre": "Alerta Gobierno",
+    "consulta": "datos abiertos",
+    "noticia_id": 36,
+    "titulo": "Gobierno anuncia portal de datos abiertos para monitorear hospitales",
+    "timestamp": "2026-06-02 15:50:54"
+  },
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 51,
+    "titulo": "Hospital implementa inteligencia artificial para detectar enfermedades tempranas",
+    "timestamp": "2026-06-03 09:08:50"
+  },
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 61,
+    "titulo": "Nueva plataforma de aprendizaje utiliza inteligencia artificial adaptativa",
+    "timestamp": "2026-06-03 09:08:50"
+  },
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 64,
+    "titulo": "Debate legislativo sobre regulación de inteligencia artificial",
+    "timestamp": "2026-06-03 09:08:50"
+  },
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 72,
+    "titulo": "Empresas aceleran adopción de herramientas de inteligencia artificial",
+    "timestamp": "2026-06-03 09:08:50"
+  }
+]

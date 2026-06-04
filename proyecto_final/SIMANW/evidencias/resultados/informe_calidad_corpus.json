@@ -1,0 +1,38 @@
+{
+  "total_registros": 6,
+  "registros_validos": 3,
+  "registros_descartados": 3,
+  "invalidos_o_incompletos": [
+    {
+      "indice": 2,
+      "titulo": "Mercados financieros muestran volatilidad",
+      "motivo": "Cuerpo demasiado corto"
+    },
+    {
+      "indice": 3,
+      "titulo": "Gobierno lanza portal de datos abiertos",
+      "motivo": "Formato de fecha inválido; se esperaba YYYY-MM-DD"
+    }
+  ],
+  "duplicados_exactos": [
+    {
+      "indice": 1,
+      "motivo": "URL duplicada exacta",
+      "duplicado_de": 0
+    }
+  ],
+  "duplicados_casi_identicos": [],
+  "reglas_validez": {
+    "campos_obligatorios": [
+      "titulo",
+      "cuerpo",
+      "fecha",
+      "url"
+    ],
+    "longitud_minima_cuerpo": 40,
+    "formato_fecha": "YYYY-MM-DD",
+    "url": "Debe iniciar con http o https y tener dominio",
+    "duplicado_casi_identico": "similitud de título >= 0.9"
+  },
+  "parrafo_resumen": "Se analizaron 6 registros del corpus rastreado. Se descartaron 3 registros: 2 por campos inválidos o incompletos, 1 por duplicados exactos de URL y 0 por títulos casi idénticos. El corpus depurado conserva 3 noticias listas para el pipeline NLP."
+}

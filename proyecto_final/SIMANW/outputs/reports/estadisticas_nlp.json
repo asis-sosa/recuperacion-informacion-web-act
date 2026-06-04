@@ -1,0 +1,49 @@
+{
+  "total_documentos": 75,
+  "total_tokens": 1152,
+  "vocabulario_total": 673,
+  "stems_unicos": 485,
+  "palabras_frecuentes": [
+    [
+      "resultados",
+      11
+    ],
+    [
+      "inteligencia",
+      10
+    ],
+    [
+      "artificial",
+      10
+    ],
+    [
+      "datos",
+      10
+    ],
+    [
+      "nueva",
+      9
+    ],
+    [
+      "plataforma",
+      9
+    ],
+    [
+      "positivos",
+      8
+    ],
+    [
+      "pacientes",
+      8
+    ],
+    [
+      "videojuegos",
+      8
+    ],
+    [
+      "investigadores",
+      7
+    ]
+  ],
+  "promedio_tokens_doc": 15.36
+}

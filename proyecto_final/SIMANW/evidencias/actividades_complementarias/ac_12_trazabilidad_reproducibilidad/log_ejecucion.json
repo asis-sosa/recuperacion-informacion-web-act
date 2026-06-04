@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-05-29 21:30:01",
+    "etapa": "rastreo",
+    "estado": "ok",
+    "detalle": "120 noticias obtenidas"
+  },
+  {
+    "timestamp": "2026-05-29 21:30:10",
+    "etapa": "control_calidad",
+    "estado": "ok",
+    "detalle": "112 noticias válidas"
+  },
+  {
+    "timestamp": "2026-05-29 21:30:15",
+    "etapa": "nlp",
+    "estado": "ok",
+    "detalle": "Tokenización y stemming completados"
+  },
+  {
+    "timestamp": "2026-05-29 21:30:25",
+    "etapa": "clasificacion",
+    "estado": "ok",
+    "detalle": "112 noticias clasificadas"
+  },
+  {
+    "timestamp": "2026-05-29 21:30:30",
+    "etapa": "busqueda",
+    "estado": "ok",
+    "detalle": "Índice invertido construido"
+  },
+  {
+    "timestamp": "2026-05-29 21:30:40",
+    "etapa": "knowledge_graph",
+    "estado": "ok",
+    "detalle": "1850 triples RDF generados"
+  },
+  {
+    "timestamp": "2026-05-29 21:30:50",
+    "etapa": "reportes",
+    "estado": "ok",
+    "detalle": "Reporte final exportado"
+  }
+]

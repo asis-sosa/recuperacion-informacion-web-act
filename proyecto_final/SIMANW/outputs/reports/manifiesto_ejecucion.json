@@ -1,0 +1,15 @@
+{
+  "proyecto": "SIMANW",
+  "version": "1.0.0",
+  "fecha_ejecucion": "2026-06-03 13:54:49",
+  "documentos_procesados": 75,
+  "triples_knowledge_graph": 960,
+  "artefactos_generados": {
+    "corpus_raw": "data/raw/noticias_raw.json",
+    "corpus_limpio": "data/processed/noticias_limpias.json",
+    "corpus_analizado": "data/processed/noticias_analizadas.json",
+    "knowledge_graph_turtle": "data/rdf/simanw_kg.ttl",
+    "knowledge_graph_jsonld": "data/rdf/simanw_kg.jsonld",
+    "reporte_final": "outputs/reports/reporte_final_simanw.txt"
+  }
+}
