@@ -1,8 +1,8 @@
 {
-  "total_noticias": 75,
-  "total_triples": 960,
+  "total_noticias": 147,
+  "total_triples": 1669,
   "datasets_abiertos": 5,
-  "enlaces_noticias_datasets": 68,
+  "enlaces_noticias_datasets": 125,
   "enlaces_creados_detalle": [
     {
       "noticia": "Nueva herramienta de inteligencia artificial optimiza procesos empresariales",
@@ -101,6 +101,81 @@
     },
     {
       "noticia": "Desarrolladores presentan plataforma de realidad virtual para educación",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Delcy Rodríguez visita India: ¿puede Venezuela convertirse en el nuevo proveedor estrella de petróleo para Nueva Delhi?",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "\"La primera innovación para partos desde los años 50\": el revolucionario dispositivo creado por un mecánico argentino que se empezó a usar en Europa",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Cómo Nvidia desafía a Apple e Intel al anunciar un chip de IA para computadores personales",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Qué es el cortisol, qué función cumple esta hormona y por qué recomiendan bajar sus niveles",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "El legado de Manuel Cebrián, pionero en ver cómo las redes cambian nuestro comportamiento",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "La IA consumirá en 2030 tanta agua como 1.300 millones de personas",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Frances Haugen: “Estamos peor que cuando filtré los documentos de Facebook”",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Tecnología para dormir mejor: apps y dispositivos que funcionan (de verdad)",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Meta lanza planes de pago para WhatsApp, Instagram y Facebook",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Más de 10 millones de menores de edad en África y Asia sufrieron abuso sexual digital: “En internet es muy fácil hacer mucho daño”",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Un monje experto, un festival con Karol G y las inversiones vaticanas: así ha llegado el Papa a decir que “la IA debe ser desarmada”",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Ann Dooms, matemática: “En el mundo real, la intuición humana sigue siendo insustituible”",
+      "dataset": "Presupuesto TIC Federal 2026",
+      "tema": "tecnologia"
+    },
+    {
+      "noticia": "Fin del misterio: la caja sorpresa escondía el coche de siempre (y el del futuro)",
       "dataset": "Presupuesto TIC Federal 2026",
       "tema": "tecnologia"
     },
@@ -205,6 +280,171 @@
       "tema": "economia"
     },
     {
+      "noticia": "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Por qué el origen de la madre de Kim Jong-un podría poner en peligro la legitimidad del régimen de Corea del Norte",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "María Montserrat Alvarado, la mexicana que el Papa nombró como jefa de comunicación y se convertirá en la primera mujer laica en dirigir un \"ministerio\" del Vaticano",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Por qué Venezuela llegó a tener uranio altamente enriquecido y cómo fue la reciente operación secreta para entregárselo a EE.UU.",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Cuándo comienza el Mundial 2026 y otras preguntas sobre la primera Copa del Mundo con 48 selecciones",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Los miles de marineros estresados ​​y exhaustos tras más de 3 meses atrapados por el bloqueo del estrecho de Ormuz",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Al menos un muerto y decenas de heridos en un ataque con drones de Irán contra el aeropuerto de Kuwait",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "El estremecedor caso de Agostina Vega, la adolescente de 14 años que fue asesinada y descuartizada en Argentina",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Las razones de Meliá, Iberostar y Blue Diamond, las mayores cadenas hoteleras de Cuba, para cesar operaciones en la isla \"con efecto inmediato\"",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Al menos 21 muertos en Ucrania en uno de los mayores ataques de Rusia en los últimos meses con más de 700 drones",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "La importancia estratégica del castillo de 900 años de antigüedad que Israel capturó en Líbano",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "\"Mi hermano ahora es una persona completamente distinta\": la metamorfosis del mexicano Temach para convertirse en la mayor estrella de la machosfera en América Latina",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Molly amazónica, la especie de pez de los ríos de México que ha sobrevivido 100.000 años sin machos",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Un golpe de suerte: cómo un desconocido farmacéutico británico inventó por casualidad los fósforos de madera hace 200 años",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "\"Es como si la muerte viniera a buscarnos cada mes\": la pesadilla de vivir con el trastorno disfórico premenstrual",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Por qué las mujeres viven más que los hombres",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "La película que el famoso director Wim Wenders retirará por una escena en la que aparece en topless la actriz Nastassja Kinski con 13 años",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Cómo la nueva película \"Toy Story 5\" muestra el \"horror\" de la adicción de los niños a las pantallas",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Las revelaciones de la nueva película sobre la enigmática supermodelo Kate Moss",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Lo que el precio de una sola taza de café dice sobre la agitación económica actual",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Por qué a Venezuela le falta energía pese a su riqueza petrolera y cómo eso limita su recuperación económica",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Cómo Chile se convirtió en el \"shopping\" de cada vez más compradores argentinos",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "En imágenes: la evacuación de los pasajeros del crucero afectado por el hantavirus en España",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "\"México Moderno\": 8 espectaculares casas que muestran la riqueza arquitectónica del país",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "David Attenborough cumple 100 años: la vida en imágenes del arriesgado documentalista que cambió la forma en que vemos nuestro planeta",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Met Gala 2026: así desfilaron las celebridades en la extravagante cita de la moda en Nueva York",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Cecilia Rikap, economista: “Los centros de datos funcionan como bases militares en territorio extranjero”",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Se acabó la barra libre de la IA: quien pone precio al token decide",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Cómo evitar que WhatsApp te quite tiempo (sin dejar de usarlo)",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Perder 20.000 euros desde una unidad de psiquiatría: el caso que revela las grietas de las apuestas ‘online’",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
+      "noticia": "Zapatillas inteligentes y negocios humanos: la IA como filosofía moral",
+      "dataset": "Indicadores Económicos Mayo 2026",
+      "tema": "economia"
+    },
+    {
       "noticia": "Avances en computación cuántica generan expectativas",
       "dataset": "Emisiones CO2 por Sector 2025",
       "tema": "ciencia"
@@ -270,6 +510,26 @@
       "tema": "ciencia"
     },
     {
+      "noticia": "\"Super El Niño\": los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Gonzalo Moratorio, el científico uruguayo que \"blindó\" a Uruguay del covid-19 y ahora lucha por pagarse un costoso tratamiento contra el cáncer que sufre",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Qué son las \"zonas muertas\" que amenazan al mar Báltico",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
+      "noticia": "Las imágenes de satélite que muestran que los ataques de Irán a instalaciones militares de EE.UU. son mucho más extensos de lo que se reconoce",
+      "dataset": "Emisiones CO2 por Sector 2025",
+      "tema": "ciencia"
+    },
+    {
       "noticia": "La ciberseguridad se convierte en prioridad para organizaciones",
       "dataset": "Indicadores de Salud Digital 2026",
       "tema": "salud"
@@ -296,6 +556,31 @@
     },
     {
       "noticia": "Investigación confirma reducción acelerada de glaciares",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Qué revela sobre nuestra salud el dolor de cabeza que nos da cuando comemos helado",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "\"Había olvidado lo que se siente al estar al aire libre\": cómo es la primera unidad de cuidados intensivos ubicada en una azotea y rodeada de jardines",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Cómo estar apenas 20 minutos en contacto con la naturaleza puede mejorar tu salud",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "5 técnicas de respiración que pueden reducir el estrés en pocos minutos y mejorar tu salud",
+      "dataset": "Indicadores de Salud Digital 2026",
+      "tema": "salud"
+    },
+    {
+      "noticia": "Por qué Marilyn Monroe es quizás el ícono más incomprendido y cómo llegó a significar tanto para mí",
       "dataset": "Indicadores de Salud Digital 2026",
       "tema": "salud"
     },

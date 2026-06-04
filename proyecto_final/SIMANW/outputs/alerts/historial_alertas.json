@@ -86,5 +86,29 @@
     "noticia_id": 72,
     "titulo": "Empresas aceleran adopción de herramientas de inteligencia artificial",
     "timestamp": "2026-06-03 09:08:50"
+  },
+  {
+    "consulta_id": 1,
+    "consulta_nombre": "Alerta IA",
+    "consulta": "inteligencia artificial",
+    "noticia_id": 144,
+    "titulo": "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA",
+    "timestamp": "2026-06-04 07:18:49"
+  },
+  {
+    "consulta_id": 5,
+    "consulta_nombre": "Alerta Clima",
+    "consulta": "cambio climático",
+    "noticia_id": 79,
+    "titulo": "\"Super El Niño\": los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)",
+    "timestamp": "2026-06-04 07:18:49"
+  },
+  {
+    "consulta_id": 5,
+    "consulta_nombre": "Alerta Clima",
+    "consulta": "cambio climático",
+    "noticia_id": 89,
+    "titulo": "Qué son las \"zonas muertas\" que amenazan al mar Báltico",
+    "timestamp": "2026-06-04 07:18:49"
   }
 ]

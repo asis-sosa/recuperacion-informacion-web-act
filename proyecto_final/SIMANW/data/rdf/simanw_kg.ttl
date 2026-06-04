@@ -35,6 +35,111 @@ data:noticia_10 a simanw:Noticia ;
     simanw:tieneCategoria data:categoria_economia ;
     simanw:urlOriginal "https://simanw.local/econ5"^^xsd:anyURI .
 
+data:noticia_100 a simanw:Noticia ;
+    dc:date "2026-05-31"^^xsd:date ;
+    dc:description "Cepeda, senador y víctima de crímenes de Estado, es el candidato izquierdista para las elecciones del país sudamericano."@es ;
+    dc:title "Quién es Iván Cepeda, el filósofo cuyo padre fue asesinado en un crimen de Estado y ahora busca continuar la senda de Petro en Colombia"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c9d3glj965jo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_101 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "Las acusaciones de injerencia de Ecuador añaden tensión a una campaña ya marcada por la polarización y las disputas sobre los resultados electorales."@es ;
+    dc:title "Por qué Iván Cepeda denuncia que el gobierno de Ecuador interfirió en las elecciones de Colombia"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cn9pr3jl40eo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_102 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "Analistas aseguraron a BBC Verify que al menos 20 bases estadounidenses en todo Medio Oriente fueron alcanzadas por misiles y drones lanzados por Teherán desde febrero pasado."@es ;
+    dc:title "Las imágenes de satélite que muestran que los ataques de Irán a instalaciones militares de EE.UU. son mucho más extensos de lo que se reconoce"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cx2185gex67o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_103 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "Bajo la presión de las encuestas y de sus aliados en el Golfo, el gobierno de Donald Trump está impulsando un acuerdo, pero Irán exige concesiones."@es ;
+    dc:title "\"Trump necesita que la guerra termine, pero Irán no se lo va a poner fácil\""@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cj6pjgg4ne6o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_104 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "El entorno del presidente español se ve salpicado por casos de corrupción mientras la oposición le exige elecciones anticipadas."@es ;
+    dc:title "Por qué Pedro Sánchez está en uno de sus peores momentos desde que es presidente del gobierno de España (y el contraste con los elogios que recibe fuera)"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cn7pn3e16dgo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_105 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "Los equipos de rescate se apresuran a encontrar a personas que se teme hayan quedado atrapadas bajo los escombros en Kyiv tras el ataque nocturno con misiles y aviones no tripulados."@es ;
+    dc:title "Al menos 21 muertos en Ucrania en uno de los mayores ataques de Rusia en los últimos meses con más de 700 drones"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/ce3p6d9penlo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_106 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "Objeto de lucha durante siglos, el castillo de Beaufort mantiene su importancia estratégica."@es ;
+    dc:title "La importancia estratégica del castillo de 900 años de antigüedad que Israel capturó en Líbano"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cp9pg43xn0ro?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_107 a simanw:Noticia ;
+    dc:date "2026-05-29"^^xsd:date ;
+    dc:description "La hermana del influencer mexicano El Temach le dice a la BBC que ya no lo reconoce."@es ;
+    dc:title "\"Mi hermano ahora es una persona completamente distinta\": la metamorfosis del mexicano Temach para convertirse en la mayor estrella de la machosfera en América Latina"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/clyp8d390vro?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_108 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "El hallazgo de 67.000 \"cocinas fantasma\" ha desatado preocupaciones sobre la seguridad alimentaria y la feroz competencia en el sector de la comida a domicilio."@es ;
+    dc:title "La ofensiva de China contra las \"cocinas fantasma\" que acaparan las aplicaciones de comida a domicilio"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cgepllprdxgo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_109 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "Durante mucho tiempo se ha dado por hecho que las especies asexuales están condenadas a la extinción desde el punto de vista evolutivo, pero un pez extraordinario ha conseguido sobrevivir 100 000 años sin machos."@es ;
+    dc:title "Molly amazónica, la especie de pez de los ríos de México que ha sobrevivido 100.000 años sin machos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
 data:noticia_11 a simanw:Noticia ;
     dc:date "2026-02-01"^^xsd:date ;
     dc:description "Equipos científicos desarrollan tecnologías enfocadas en reducir emisiones contaminantes."@es ;
@@ -45,6 +150,115 @@ data:noticia_11 a simanw:Noticia ;
     simanw:tieneAutor data:autor_Science_Journal ;
     simanw:tieneCategoria data:categoria_ciencia ;
     simanw:urlOriginal "https://simanw.local/science1"^^xsd:anyURI .
+
+data:noticia_110 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "Jensen Huang, jefe de esta empresa tecnológica, calificó la medida como la \"reinvención de los computadores\"."@es ;
+    dc:title "Cómo Nvidia desafía a Apple e Intel al anunciar un chip de IA para computadores personales"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/clypd3r5p18o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_111 a simanw:Noticia ;
+    dc:date "2026-05-30"^^xsd:date ;
+    dc:description "Aunque el invento se popularizaría en todo el mundo, John Walker nunca patentó su idea y sigue siendo una figura poco conocida."@es ;
+    dc:title "Un golpe de suerte: cómo un desconocido farmacéutico británico inventó por casualidad los fósforos de madera hace 200 años"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cgqp54pp838o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_112 a simanw:Noticia ;
+    dc:date "2026-05-30"^^xsd:date ;
+    dc:description "Es grave y millones de mujeres lo sufren, pero pueden pasar años antes de que les diagnostiquen y traten adecuadamente este trastorno que causa síntomas psicológicos graves y, en ocasiones, físicos."@es ;
+    dc:title "\"Es como si la muerte viniera a buscarnos cada mes\": la pesadilla de vivir con el trastorno disfórico premenstrual"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/crkppvv103jo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_113 a simanw:Noticia ;
+    dc:date "2026-05-31"^^xsd:date ;
+    dc:description "Estudios han revelado que pasar unos minutos caminando por un parque o un bosque puede reducir la presión arterial, la frecuencia cardíaca y los niveles de estrés."@es ;
+    dc:title "Cómo estar apenas 20 minutos en contacto con la naturaleza puede mejorar tu salud"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.024390243902439025"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cvgzd2z5xe7o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_114 a simanw:Noticia ;
+    dc:date "2026-05-28"^^xsd:date ;
+    dc:description "Recientemente la información sobre el cortisol, sus niveles altos y los consejos para bajarlos están por todas partes en redes sociales. Pero ¿qué hay de cierto en ello?"@es ;
+    dc:title "Qué es el cortisol, qué función cumple esta hormona y por qué recomiendan bajar sus niveles"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/clyp01kddwko?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_115 a simanw:Noticia ;
+    dc:date "2026-05-26"^^xsd:date ;
+    dc:description "En todo el mundo, las mujeres viven en promedio cinco años más que los hombres. Los científicos creen que esto puede deberse a variaciones en nuestro comportamiento, así como a algunas diferencias que están incorporadas en nuestra biología."@es ;
+    dc:title "Por qué las mujeres viven más que los hombres"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cwy221qgkzqo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_116 a simanw:Noticia ;
+    dc:date "2026-05-25"^^xsd:date ;
+    dc:description "La ciencia moderna revela que unos pocos minutos dedicados a concentrarse en cómo respiras pueden aportar beneficios a la salud a largo plazo."@es ;
+    dc:title "5 técnicas de respiración que pueden reducir el estrés en pocos minutos y mejorar tu salud"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.05128205128205128"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/ce8pjng9n49o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_117 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "La actriz Nastassja Kinski, que participó en la película cuando tenía 13 años, afirmó que el director no la protegió."@es ;
+    dc:title "La película que el famoso director Wim Wenders retirará por una escena en la que aparece en topless la actriz Nastassja Kinski con 13 años"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c7v920qp8e4o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_118 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "Los precios para llegar a algunos partidos han generado críticas de aficionados, autoridades locales e incluso de la FIFA, y han abierto un debate sobre quién debe pagar la factura logística del Mundial."@es ;
+    dc:title "La controversia por los exorbitantes precios del transporte público para llegar a los estadios del Mundial 2026 en EE.UU."@es ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.018867924528301886"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cvgz2519dvlo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_119 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "Lo que empezó como una curiosidad infantil derivó en años de lectura e investigación para una periodista de la BBC."@es ;
+    dc:title "Por qué Marilyn Monroe es quizás el ícono más incomprendido y cómo llegó a significar tanto para mí"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cewpzxwn50po?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
 
 data:noticia_12 a simanw:Noticia ;
     dc:date "2026-02-02"^^xsd:date ;
@@ -57,6 +271,114 @@ data:noticia_12 a simanw:Noticia ;
     simanw:tieneCategoria data:categoria_economia ;
     simanw:urlOriginal "https://simanw.local/science2"^^xsd:anyURI .
 
+data:noticia_120 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "La última entrega de la saga Toy Story muestra a Woody, Buzz y los demás juguetes compitiendo con una nueva tableta por la atención de los niños."@es ;
+    dc:title "Cómo la nueva película \"Toy Story 5\" muestra el \"horror\" de la adicción de los niños a las pantallas"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cr5py9d9dgno?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_121 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "Una nueva película sobre la vida de la modelo revela detalles nunca antes conocidos."@es ;
+    dc:title "Las revelaciones de la nueva película sobre la enigmática supermodelo Kate Moss"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c4g9v932gpgo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_122 a simanw:Noticia ;
+    dc:date "2026-05-30"^^xsd:date ;
+    dc:description "El café no sólo es un ritual diario para millones de personas, sino también una historia de aranceles, clima, gustos culturales de la Generación Z y astutos caficultores."@es ;
+    dc:title "Lo que el precio de una sola taza de café dice sobre la agitación económica actual"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cg4pw44r4wlo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_123 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "El sucesor de Gustavo Petro gobernará un país con menos pobres, pero con serios retos de orden público."@es ;
+    dc:title "5 gráficos que muestran la Colombia que heredará el próximo presidente"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c893347kw1qo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_124 a simanw:Noticia ;
+    dc:date "2026-05-30"^^xsd:date ;
+    dc:description "Es una de las marcas más influyentes del siglo XX. Triunfó y cayó varias veces y hoy está conquistando una vez más a nuevas generaciones. Esta es la historia de Gap."@es ;
+    dc:title "Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c78qj9zy4j6o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_125 a simanw:Noticia ;
+    dc:date "2026-05-27"^^xsd:date ;
+    dc:description "Venezuela tiene las reservas probadas de crudo más grandes del mundo y un enorme potencial hidroeléctrico, pese a lo cual el país tiene graves problemas con el servicio eléctrico."@es ;
+    dc:title "Por qué a Venezuela le falta energía pese a su riqueza petrolera y cómo eso limita su recuperación económica"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.020833333333333332"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/ckgp97n1l1do?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_126 a simanw:Noticia ;
+    dc:date "2026-05-26"^^xsd:date ;
+    dc:description "Chile se convirtió en un \"centro comercial\" para muchos argentinos que buscan ofertas en el país vecino. Te contamos las razones."@es ;
+    dc:title "Cómo Chile se convirtió en el \"shopping\" de cada vez más compradores argentinos"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c87qyrlz3p3o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_127 a simanw:Noticia ;
+    dc:date "2026-05-23"^^xsd:date ;
+    dc:description "El Comando Sur de EE.UU. realizó maniobras militares en Caracas con autorización del gobierno venezolano de Delcy Rodríguez."@es ;
+    dc:title "Las imágenes del ejercicio militar de EE.UU. en Caracas autorizado por el gobierno de Venezuela"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cdep52y97p4o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_128 a simanw:Noticia ;
+    dc:date "2026-05-10"^^xsd:date ;
+    dc:description "La nave fondeó aguas españolas la madrugada de este domingo."@es ;
+    dc:title "En imágenes: la evacuación de los pasajeros del crucero afectado por el hantavirus en España"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c8jvgpn1rjno?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_129 a simanw:Noticia ;
+    dc:date "2026-05-09"^^xsd:date ;
+    dc:description "Desde un icono escultórico de un maestro del modernismo temprano hasta una remota casa de ensueño de tonos rosados, aquí presentamos algunas viviendas mexicanas extraordinarias."@es ;
+    dc:title "\"México Moderno\": 8 espectaculares casas que muestran la riqueza arquitectónica del país"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c77my8kr2pmo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
 data:noticia_13 a simanw:Noticia ;
     dc:date "2026-03-03"^^xsd:date ;
     dc:description "Los expertos continúan analizando la información obtenida mediante telescopios de alta precisión."@es ;
@@ -68,6 +390,116 @@ data:noticia_13 a simanw:Noticia ;
     simanw:tieneCategoria data:categoria_economia ;
     simanw:urlOriginal "https://simanw.local/science3"^^xsd:anyURI .
 
+data:noticia_130 a simanw:Noticia ;
+    dc:date "2026-05-08"^^xsd:date ;
+    dc:description "El creador de numerosas series documentales que recorrieron el planeta lleva siete décadas explorando la naturaleza."@es ;
+    dc:title "David Attenborough cumple 100 años: la vida en imágenes del arriesgado documentalista que cambió la forma en que vemos nuestro planeta"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c0728v55yxdo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_131 a simanw:Noticia ;
+    dc:date "2026-05-05"^^xsd:date ;
+    dc:description "El evento se celebra cada primer lunes de mayo en el Museo de Arte Metropolitano de Nueva York."@es ;
+    dc:title "Met Gala 2026: así desfilaron las celebridades en la extravagante cita de la moda en Nueva York"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/czx2k5d56x6o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_132 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "A fecha del segundo trimestre de 2026, supera en usuarios mensuales activos a otras rivales del sector"@es ;
+    dc:title "ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html"^^xsd:anyURI .
+
+data:noticia_133 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "La muerte de este investigador español del CSIC deja un vacío en el campo de las ciencias sociales computacionales, del que fue pionero"@es ;
+    dc:title "El legado de Manuel Cebrián, pionero en ver cómo las redes cambian nuestro comportamiento"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-06-04/manuel-cebrian-un-cientifico-dificil-de-catalogar.html"^^xsd:anyURI .
+
+data:noticia_134 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "La experta en dinámicas de poder expone en su último libro la forma en que Google, Microsoft o Amazon controlan las cadenas de valor mundiales"@es ;
+    dc:title "Cecilia Rikap, economista: “Los centros de datos funcionan como bases militares en territorio extranjero”"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-06-04/cecilia-rikap-economista-los-centros-de-datos-funcionan-como-bases-militares-en-territorio-extranjero.html"^^xsd:anyURI .
+
+data:noticia_135 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "Los científicos de la ONU alertan de que “se está minusvalorando” el coste medioambiental de una tecnología que exige cada vez más recursos naturales"@es ;
+    dc:title "La IA consumirá en 2030 tanta agua como 1.300 millones de personas"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-06-03/la-ia-consumira-en-2030-tanta-agua-como-1300-millones-de-personas.html"^^xsd:anyURI .
+
+data:noticia_136 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "La economía mundial y los modelos de negocio no están en manos de ciudadanos y gobiernos, sino de unos pocos accionistas que cambian cuando quieren el paradigma"@es ;
+    dc:title "Se acabó la barra libre de la IA: quien pone precio al token decide"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-06-03/se-acabo-la-barra-libre-de-la-ia-quien-pone-precio-al-token-decide.html"^^xsd:anyURI .
+
+data:noticia_137 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "Repasamos tres funciones de la popular app de mensajería que ayudan a hacer un uso más consciente de ella"@es ;
+    dc:title "Cómo evitar que WhatsApp te quite tiempo (sin dejar de usarlo)"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/tu-tecnologia/2026-06-02/como-evitar-que-whatsapp-te-quite-tiempo-sin-dejar-de-usarlo.html"^^xsd:anyURI .
+
+data:noticia_138 a simanw:Noticia ;
+    dc:date "2026-05-31"^^xsd:date ;
+    dc:description "La ‘garganta profunda’ que expuso los peligros para los adolescentes de las redes sociales considera que la próxima gran batalla legal será contra los personajes de IA con los que interactúan los menores"@es ;
+    dc:title "Frances Haugen: “Estamos peor que cuando filtré los documentos de Facebook”"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-05-31/frances-haugen-estamos-peor-que-cuando-filtre-los-documentos-de-facebook.html"^^xsd:anyURI .
+
+data:noticia_139 a simanw:Noticia ;
+    dc:date "2026-05-30"^^xsd:date ;
+    dc:description "Abogados de usuarios de perfiles vulnerables denuncian que la norma de juego responsable no los protege: ¿Se puede responsabilizar a las empresas de los comportamientos adictivos?"@es ;
+    dc:title "Perder 20.000 euros desde una unidad de psiquiatría: el caso que revela las grietas de las apuestas ‘online’"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-05-30/perder-20000-euros-desde-una-unidad-de-psiquiatria-el-caso-que-revela-las-grietas-de-las-apuestas-online.html"^^xsd:anyURI .
+
 data:noticia_14 a simanw:Noticia ;
     dc:date "2026-03-04"^^xsd:date ;
     dc:description "Nuevos materiales permiten aumentar el rendimiento de sistemas de generación limpia."@es ;
@@ -78,6 +510,94 @@ data:noticia_14 a simanw:Noticia ;
     simanw:tieneAutor data:autor_Science_Journal ;
     simanw:tieneCategoria data:categoria_economia ;
     simanw:urlOriginal "https://simanw.local/science4"^^xsd:anyURI .
+
+data:noticia_140 a simanw:Noticia ;
+    dc:date "2026-05-29"^^xsd:date ;
+    dc:description "‘Smartwatches’, anillos inteligentes y otros dispositivos monitorizan el sueño y ayudan a detectar patrones relacionados con el descanso"@es ;
+    dc:title "Tecnología para dormir mejor: apps y dispositivos que funcionan (de verdad)"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/tu-tecnologia/2026-05-29/tecnologia-para-dormir-mejor-apps-y-dispositivos-que-funcionan-de-verdad.html"^^xsd:anyURI .
+
+data:noticia_141 a simanw:Noticia ;
+    dc:date "2026-05-28"^^xsd:date ;
+    dc:description "Las versiones ‘plus’ de las aplicaciones costarán entre 3 y 5 euros al mes y tendrán “funciones potenciadas”"@es ;
+    dc:title "Meta lanza planes de pago para WhatsApp, Instagram y Facebook"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-05-28/meta-lanza-planes-de-pago-para-whatsapp-instagram-y-facebook.html"^^xsd:anyURI .
+
+data:noticia_142 a simanw:Noticia ;
+    dc:date "2026-05-27"^^xsd:date ;
+    dc:description "Uno de cada seis jóvenes de entre 12 a 17 años ha recibido imágenes sexuales no deseadas, solicitudes para realizar actos en línea o han sido víctimas de extorsión"@es ;
+    dc:title "Más de 10 millones de menores de edad en África y Asia sufrieron abuso sexual digital: “En internet es muy fácil hacer mucho daño”"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-05-27/mas-de-10-millones-de-menores-de-edad-en-africa-y-asia-sufrieron-abuso-sexual-digital-en-internet-es-muy-facil-hacer-mucho-dano.html"^^xsd:anyURI .
+
+data:noticia_143 a simanw:Noticia ;
+    dc:date "2026-05-28"^^xsd:date ;
+    dc:description "Para los legisladores, la dificultad consiste en prever cuáles serán las situaciones por regular sin saber muy bien cómo se concretará la realidad futura"@es ;
+    dc:title "Zapatillas inteligentes y negocios humanos: la IA como filosofía moral"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-humanos-la-ia-como-filosofia-moral.html"^^xsd:anyURI .
+
+data:noticia_144 a simanw:Noticia ;
+    dc:date "2026-05-26"^^xsd:date ;
+    dc:description "El Consejo de Ministros da luz verde a la normativa que traspone el reglamento europeo y que establece qué aplicaciones de inteligencia artificial están prohibidas"@es ;
+    dc:title "Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html"^^xsd:anyURI .
+
+data:noticia_145 a simanw:Noticia ;
+    dc:date "2026-05-26"^^xsd:date ;
+    dc:description "Las críticas a las grandes tecnológicas de la primera encíclica de León XIV contrastan con el hecho de que la Iglesia no ve problema en comprar valores en esa industria"@es ;
+    dc:title "Un monje experto, un festival con Karol G y las inversiones vaticanas: así ha llegado el Papa a decir que “la IA debe ser desarmada”"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.01818181818181818"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-05-26/un-monje-experto-un-festival-con-karol-g-y-las-inversiones-vaticanas-asi-ha-llegado-el-papa-a-decir-que-la-ia-debe-ser-desarmada.html"^^xsd:anyURI .
+
+data:noticia_146 a simanw:Noticia ;
+    dc:date "2026-05-26"^^xsd:date ;
+    dc:description "Es una de las expertas mundiales en lo que ella y su grupo llaman “matemática digital”: un término propio para distinguir el procesamiento clásico de señales o del análisis de datos más convencional"@es ;
+    dc:title "Ann Dooms, matemática: “En el mundo real, la intuición humana sigue siendo insustituible”"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/ciencia/2026-05-26/ann-dooms-matematica-en-el-mundo-real-la-intuicion-humana-sigue-siendo-insustituible.html"^^xsd:anyURI .
+
+data:noticia_147 a simanw:Noticia ;
+    dc:date "2026-05-05"^^xsd:date ;
+    dc:description "Durante varios días, un paquete con forma de paralelepípedo que atesoraba el nuevo Volkswagen Polo ha recorrido Madrid. El enigma formaba parte de una campaña para mostrar que el coche, ya cincuentón, se ha renovado de nuevo. Y otra vez, con éxito. Un icono para muchas generaciones que ahora se ha electrificado. Tan Polo como siempre, tan Polo como nunca"@es ;
+    dc:title "Fin del misterio: la caja sorpresa escondía el coche de siempre (y el del futuro)"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.013333333333333334"^^xsd:float ;
+    simanw:tieneAutor data:autor_El_País_Tecnología ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://elpais.com/tecnologia/2026-05-05/fin-del-misterio-la-caja-sorpresa-escondia-el-coche-de-siempre-y-el-del-futuro.html"^^xsd:anyURI .
 
 data:noticia_15 a simanw:Noticia ;
     dc:date "2026-03-05"^^xsd:date ;
@@ -809,6 +1329,50 @@ data:noticia_75 a simanw:Noticia ;
     simanw:tieneCategoria data:categoria_tecnologia ;
     simanw:urlOriginal "https://simanw.local/extra50"^^xsd:anyURI .
 
+data:noticia_76 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "Las sanciones de EE.UU. contra el conglomerado militar Gaesa precipitan la salida de cadenas como Meliá, Iberostar y Blue Diamond, en un momento en el que el turismo cubano atraviesa una de sus peores crisis."@es ;
+    dc:title "Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.019230769230769232"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_77 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "La visita de Delcy Rodríguez a India destaca el creciente papel de Venezuela en la diversificación petrolera de Delhi."@es ;
+    dc:title "Delcy Rodríguez visita India: ¿puede Venezuela convertirse en el nuevo proveedor estrella de petróleo para Nueva Delhi?"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c3w2g7p8q8jo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_78 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "Muy pocos norcoreanos saben de su existencia, ya que su origen podría poner en peligro la legitimidad del régimen."@es ;
+    dc:title "Por qué el origen de la madre de Kim Jong-un podría poner en peligro la legitimidad del régimen de Corea del Norte"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c2l28qd5vlzo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_79 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "Los científicos temen que los efectos combinados de El Niño y el cambio climático provocado por el ser humano puedan alterar el clima en todo el mundo."@es ;
+    dc:title "\"Super El Niño\": los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
 data:noticia_8 a simanw:Noticia ;
     dc:date "2026-02-03"^^xsd:date ;
     dc:description "La institución considera que la estabilidad financiera actual permite conservar las políticas monetarias vigentes."@es ;
@@ -820,6 +1384,114 @@ data:noticia_8 a simanw:Noticia ;
     simanw:tieneCategoria data:categoria_economia ;
     simanw:urlOriginal "https://simanw.local/econ3"^^xsd:anyURI .
 
+data:noticia_80 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "El destacado virólogo Gonzalo Moratorio, que “blindó” a Uruguay de la pandemia de covid-19, habla de su lucha contra un agresivo tumor cerebral y para conseguir pagar un costoso tratamiento experimental."@es ;
+    dc:title "Gonzalo Moratorio, el científico uruguayo que \"blindó\" a Uruguay del covid-19 y ahora lucha por pagarse un costoso tratamiento contra el cáncer que sufre"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c78k24vex9eo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_81 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "La decisión de León XIV ha sorprendido porque la escogida viene de un medio que fue objeto de críticas por parte del fallecido papa Francisco."@es ;
+    dc:title "María Montserrat Alvarado, la mexicana que el Papa nombró como jefa de comunicación y se convertirá en la primera mujer laica en dirigir un \"ministerio\" del Vaticano"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "negativo" ;
+    simanw:sentimientoScore "-0.019230769230769232"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cvgz2rpgn0yo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_82 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "El medio Axios aseguró que, durante una llamada telefónica el lunes, el presidente le había dicho a Netanyahu que estaba \"malditamente loco\" y lo había acusado de ingratitud."@es ;
+    dc:title "\"Estás completamente loco\": la tensa llamada telefónica entre Trump y Netanyahu que complica las conversaciones con Irán"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/crmpg81lmr3o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_83 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "Las imágenes grabadas por la cámara policial han generado una enorme conmoción en el país y sembrado dudas sobre la actuación de los agentes."@es ;
+    dc:title "La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras ser apuñalado en Reino Unido"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c4g8n0p5w6yo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_84 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "A finales de abril, los gobiernos de Venezuela, Estados Unidos y Reino Unido realizaron una operación para llevarse de Venezuela una carga de uranio altamente enriquecido. BBC Mundo te cuenta cómo fue."@es ;
+    dc:title "Por qué Venezuela llegó a tener uranio altamente enriquecido y cómo fue la reciente operación secreta para entregárselo a EE.UU."@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c78q25x7vy4o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_85 a simanw:Noticia ;
+    dc:date "2026-06-04"^^xsd:date ;
+    dc:description "El Mundial 2026 será el más grande y prolongado de la historia del campeonato. Estas son las claves a seguir en la 43a edición de la Copa del Mundo."@es ;
+    dc:title "Cuándo comienza el Mundial 2026 y otras preguntas sobre la primera Copa del Mundo con 48 selecciones"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c4gx19v45xdo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_86 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "La incertidumbre ha pesado gravemente sobre los 20.000 marineros varados en la zona de guerra."@es ;
+    dc:title "Los miles de marineros estresados ​​y exhaustos tras más de 3 meses atrapados por el bloqueo del estrecho de Ormuz"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c1j26lx341ko?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_87 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "Si sufres dolores de cabeza con frecuencia cuando comes helado, quizá valga la pena averiguar si es algo hereditario en tu familia y revisar también los dolores de cabeza que no están relacionados con el helado."@es ;
+    dc:title "Qué revela sobre nuestra salud el dolor de cabeza que nos da cuando comemos helado"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c242jvdn93jo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_88 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "Irán afirma que el ataque contra Kuwait fue en represalia por ataques estadounidenses anteriores contra un petrolero y una isla iraníes."@es ;
+    dc:title "Al menos un muerto y decenas de heridos en un ataque con drones de Irán contra el aeropuerto de Kuwait"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c152ek2pxxxo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_89 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "Los esfuerzos por recuperar este mar europeo se topan con los retos que suponen la contaminación, el cambio climático y la difícil relación con Rusia."@es ;
+    dc:title "Qué son las \"zonas muertas\" que amenazan al mar Báltico"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_ciencia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c1722jpde91o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
 data:noticia_9 a simanw:Noticia ;
     dc:date "2026-02-04"^^xsd:date ;
     dc:description "El comercio internacional muestra resultados positivos impulsados por el crecimiento de la demanda externa."@es ;
@@ -830,6 +1502,111 @@ data:noticia_9 a simanw:Noticia ;
     simanw:tieneAutor data:autor_Financial_News ;
     simanw:tieneCategoria data:categoria_economia ;
     simanw:urlOriginal "https://simanw.local/econ4"^^xsd:anyURI .
+
+data:noticia_90 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "La policía de Nueva York está llevando a cabo una investigación tras la aparición en las últimas semanas de múltiples videos que muestran a grupos de personas entrando y saliendo del sistema de alcantarillado de la ciudad."@es ;
+    dc:title "La policía de Nueva York investiga videos de hombres saliendo de las alcantarillas de la ciudad"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c202qpeglego?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_91 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "Hasta ahora, más 300 bebés han nacido con la ayuda de este aparato, y ninguno ha presentado moretones ni hematomas, según afirman las autoridades sanitarias y los responsables de la empresa que lo fabrica."@es ;
+    dc:title "\"La primera innovación para partos desde los años 50\": el revolucionario dispositivo creado por un mecánico argentino que se empezó a usar en Europa"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_tecnologia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cdrp4k3xd72o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_92 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "La joven estuvo desaparecida por una semana. Este sábado fue encontrada sin vida en un descampado en el sur de Córdoba."@es ;
+    dc:title "El estremecedor caso de Agostina Vega, la adolescente de 14 años que fue asesinada y descuartizada en Argentina"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cdrp8yxyvnvo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_93 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "EE.UU. amenazó con sanciones a todas las compañías que tuvieran vínculos con el conglomerado empresarial de las Fuerzas Armadas cubanas."@es ;
+    dc:title "Las razones de Meliá, Iberostar y Blue Diamond, las mayores cadenas hoteleras de Cuba, para cesar operaciones en la isla \"con efecto inmediato\""@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_94 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "La sala al aire libre del King's College Hospital de Londres empezará a monitorear cuánto acelera la recuperación de los pacientes enfermos gravemente."@es ;
+    dc:title "\"Había olvidado lo que se siente al estar al aire libre\": cómo es la primera unidad de cuidados intensivos ubicada en una azotea y rodeada de jardines"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_salud ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/clypexw39ero?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_95 a simanw:Noticia ;
+    dc:date "2026-06-02"^^xsd:date ;
+    dc:description "Casi cinco años después de la prohibición de la educación en Afganistán, las jóvenes afirman que han tenido que despedirse de sus sueños."@es ;
+    dc:title "La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado"@es ;
+    simanw:relacionadaConDataset <http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_economia ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cx211g4j1y9o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_96 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "El \"outsider\" derechista y el senador oficialista disputarán un balotaje en junio de resultado incierto pero más difícil para la izquierda que en 2022, señalan expertos."@es ;
+    dc:title "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/cwy2r70lxjmo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_97 a simanw:Noticia ;
+    dc:date "2026-06-03"^^xsd:date ;
+    dc:description "El presidente de EE.UU. hizo público este martes su respaldo al candidato derechista Abelardo de la Espriella de cara a la segunda vuelta de las elecciones presidenciales en Colombia."@es ;
+    dc:title "\"Es un honor darle mi apoyo\": el polémico respaldo de Trump a Abelardo de la Espriella de cara a la segunda vuelta de las presidenciales en Colombia"@es ;
+    simanw:sentimientoEtiqueta "positivo" ;
+    simanw:sentimientoScore "0.017543859649122806"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c3d2gx7r3kyo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_98 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "La primera vuelta de las elecciones en Colombia no dejará un ganador, por lo que el 21 de junio la presidencia se la disputarán los dos candidatos más votados: Abelardo de la Espriella e Iván Cepeda."@es ;
+    dc:title "Abelardo de la Espriella gana la primera vuelta con su nueva derecha y peleará la presidencia de Colombia frente a la izquierda de Iván Cepeda"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/c9d3wz5vjlvo?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
+
+data:noticia_99 a simanw:Noticia ;
+    dc:date "2026-06-01"^^xsd:date ;
+    dc:description "De la Espriella, quien representa a una derecha dura y populista, según expertos, se medirá a Iván Cepeda, candidato de la izquierda petrista."@es ;
+    dc:title "Quién es Abelardo de la Espriella, el empresario que promete gobernar Colombia con \"mano de hierro\" inspirado en Bukele y Milei"@es ;
+    simanw:sentimientoEtiqueta "neutral" ;
+    simanw:sentimientoScore "0.0"^^xsd:float ;
+    simanw:tieneAutor data:autor_BBC_Mundo ;
+    simanw:tieneCategoria data:categoria_politica ;
+    simanw:urlOriginal "https://www.bbc.com/mundo/articles/ce8pn4zlrd7o?at_medium=RSS&at_campaign=rss"^^xsd:anyURI .
 
 simanw:relacionadaConDataset a owl:ObjectProperty .
 
@@ -1059,25 +1836,7 @@ data:autor_Salud_Hoy a simanw:Autor ;
 
 wd:Q7188 rdfs:label "Gobierno"@es .
 
-<http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> a dcat:Dataset ;
-    gob:tema "salud" ;
-    gob:tieneRegistro <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_0>,
-        <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_1>,
-        <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_2> ;
-    dc:publisher "Secretaría de Salud" ;
-    dc:title "Indicadores de Salud Digital 2026"@es .
-
-data:categoria_salud a simanw:Categoria ;
-    rdfs:label "salud"@es ;
-    owl:sameAs wd:Q12136 ;
-    skos:exactMatch wd:Q12136 .
-
 simanw:Categoria a owl:Class .
-
-data:categoria_politica a simanw:Categoria ;
-    rdfs:label "politica"@es ;
-    owl:sameAs wd:Q7188 ;
-    skos:exactMatch wd:Q7188 .
 
 <http://datos.gob.mx/dataset/Economía_de_Videojuegos_2026> a dcat:Dataset ;
     gob:tema "videojuegos" ;
@@ -1092,6 +1851,22 @@ data:categoria_videojuegos a simanw:Categoria ;
     owl:sameAs wd:Q7889 ;
     skos:exactMatch wd:Q7889 .
 
+<http://datos.gob.mx/dataset/Indicadores_de_Salud_Digital_2026> a dcat:Dataset ;
+    gob:tema "salud" ;
+    gob:tieneRegistro <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_0>,
+        <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_1>,
+        <http://datos.gob.mx/registro/Indicadores_de_Salud_Digital_2026_2> ;
+    dc:publisher "Secretaría de Salud" ;
+    dc:title "Indicadores de Salud Digital 2026"@es .
+
+data:categoria_salud a simanw:Categoria ;
+    rdfs:label "salud"@es ;
+    owl:sameAs wd:Q12136 ;
+    skos:exactMatch wd:Q12136 .
+
+data:autor_El_País_Tecnología a simanw:Autor ;
+    foaf:name "El País Tecnología" .
+
 <http://datos.gob.mx/dataset/Emisiones_CO2_por_Sector_2025> a dcat:Dataset ;
     gob:tema "ciencia" ;
     gob:tieneRegistro <http://datos.gob.mx/registro/Emisiones_CO2_por_Sector_2025_0>,
@@ -1105,13 +1880,10 @@ data:categoria_ciencia a simanw:Categoria ;
     owl:sameAs wd:Q336 ;
     skos:exactMatch wd:Q336 .
 
-<http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> a dcat:Dataset ;
-    gob:tema "economia" ;
-    gob:tieneRegistro <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_0>,
-        <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_1>,
-        <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_2> ;
-    dc:publisher "INEGI / Banco de México" ;
-    dc:title "Indicadores Económicos Mayo 2026"@es .
+data:categoria_politica a simanw:Categoria ;
+    rdfs:label "politica"@es ;
+    owl:sameAs wd:Q7188 ;
+    skos:exactMatch wd:Q7188 .
 
 <http://datos.gob.mx/dataset/Presupuesto_TIC_Federal_2026> a dcat:Dataset ;
     gob:tema "tecnologia" ;
@@ -1121,17 +1893,28 @@ data:categoria_ciencia a simanw:Categoria ;
     dc:publisher "Secretaría de Hacienda" ;
     dc:title "Presupuesto TIC Federal 2026"@es .
 
-data:categoria_economia a simanw:Categoria ;
-    rdfs:label "economia"@es ;
-    owl:sameAs wd:Q159810 ;
-    skos:exactMatch wd:Q159810 .
-
 data:categoria_tecnologia a simanw:Categoria ;
     rdfs:label "tecnologia"@es ;
     owl:sameAs wd:Q11016 ;
     skos:exactMatch wd:Q11016 .
 
 simanw:Autor a owl:Class .
+
+<http://datos.gob.mx/dataset/Indicadores_Económicos_Mayo_2026> a dcat:Dataset ;
+    gob:tema "economia" ;
+    gob:tieneRegistro <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_0>,
+        <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_1>,
+        <http://datos.gob.mx/registro/Indicadores_Económicos_Mayo_2026_2> ;
+    dc:publisher "INEGI / Banco de México" ;
+    dc:title "Indicadores Económicos Mayo 2026"@es .
+
+data:categoria_economia a simanw:Categoria ;
+    rdfs:label "economia"@es ;
+    owl:sameAs wd:Q159810 ;
+    skos:exactMatch wd:Q159810 .
+
+data:autor_BBC_Mundo a simanw:Autor ;
+    foaf:name "BBC Mundo" .
 
 simanw:Noticia a owl:Class .
 

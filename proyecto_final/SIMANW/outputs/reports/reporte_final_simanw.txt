@@ -1,30 +1,30 @@
 ======================================================================
  REPORTE AUTOMÁTICO - SISTEMA SIMANW
- Generado: 2026-06-03 13:54:49
+ Generado: 2026-06-04 08:18:37
 ======================================================================
 
 1. RESUMEN EJECUTIVO
 ----------------------------------------
-Noticias procesadas: 75
-Triples en Knowledge Graph: 960
+Noticias procesadas: 147
+Triples en Knowledge Graph: 1669
 Categorías detectadas: 6
-Sentimiento promedio: +0.009
+Sentimiento promedio: +0.004
 Tono general: NEUTRAL
 
 2. DISTRIBUCIÓN POR CATEGORÍA
 ----------------------------------------
-tecnologia      ████████████████████ 20 (26.7%)
-economia        ████████████████████ 20 (26.7%)
-ciencia         █████████████ 13 (17.3%)
-videojuegos     █████████ 9 (12.0%)
-politica        ███████ 7 (9.3%)
-salud           ██████ 6 (8.0%)
+economia        █████████████████████████████████████████████████████ 53 (36.1%)
+tecnologia      ███████████████████████████████████ 35 (23.8%)
+politica        ██████████████████████ 22 (15.0%)
+ciencia         █████████████████ 17 (11.6%)
+salud           ███████████ 11 (7.5%)
+videojuegos     █████████ 9 (6.1%)
 
 3. ANÁLISIS DE SENTIMIENTO
 ----------------------------------------
-neutral     : 33 noticia(s)
-positivo    : 30 noticia(s)
-negativo    : 12 noticia(s)
+neutral     : 96 noticia(s)
+positivo    : 34 noticia(s)
+negativo    : 17 noticia(s)
 
 4. CATÁLOGO DE NOTICIAS
 ----------------------------------------
@@ -402,6 +402,366 @@ negativo    : 12 noticia(s)
    Desarrolladores presentan plataforma de realidad virtual para educación
    Autor: EdTech News
    URL: https://simanw.local/extra50
+
+76. [2026-06-04] [economia] [negativo]
+   Qué supone para Cuba la retirada de las principales multinacionales hoteleras que operaban en el país
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c1423m4m482o?at_medium=RSS&at_campaign=rss
+
+77. [2026-06-04] [tecnologia] [neutral]
+   Delcy Rodríguez visita India: ¿puede Venezuela convertirse en el nuevo proveedor estrella de petróleo para Nueva Delhi?
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c3w2g7p8q8jo?at_medium=RSS&at_campaign=rss
+
+78. [2026-06-04] [economia] [neutral]
+   Por qué el origen de la madre de Kim Jong-un podría poner en peligro la legitimidad del régimen de Corea del Norte
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c2l28qd5vlzo?at_medium=RSS&at_campaign=rss
+
+79. [2026-06-04] [ciencia] [neutral]
+   "Super El Niño": los gráficos que muestran por qué puede ser el fenómeno más extremo en décadas (y cuáles serían sus efectos)
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402?at_medium=RSS&at_campaign=rss
+
+80. [2026-06-04] [ciencia] [neutral]
+   Gonzalo Moratorio, el científico uruguayo que "blindó" a Uruguay del covid-19 y ahora lucha por pagarse un costoso tratamiento contra el cáncer que sufre
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c78k24vex9eo?at_medium=RSS&at_campaign=rss
+
+81. [2026-06-04] [economia] [negativo]
+   María Montserrat Alvarado, la mexicana que el Papa nombró como jefa de comunicación y se convertirá en la primera mujer laica en dirigir un "ministerio" del Vaticano
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cvgz2rpgn0yo?at_medium=RSS&at_campaign=rss
+
+82. [2026-06-03] [politica] [neutral]
+   "Estás completamente loco": la tensa llamada telefónica entre Trump y Netanyahu que complica las conversaciones con Irán
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/crmpg81lmr3o?at_medium=RSS&at_campaign=rss
+
+83. [2026-06-03] [politica] [neutral]
+   La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras ser apuñalado en Reino Unido
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c4g8n0p5w6yo?at_medium=RSS&at_campaign=rss
+
+84. [2026-06-03] [economia] [neutral]
+   Por qué Venezuela llegó a tener uranio altamente enriquecido y cómo fue la reciente operación secreta para entregárselo a EE.UU.
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c78q25x7vy4o?at_medium=RSS&at_campaign=rss
+
+85. [2026-06-04] [economia] [neutral]
+   Cuándo comienza el Mundial 2026 y otras preguntas sobre la primera Copa del Mundo con 48 selecciones
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c4gx19v45xdo?at_medium=RSS&at_campaign=rss
+
+86. [2026-06-03] [economia] [neutral]
+   Los miles de marineros estresados ​​y exhaustos tras más de 3 meses atrapados por el bloqueo del estrecho de Ormuz
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c1j26lx341ko?at_medium=RSS&at_campaign=rss
+
+87. [2026-06-03] [salud] [neutral]
+   Qué revela sobre nuestra salud el dolor de cabeza que nos da cuando comemos helado
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c242jvdn93jo?at_medium=RSS&at_campaign=rss
+
+88. [2026-06-03] [economia] [neutral]
+   Al menos un muerto y decenas de heridos en un ataque con drones de Irán contra el aeropuerto de Kuwait
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c152ek2pxxxo?at_medium=RSS&at_campaign=rss
+
+89. [2026-06-03] [ciencia] [neutral]
+   Qué son las "zonas muertas" que amenazan al mar Báltico
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c1722jpde91o?at_medium=RSS&at_campaign=rss
+
+90. [2026-06-02] [politica] [neutral]
+   La policía de Nueva York investiga videos de hombres saliendo de las alcantarillas de la ciudad
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c202qpeglego?at_medium=RSS&at_campaign=rss
+
+91. [2026-06-02] [tecnologia] [neutral]
+   "La primera innovación para partos desde los años 50": el revolucionario dispositivo creado por un mecánico argentino que se empezó a usar en Europa
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cdrp4k3xd72o?at_medium=RSS&at_campaign=rss
+
+92. [2026-06-02] [economia] [neutral]
+   El estremecedor caso de Agostina Vega, la adolescente de 14 años que fue asesinada y descuartizada en Argentina
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cdrp8yxyvnvo?at_medium=RSS&at_campaign=rss
+
+93. [2026-06-03] [economia] [neutral]
+   Las razones de Meliá, Iberostar y Blue Diamond, las mayores cadenas hoteleras de Cuba, para cesar operaciones en la isla "con efecto inmediato"
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss
+
+94. [2026-06-01] [salud] [neutral]
+   "Había olvidado lo que se siente al estar al aire libre": cómo es la primera unidad de cuidados intensivos ubicada en una azotea y rodeada de jardines
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/clypexw39ero?at_medium=RSS&at_campaign=rss
+
+95. [2026-06-02] [economia] [neutral]
+   La joven de 18 años que huyó a cientos de kilómetros de su hogar en un taxi para escapar del matrimonio forzado
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cx211g4j1y9o?at_medium=RSS&at_campaign=rss
+
+96. [2026-06-01] [politica] [neutral]
+   Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cwy2r70lxjmo?at_medium=RSS&at_campaign=rss
+
+97. [2026-06-03] [politica] [positivo]
+   "Es un honor darle mi apoyo": el polémico respaldo de Trump a Abelardo de la Espriella de cara a la segunda vuelta de las presidenciales en Colombia
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c3d2gx7r3kyo?at_medium=RSS&at_campaign=rss
+
+98. [2026-06-01] [politica] [neutral]
+   Abelardo de la Espriella gana la primera vuelta con su nueva derecha y peleará la presidencia de Colombia frente a la izquierda de Iván Cepeda
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c9d3wz5vjlvo?at_medium=RSS&at_campaign=rss
+
+99. [2026-06-01] [politica] [neutral]
+   Quién es Abelardo de la Espriella, el empresario que promete gobernar Colombia con "mano de hierro" inspirado en Bukele y Milei
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/ce8pn4zlrd7o?at_medium=RSS&at_campaign=rss
+
+100. [2026-05-31] [politica] [neutral]
+   Quién es Iván Cepeda, el filósofo cuyo padre fue asesinado en un crimen de Estado y ahora busca continuar la senda de Petro en Colombia
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c9d3glj965jo?at_medium=RSS&at_campaign=rss
+
+101. [2026-06-01] [politica] [neutral]
+   Por qué Iván Cepeda denuncia que el gobierno de Ecuador interfirió en las elecciones de Colombia
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cn9pr3jl40eo?at_medium=RSS&at_campaign=rss
+
+102. [2026-06-01] [ciencia] [neutral]
+   Las imágenes de satélite que muestran que los ataques de Irán a instalaciones militares de EE.UU. son mucho más extensos de lo que se reconoce
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cx2185gex67o?at_medium=RSS&at_campaign=rss
+
+103. [2026-06-02] [politica] [neutral]
+   "Trump necesita que la guerra termine, pero Irán no se lo va a poner fácil"
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cj6pjgg4ne6o?at_medium=RSS&at_campaign=rss
+
+104. [2026-06-02] [politica] [neutral]
+   Por qué Pedro Sánchez está en uno de sus peores momentos desde que es presidente del gobierno de España (y el contraste con los elogios que recibe fuera)
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cn7pn3e16dgo?at_medium=RSS&at_campaign=rss
+
+105. [2026-06-02] [economia] [neutral]
+   Al menos 21 muertos en Ucrania en uno de los mayores ataques de Rusia en los últimos meses con más de 700 drones
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/ce3p6d9penlo?at_medium=RSS&at_campaign=rss
+
+106. [2026-06-01] [economia] [neutral]
+   La importancia estratégica del castillo de 900 años de antigüedad que Israel capturó en Líbano
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cp9pg43xn0ro?at_medium=RSS&at_campaign=rss
+
+107. [2026-05-29] [economia] [neutral]
+   "Mi hermano ahora es una persona completamente distinta": la metamorfosis del mexicano Temach para convertirse en la mayor estrella de la machosfera en América Latina
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/clyp8d390vro?at_medium=RSS&at_campaign=rss
+
+108. [2026-06-02] [politica] [neutral]
+   La ofensiva de China contra las "cocinas fantasma" que acaparan las aplicaciones de comida a domicilio
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cgepllprdxgo?at_medium=RSS&at_campaign=rss
+
+109. [2026-06-02] [economia] [neutral]
+   Molly amazónica, la especie de pez de los ríos de México que ha sobrevivido 100.000 años sin machos
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&at_campaign=rss
+
+110. [2026-06-01] [tecnologia] [neutral]
+   Cómo Nvidia desafía a Apple e Intel al anunciar un chip de IA para computadores personales
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/clypd3r5p18o?at_medium=RSS&at_campaign=rss
+
+111. [2026-05-30] [economia] [neutral]
+   Un golpe de suerte: cómo un desconocido farmacéutico británico inventó por casualidad los fósforos de madera hace 200 años
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cgqp54pp838o?at_medium=RSS&at_campaign=rss
+
+112. [2026-05-30] [economia] [neutral]
+   "Es como si la muerte viniera a buscarnos cada mes": la pesadilla de vivir con el trastorno disfórico premenstrual
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/crkppvv103jo?at_medium=RSS&at_campaign=rss
+
+113. [2026-05-31] [salud] [positivo]
+   Cómo estar apenas 20 minutos en contacto con la naturaleza puede mejorar tu salud
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cvgzd2z5xe7o?at_medium=RSS&at_campaign=rss
+
+114. [2026-05-28] [tecnologia] [neutral]
+   Qué es el cortisol, qué función cumple esta hormona y por qué recomiendan bajar sus niveles
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/clyp01kddwko?at_medium=RSS&at_campaign=rss
+
+115. [2026-05-26] [economia] [neutral]
+   Por qué las mujeres viven más que los hombres
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cwy221qgkzqo?at_medium=RSS&at_campaign=rss
+
+116. [2026-05-25] [salud] [positivo]
+   5 técnicas de respiración que pueden reducir el estrés en pocos minutos y mejorar tu salud
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/ce8pjng9n49o?at_medium=RSS&at_campaign=rss
+
+117. [2026-06-03] [economia] [neutral]
+   La película que el famoso director Wim Wenders retirará por una escena en la que aparece en topless la actriz Nastassja Kinski con 13 años
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c7v920qp8e4o?at_medium=RSS&at_campaign=rss
+
+118. [2026-06-02] [politica] [negativo]
+   La controversia por los exorbitantes precios del transporte público para llegar a los estadios del Mundial 2026 en EE.UU.
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cvgz2519dvlo?at_medium=RSS&at_campaign=rss
+
+119. [2026-06-01] [salud] [neutral]
+   Por qué Marilyn Monroe es quizás el ícono más incomprendido y cómo llegó a significar tanto para mí
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cewpzxwn50po?at_medium=RSS&at_campaign=rss
+
+120. [2026-06-02] [economia] [neutral]
+   Cómo la nueva película "Toy Story 5" muestra el "horror" de la adicción de los niños a las pantallas
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cr5py9d9dgno?at_medium=RSS&at_campaign=rss
+
+121. [2026-06-02] [economia] [neutral]
+   Las revelaciones de la nueva película sobre la enigmática supermodelo Kate Moss
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c4g9v932gpgo?at_medium=RSS&at_campaign=rss
+
+122. [2026-05-30] [economia] [neutral]
+   Lo que el precio de una sola taza de café dice sobre la agitación económica actual
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cg4pw44r4wlo?at_medium=RSS&at_campaign=rss
+
+123. [2026-06-01] [politica] [neutral]
+   5 gráficos que muestran la Colombia que heredará el próximo presidente
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c893347kw1qo?at_medium=RSS&at_campaign=rss
+
+124. [2026-05-30] [economia] [neutral]
+   Donald y Doris Fisher, la pareja que no pudo encontrar un talle de jeans y terminó creando el gigante de la moda Gap
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c78qj9zy4j6o?at_medium=RSS&at_campaign=rss
+
+125. [2026-05-27] [economia] [negativo]
+   Por qué a Venezuela le falta energía pese a su riqueza petrolera y cómo eso limita su recuperación económica
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/ckgp97n1l1do?at_medium=RSS&at_campaign=rss
+
+126. [2026-05-26] [economia] [neutral]
+   Cómo Chile se convirtió en el "shopping" de cada vez más compradores argentinos
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c87qyrlz3p3o?at_medium=RSS&at_campaign=rss
+
+127. [2026-05-23] [politica] [neutral]
+   Las imágenes del ejercicio militar de EE.UU. en Caracas autorizado por el gobierno de Venezuela
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/cdep52y97p4o?at_medium=RSS&at_campaign=rss
+
+128. [2026-05-10] [economia] [neutral]
+   En imágenes: la evacuación de los pasajeros del crucero afectado por el hantavirus en España
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c8jvgpn1rjno?at_medium=RSS&at_campaign=rss
+
+129. [2026-05-09] [economia] [neutral]
+   "México Moderno": 8 espectaculares casas que muestran la riqueza arquitectónica del país
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c77my8kr2pmo?at_medium=RSS&at_campaign=rss
+
+130. [2026-05-08] [economia] [neutral]
+   David Attenborough cumple 100 años: la vida en imágenes del arriesgado documentalista que cambió la forma en que vemos nuestro planeta
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/c0728v55yxdo?at_medium=RSS&at_campaign=rss
+
+131. [2026-05-05] [economia] [neutral]
+   Met Gala 2026: así desfilaron las celebridades en la extravagante cita de la moda en Nueva York
+   Autor: BBC Mundo
+   URL: https://www.bbc.com/mundo/articles/czx2k5d56x6o?at_medium=RSS&at_campaign=rss
+
+132. [2026-06-04] [tecnologia] [neutral]
+   ChatGPT se convierte en la aplicación más rápida en conseguir 1.000 millones de usuarios
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-06-04/chatgpt-se-convierte-en-la-aplicacion-mas-rapida-en-conseguir-1000-millones-de-usuarios.html
+
+133. [2026-06-04] [tecnologia] [neutral]
+   El legado de Manuel Cebrián, pionero en ver cómo las redes cambian nuestro comportamiento
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-06-04/manuel-cebrian-un-cientifico-dificil-de-catalogar.html
+
+134. [2026-06-04] [economia] [neutral]
+   Cecilia Rikap, economista: “Los centros de datos funcionan como bases militares en territorio extranjero”
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-06-04/cecilia-rikap-economista-los-centros-de-datos-funcionan-como-bases-militares-en-territorio-extranjero.html
+
+135. [2026-06-03] [tecnologia] [neutral]
+   La IA consumirá en 2030 tanta agua como 1.300 millones de personas
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-06-03/la-ia-consumira-en-2030-tanta-agua-como-1300-millones-de-personas.html
+
+136. [2026-06-03] [economia] [neutral]
+   Se acabó la barra libre de la IA: quien pone precio al token decide
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-06-03/se-acabo-la-barra-libre-de-la-ia-quien-pone-precio-al-token-decide.html
+
+137. [2026-06-02] [economia] [neutral]
+   Cómo evitar que WhatsApp te quite tiempo (sin dejar de usarlo)
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/tu-tecnologia/2026-06-02/como-evitar-que-whatsapp-te-quite-tiempo-sin-dejar-de-usarlo.html
+
+138. [2026-05-31] [tecnologia] [neutral]
+   Frances Haugen: “Estamos peor que cuando filtré los documentos de Facebook”
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-05-31/frances-haugen-estamos-peor-que-cuando-filtre-los-documentos-de-facebook.html
+
+139. [2026-05-30] [economia] [neutral]
+   Perder 20.000 euros desde una unidad de psiquiatría: el caso que revela las grietas de las apuestas ‘online’
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-05-30/perder-20000-euros-desde-una-unidad-de-psiquiatria-el-caso-que-revela-las-grietas-de-las-apuestas-online.html
+
+140. [2026-05-29] [tecnologia] [neutral]
+   Tecnología para dormir mejor: apps y dispositivos que funcionan (de verdad)
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/tu-tecnologia/2026-05-29/tecnologia-para-dormir-mejor-apps-y-dispositivos-que-funcionan-de-verdad.html
+
+141. [2026-05-28] [tecnologia] [neutral]
+   Meta lanza planes de pago para WhatsApp, Instagram y Facebook
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-05-28/meta-lanza-planes-de-pago-para-whatsapp-instagram-y-facebook.html
+
+142. [2026-05-27] [tecnologia] [neutral]
+   Más de 10 millones de menores de edad en África y Asia sufrieron abuso sexual digital: “En internet es muy fácil hacer mucho daño”
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-05-27/mas-de-10-millones-de-menores-de-edad-en-africa-y-asia-sufrieron-abuso-sexual-digital-en-internet-es-muy-facil-hacer-mucho-dano.html
+
+143. [2026-05-28] [economia] [neutral]
+   Zapatillas inteligentes y negocios humanos: la IA como filosofía moral
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-05-28/zapatillas-inteligentes-y-negocios-humanos-la-ia-como-filosofia-moral.html
+
+144. [2026-05-26] [tecnologia] [neutral]
+   Prohibición de los ‘deepfakes’ sexuales y multas millonarias: el Gobierno aprueba su ley de IA
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-05-26/prohibicion-de-los-deepfakes-sexuales-y-multas-millonarias-el-gobierno-aprueba-su-ley-de-ia.html
+
+145. [2026-05-26] [tecnologia] [negativo]
+   Un monje experto, un festival con Karol G y las inversiones vaticanas: así ha llegado el Papa a decir que “la IA debe ser desarmada”
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-05-26/un-monje-experto-un-festival-con-karol-g-y-las-inversiones-vaticanas-asi-ha-llegado-el-papa-a-decir-que-la-ia-debe-ser-desarmada.html
+
+146. [2026-05-26] [tecnologia] [neutral]
+   Ann Dooms, matemática: “En el mundo real, la intuición humana sigue siendo insustituible”
+   Autor: El País Tecnología
+   URL: https://elpais.com/ciencia/2026-05-26/ann-dooms-matematica-en-el-mundo-real-la-intuicion-humana-sigue-siendo-insustituible.html
+
+147. [2026-05-05] [tecnologia] [positivo]
+   Fin del misterio: la caja sorpresa escondía el coche de siempre (y el del futuro)
+   Autor: El País Tecnología
+   URL: https://elpais.com/tecnologia/2026-05-05/fin-del-misterio-la-caja-sorpresa-escondia-el-coche-de-siempre-y-el-del-futuro.html
 
 
 5. CAPACIDADES DEMOSTRADAS

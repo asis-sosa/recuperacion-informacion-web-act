@@ -1,9 +1,9 @@
 {
   "proyecto": "SIMANW",
   "version": "1.0.0",
-  "fecha_ejecucion": "2026-06-03 13:54:49",
-  "documentos_procesados": 75,
-  "triples_knowledge_graph": 960,
+  "fecha_ejecucion": "2026-06-04 08:18:37",
+  "documentos_procesados": 147,
+  "triples_knowledge_graph": 1669,
   "artefactos_generados": {
     "corpus_raw": "data/raw/noticias_raw.json",
     "corpus_limpio": "data/processed/noticias_limpias.json",

@@ -9,6 +9,7 @@ from modules.analytics.timeline import AnalizadorTemporal
 from modules.crawler.crawler import RastreadorNoticias
 from modules.crawler.paginated import RastreadorPaginado
 from modules.crawler.rss_reader import LectorRSS
+from modules.crawler.corpus_manager import GestorCorpus
 from modules.nlp.quality import ControlCalidadCorpus, cargar_json, guardar_json
 from modules.nlp.pipeline import PipelineNLP
 from modules.nlp.discourse import AnalisisDiscurso
@@ -394,6 +395,36 @@ elif seccion == "Buscador":
                             fuente=r.get("fuente"),
                             url=r.get("url")
                         )
+
+                if resultados:
+                    resultados_externos = [
+                        r for r in resultados
+                        if r.get("fuente") in ["Web externa"] or str(r.get("fuente", "")).startswith("RSS")
+                    ]
+                
+                    if resultados_externos:
+                        st.markdown("---")
+                        st.subheader("Guardar resultados externos")
+                
+                        st.write(
+                            "Estos resultados vienen de RSS o Web externa. "
+                            "Puedes guardarlos en el corpus base para que el sistema los procese."
+                        )
+                
+                        if st.button("Guardar resultados externos en el corpus"):
+                            gestor = GestorCorpus()
+                            resumen_guardado = gestor.agregar_noticias(resultados_externos)
+                
+                            st.success(
+                                f"Noticias agregadas: {len(resumen_guardado['agregadas'])}. "
+                                f"Duplicadas omitidas: {len(resumen_guardado['duplicadas'])}. "
+                                f"Total en corpus base: {resumen_guardado['total_corpus']}."
+                            )
+                
+                            st.info(
+                                "Ahora ejecuta el pipeline completo desde Inicio para que estas noticias "
+                                "pasen por calidad, NLP, clasificación, sentimiento, buscador, chatbot y Knowledge Graph."
+                            )
 
 elif seccion == "Rastreo paginado":
     st.title("Rastreo paginado")

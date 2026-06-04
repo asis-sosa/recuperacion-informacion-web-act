@@ -1,49 +1,49 @@
 {
-  "total_documentos": 75,
-  "total_tokens": 1152,
-  "vocabulario_total": 673,
-  "stems_unicos": 485,
+  "total_documentos": 147,
+  "total_tokens": 2772,
+  "vocabulario_total": 1691,
+  "stems_unicos": 1255,
   "palabras_frecuentes": [
     [
-      "resultados",
-      11
+      "nueva",
+      19
     ],
     [
-      "inteligencia",
-      10
+      "cómo",
+      15
     ],
     [
-      "artificial",
-      10
+      "años",
+      15
     ],
     [
       "datos",
-      10
+      12
     ],
     [
-      "nueva",
-      9
+      "resultados",
+      12
+    ],
+    [
+      "inteligencia",
+      11
+    ],
+    [
+      "artificial",
+      11
+    ],
+    [
+      "muestran",
+      11
+    ],
+    [
+      "nuevo",
+      10
     ],
     [
       "plataforma",
       9
-    ],
-    [
-      "positivos",
-      8
-    ],
-    [
-      "pacientes",
-      8
-    ],
-    [
-      "videojuegos",
-      8
-    ],
-    [
-      "investigadores",
-      7
     ]
   ],
-  "promedio_tokens_doc": 15.36
+  "promedio_tokens_doc": 18.857142857142858
 }

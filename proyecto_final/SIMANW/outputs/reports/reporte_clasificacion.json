@@ -10,45 +10,45 @@
   ],
   "accuracy_cv": 0.3630952380952381,
   "distribucion_predicha": {
-    "tecnologia": 20,
-    "ciencia": 13,
-    "salud": 6,
-    "economia": 20,
-    "politica": 7,
+    "tecnologia": 35,
+    "ciencia": 17,
+    "salud": 11,
+    "economia": 53,
+    "politica": 22,
     "videojuegos": 9
   },
-  "total_clasificadas": 75,
+  "total_clasificadas": 147,
   "comparacion_modelos": {
     "Naive Bayes": {
-      "accuracy_mean": 0.5064011379800853,
-      "accuracy_std": 0.019914651493598834,
+      "accuracy_mean": 0.49620510921880784,
+      "accuracy_std": 0.05784894483524622,
       "scores": [
-        0.5263157894736842,
-        0.4864864864864865
+        0.5540540540540541,
+        0.4383561643835616
       ]
     },
     "SVM Lineal": {
-      "accuracy_mean": 0.4804409672830725,
-      "accuracy_std": 0.03307254623044095,
+      "accuracy_mean": 0.46232876712328763,
+      "accuracy_std": 0.03767123287671234,
       "scores": [
-        0.4473684210526316,
-        0.5135135135135135
+        0.5,
+        0.4246575342465753
       ]
     },
     "Logistic Regression": {
-      "accuracy_mean": 0.37517780938833567,
-      "accuracy_std": 0.13833570412517782,
+      "accuracy_mean": 0.2585153646797482,
+      "accuracy_std": 0.0017586079229914842,
       "scores": [
-        0.23684210526315788,
-        0.5135135135135135
+        0.25675675675675674,
+        0.2602739726027397
       ]
     },
     "Random Forest": {
-      "accuracy_mean": 0.29480796586059743,
-      "accuracy_std": 0.11059743954480798,
+      "accuracy_mean": 0.36079229914846356,
+      "accuracy_std": 0.03646797482413919,
       "scores": [
-        0.18421052631578946,
-        0.40540540540540543
+        0.32432432432432434,
+        0.3972602739726027
       ]
     }
   },
