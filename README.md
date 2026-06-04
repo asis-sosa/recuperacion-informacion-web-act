@@ -20,7 +20,7 @@ Repositorio que contiene las actividades de la materia de Recuperacion de la Inf
 - Actividad 14: Búsqueda y Recuperación de Información.
 - Actividad 15: Actividad Previa Web Semantica.
 - Actividad 16: Actividades Extras Web Semantica.
-- Actividad 17: Proyecto Final: Sistema Inteligente de Monitoreo y Análisis de Noticias Web 2026 Enero Junio - En Proceso.
+- Actividad 17: Proyecto Final: Sistema Inteligente de Monitoreo y Análisis de Noticias Web 2026 Enero Junio
 
 ## Autor
 Sebastian Asis Sosa Santiago
